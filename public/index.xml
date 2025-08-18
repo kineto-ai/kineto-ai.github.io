@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KINETO.AI on Kineto.ai</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in KINETO.AI on Kineto.ai</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>contact@kineto.ai (Antonio Rueda-Toicen)</managingEditor>
+    <webMaster>contact@kineto.ai (Antonio Rueda-Toicen)</webMaster>
+    <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/impressum/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate><author>contact@kineto.ai (Antonio Rueda-Toicen)</author>
+      <guid>http://localhost:1313/impressum/</guid>
+      <description>&lt;h1 id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Angaben gemäß § 5 TMG:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kineto.ai&lt;br&gt;&#xA;Antonio Rueda-Toicen&lt;br&gt;&#xA;[Ihre Straße und Hausnummer]&lt;br&gt;&#xA;[PLZ] [Stadt]&lt;br&gt;&#xA;Deutschland&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kontakt:&lt;/strong&gt;&lt;br&gt;&#xA;Telefon: [Ihre Telefonnummer]&lt;br&gt;&#xA;E-Mail: &lt;a href=&#34;mailto:contact@kineto.ai&#34;&gt;contact@kineto.ai&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:&lt;/strong&gt;&lt;br&gt;&#xA;Antonio Rueda-Toicen&lt;br&gt;&#xA;[Ihre Anschrift]&lt;/p&gt;&#xA;&lt;h2 id=&#34;haftungsausschluss&#34;&gt;Haftungsausschluss&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Haftung für Inhalte&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><author>contact@kineto.ai (Antonio Rueda-Toicen)</author>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;&#xA;&lt;p&gt;Ready to upskill in artificial intelligence?&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:contact@kineto.ai&#34;&gt;contact@kineto.ai&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Office Address:&lt;/strong&gt;&lt;br&gt;&#xA;Kineto.ai UG&lt;br&gt;&#xA;Leibnizstrasse 85&#xA;10625 Berlin&lt;br&gt;&#xA;Germany&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;how-we-can-help&#34;&gt;How We Can Help&lt;/h2&gt;&#xA;&lt;h3 id=&#34;free-consultation&#34;&gt;&lt;strong&gt;Free Consultation&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Schedule a complimentary 30-minute consultation to discuss your objectives and explore potential solutions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ai-readiness-assessment&#34;&gt;&lt;strong&gt;AI Readiness Assessment&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Get a comprehensive evaluation of your organization&amp;rsquo;s readiness for AI training and implementation.&lt;/p&gt;&#xA;&lt;h3 id=&#34;custom-proposal&#34;&gt;&lt;strong&gt;Custom Proposal&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Receive a detailed proposal tailored to your specific business needs and objectives.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Kineto.ai</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@kineto.ai (Antonio Rueda-Toicen)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about-kinetoai&#34;&gt;About Kineto.ai&lt;/h1&gt;&#xA;&lt;p&gt;Kineto.ai is a leading artificial intelligence consultancy based in Berlin, Germany, dedicated to helping organizations harness the transformative power of AI technologies.&lt;/p&gt;&#xA;&lt;p&gt;We bridge the gap between cutting-edge AI research and practical business applications.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;why-kinetoai&#34;&gt;Why Kineto.ai?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;business-first-approach&#34;&gt;&lt;strong&gt;Business-First Approach&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;We start with your business challenges, not the technology. Our consultants work closely with your team to understand your specific needs and develop AI solutions that create real business value.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@kineto.ai (Antonio Rueda-Toicen)</author>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;h1 id=&#34;datenschutzerklärung--privacy-policy&#34;&gt;Datenschutzerklärung / Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Letzte Aktualisierung: 15. Januar 2024&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-datenschutz-auf-einen-blick&#34;&gt;1. Datenschutz auf einen Blick&lt;/h2&gt;&#xA;&lt;h3 id=&#34;allgemeine-hinweise&#34;&gt;Allgemeine Hinweise&lt;/h3&gt;&#xA;&lt;p&gt;Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.&lt;/p&gt;&#xA;&lt;h3 id=&#34;datenerfassung-auf-dieser-website&#34;&gt;Datenerfassung auf dieser Website&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wer ist verantwortlich für die Datenerfassung auf dieser Website?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Abschnitt &amp;ldquo;Hinweis zur verantwortlichen Stelle&amp;rdquo; in dieser Datenschutzerklärung entnehmen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>KINETO.AI</title>
+      <link>http://localhost:1313/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@kineto.ai (Antonio Rueda-Toicen)</author>
+      <guid>http://localhost:1313/home/</guid>
+      <description>&lt;h2 id=&#34;corporate-ai-training-solutions&#34;&gt;Corporate AI Training Solutions&lt;/h2&gt;&#xA;&lt;p&gt;Kineto.ai delivers hands-on training in computer vision, modern AI, and machine learning for enterprise teams. We help organizations build internal AI capabilities through practical, results-focused education.&lt;/p&gt;&#xA;&lt;h2 id=&#34;training-focus-areas&#34;&gt;Training Focus Areas&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Computer vision applications and implementation&lt;/li&gt;&#xA;&lt;li&gt;Modern AI frameworks and tools&lt;/li&gt;&#xA;&lt;li&gt;Machine learning model development and deployment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;our-approach&#34;&gt;Our Approach&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Assessment&lt;/strong&gt; Evaluate current team skills and business AI needs&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Custom Curriculum&lt;/strong&gt; Design training programs for your specific use cases&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hands-on Learning&lt;/strong&gt; Practical workshops with real data and business problems&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Implementation Support&lt;/strong&gt; Guidance on applying new skills to production systems&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Why Kineto.ai&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

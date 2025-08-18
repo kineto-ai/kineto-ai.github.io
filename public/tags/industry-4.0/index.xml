@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Industry 4.0 on Kineto.ai</title>
+    <link>http://localhost:59336/tags/industry-4.0/</link>
+    <description>Recent content in Industry 4.0 on Kineto.ai</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>contact@kineto.ai (Antonio Rueda-Toicen)</managingEditor>
+    <webMaster>contact@kineto.ai (Antonio Rueda-Toicen)</webMaster>
+    <lastBuildDate>Mon, 22 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:59336/tags/industry-4.0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI in German Manufacturing: Industry 4.0 Success Stories</title>
+      <link>http://localhost:59336/blog/2024-01-22-ai-manufacturing-germany/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate><author>contact@kineto.ai (Antonio Rueda-Toicen)</author>
+      <guid>http://localhost:59336/blog/2024-01-22-ai-manufacturing-germany/</guid>
+      <description>&lt;h1 id=&#34;ai-in-german-manufacturing-industry-40-success-stories&#34;&gt;AI in German Manufacturing: Industry 4.0 Success Stories&lt;/h1&gt;&#xA;&lt;p&gt;Germany&amp;rsquo;s manufacturing sector, renowned for precision engineering and innovation, is at the forefront of the Fourth Industrial Revolution. The integration of artificial intelligence into manufacturing processes is transforming how German companies design, produce, and deliver products to global markets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-german-manufacturing-advantage&#34;&gt;The German Manufacturing Advantage&lt;/h2&gt;&#xA;&lt;p&gt;German manufacturing has always been synonymous with quality, precision, and reliability. Today, these traditional strengths are being amplified by AI technologies, creating new opportunities for:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

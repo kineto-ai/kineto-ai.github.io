@@ -1,0 +1,72 @@
+baseURL = "https://kineto.ai"
+languageCode = "en-us"
+title = "Kineto.ai"
+theme = "beautifulhugo"
+
+[params]
+  subtitle = "Upskilling Professionals in Artificial Intelligence"
+  logo = "/img/logo_white_bg.png"
+  favicon = "/img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  since = 2025
+  commit = false
+  rss = true
+  comments = false
+  readingTime = false
+  wordCount = false
+  useHLJS = true
+  socialShare = false
+  delayDisqus = false
+  showRelatedPosts = false
+  hideAuthor = false
+  gcse = ""
+  
+  # Cookie consent
+  cookieConsent = true
+  cookieConsentText = "This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies."
+  cookieConsentButton = "Accept"
+
+  # Homepage carousel images
+ bigimg = [{src = "/img/triangle.jpg"}, {src = "/img/sphere.jpg"}, {src = "/img/hexagon.jpg"}]
+
+[params.author]
+  name = "Antonio Rueda-Toicen"
+  website = "https://kineto.ai"
+  email = "contact@kineto.ai"
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 3
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+  [languages.de]
+    languageName = "Deutsch"
+    weight = 2
+    title = "Kineto.ai - KI-Beratung"
+    [languages.de.params]
+      subtitle = "Unternehmen mit Künstlicher Intelligenz transformieren"

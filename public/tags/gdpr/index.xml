@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GDPR on Kineto.ai</title>
+    <link>http://localhost:59336/tags/gdpr/</link>
+    <description>Recent content in GDPR on Kineto.ai</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>contact@kineto.ai (Antonio Rueda-Toicen)</managingEditor>
+    <webMaster>contact@kineto.ai (Antonio Rueda-Toicen)</webMaster>
+    <lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:59336/tags/gdpr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GDPR Compliance in AI: A German Perspective</title>
+      <link>http://localhost:59336/blog/2024-01-08-gdpr-compliance-ai/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate><author>contact@kineto.ai (Antonio Rueda-Toicen)</author>
+      <guid>http://localhost:59336/blog/2024-01-08-gdpr-compliance-ai/</guid>
+      <description>&lt;h1 id=&#34;gdpr-compliance-in-ai-a-german-perspective&#34;&gt;GDPR Compliance in AI: A German Perspective&lt;/h1&gt;&#xA;&lt;p&gt;As artificial intelligence becomes increasingly integrated into business operations, organizations must navigate the complex landscape of data protection regulations. In Germany and the broader European Union, the General Data Protection Regulation (GDPR) sets strict requirements for how personal data is collected, processed, and stored.&lt;/p&gt;&#xA;&lt;h2 id=&#34;understanding-gdpr-in-the-ai-context&#34;&gt;Understanding GDPR in the AI Context&lt;/h2&gt;&#xA;&lt;p&gt;The GDPR, implemented in May 2018, establishes comprehensive rules for data protection that directly impact AI development and deployment. For German businesses implementing AI solutions, compliance isn&amp;rsquo;t just a legal requirement—it&amp;rsquo;s a competitive advantage that builds customer trust.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
