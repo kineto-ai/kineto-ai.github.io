@@ -25,6 +25,9 @@ theme = "beautifulhugo"
   cookieConsentText = "This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies."
   cookieConsentButton = "Accept"
 
+  # Homepage carousel images
+  bigimg = [{src = "/img/triangle.jpg"}, {src = "/img/sphere.jpg"}, {src = "/img/hexagon.jpg"}]
+
 
 [params.author]
   name = "Antonio Rueda-Toicen"
