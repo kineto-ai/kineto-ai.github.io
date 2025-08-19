@@ -1,70 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kineto.ai</title>
-    <link>http://localhost:49992/</link>
-    <description>Recent content on Kineto.ai</description>
+    <title>KINETO on Kineto.ai</title>
+    <link>http://localhost:60206/</link>
+    <description>Recent content in KINETO on Kineto.ai</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>contact@kineto.ai (Antonio Rueda-Toicen)</managingEditor>
     <webMaster>contact@kineto.ai (Antonio Rueda-Toicen)</webMaster>
     <lastBuildDate>Tue, 19 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:49992/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60206/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terms of Service</title>
-      <link>http://localhost:49992/terms-of-service/</link>
+      <link>http://localhost:60206/terms-of-service/</link>
       <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate><author>contact@kineto.ai (Antonio Rueda-Toicen)</author>
-      <guid>http://localhost:49992/terms-of-service/</guid>
+      <guid>http://localhost:60206/terms-of-service/</guid>
       <description>&lt;h2 id=&#34;terms-of-service&#34;&gt;Terms of Service&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Last updated: August 19, 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-scope-of-application&#34;&gt;1. Scope of Application&lt;/h2&gt;&#xA;&lt;p&gt;1.1 These Terms of Service (hereinafter &amp;ldquo;Terms&amp;rdquo;) apply to all business relationships between Kineto UG, Leibnizstrasse 85, 10625 Berlin, Germany (hereinafter &amp;ldquo;Service Provider&amp;rdquo; or &amp;ldquo;we&amp;rdquo;) and its clients (hereinafter &amp;ldquo;Client&amp;rdquo; or &amp;ldquo;you&amp;rdquo;).&lt;/p&gt;&#xA;&lt;p&gt;1.2 These Terms apply exclusively. Deviating, conflicting or supplementary general terms and conditions of the Client shall not become part of the contract unless their validity is expressly agreed to in writing.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:49992/impressum/</link>
+      <link>http://localhost:60206/impressum/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate><author>contact@kineto.ai (Antonio Rueda-Toicen)</author>
-      <guid>http://localhost:49992/impressum/</guid>
+      <guid>http://localhost:60206/impressum/</guid>
       <description>&lt;h2 id=&#34;impressum&#34;&gt;Impressum&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Angaben gemäß § 5 TMG:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:&lt;/p&gt;&#xA;&lt;p&gt;Kineto UG&lt;br&gt;&#xA;Leibnizstrasse 85&lt;br&gt;&#xA;10625 Berlin&lt;br&gt;&#xA;Deutschland&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kontakt:&lt;/strong&gt;&lt;br&gt;&#xA;Telefon: +49(0)179 571 78 63&#xA;E-Mail: &lt;a href=&#34;mailto:contact@kineto.ai&#34;&gt;contact@kineto.ai&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Vertreter&lt;/strong&gt;&lt;br&gt;&#xA;Antonio Ernesto Rueda Toicen, Geschäftsführer&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Registereintrag:&lt;/strong&gt;&#xA;Eintragung im Handelsregister.&#xA;Registergericht: Amtsgericht Charlottenburg&#xA;Registernummer: HRB 271436 B&lt;/p&gt;&#xA;&lt;h2 id=&#34;haftungsausschluss&#34;&gt;Haftungsausschluss&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Haftung für Inhalte&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Legal Notice</title>
-      <link>http://localhost:49992/legal-notice/</link>
+      <link>http://localhost:60206/legal-notice/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate><author>contact@kineto.ai (Antonio Rueda-Toicen)</author>
-      <guid>http://localhost:49992/legal-notice/</guid>
+      <guid>http://localhost:60206/legal-notice/</guid>
       <description>&lt;h2 id=&#34;legal-notice&#34;&gt;Legal Notice&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Information according to § 5 TMG:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Responsible for content according to § 55 Abs. 2 RStV:&lt;/p&gt;&#xA;&lt;p&gt;Kineto UG&lt;br&gt;&#xA;Leibnizstrasse 85&lt;br&gt;&#xA;10625 Berlin&lt;br&gt;&#xA;Germany&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt;&lt;br&gt;&#xA;Phone: +49(0)179 571 78 63&lt;br&gt;&#xA;E-Mail: &lt;a href=&#34;mailto:contact@kineto.ai&#34;&gt;contact@kineto.ai&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Representative&lt;/strong&gt;&lt;br&gt;&#xA;Antonio Ernesto Rueda Toicen, Managing Director&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Commercial Register:&lt;/strong&gt;&lt;br&gt;&#xA;Registration in the Commercial Register.&lt;br&gt;&#xA;Register Court: Amtsgericht Charlottenburg&lt;br&gt;&#xA;Registration Number: HRB 271436 B&lt;/p&gt;&#xA;&lt;h2 id=&#34;exclusion-of-liability&#34;&gt;Exclusion of Liability&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Liability for Content&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The contents of our pages were created with great care. However, we cannot guarantee the correctness, completeness and accuracy of the contents. As a service provider, we are responsible for our own content on these pages according to Section 7 paragraph 1 of TMG. According to Sections 8 to 10 of TMG, as a service provider, we are not obligated to supervise transmitted or stored third-party information or to investigate circumstances which indicate an illegal activity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact Us</title>
-      <link>http://localhost:49992/contact/</link>
+      <link>http://localhost:60206/contact/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><author>contact@kineto.ai (Antonio Rueda-Toicen)</author>
-      <guid>http://localhost:49992/contact/</guid>
+      <guid>http://localhost:60206/contact/</guid>
       <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;&#xA;&lt;p&gt;Ready to upskill in artificial intelligence?&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:contact@kineto.ai&#34;&gt;contact@kineto.ai&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Office Address:&lt;/strong&gt;&lt;br&gt;&#xA;Kineto UG&lt;br&gt;&#xA;Leibnizstrasse 85&#xA;10625 Berlin&lt;br&gt;&#xA;Germany&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;how-we-can-help&#34;&gt;How We Can Help&lt;/h2&gt;&#xA;&lt;h3 id=&#34;free-consultation&#34;&gt;&lt;strong&gt;Free Consultation&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Schedule a complimentary 30-minute consultation to discuss your objectives and explore potential solutions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ai-readiness-assessment&#34;&gt;&lt;strong&gt;AI Readiness Assessment&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Get a comprehensive evaluation of your organization&amp;rsquo;s readiness for AI training and implementation.&lt;/p&gt;&#xA;&lt;h3 id=&#34;custom-proposal&#34;&gt;&lt;strong&gt;Custom Proposal&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Receive a detailed proposal tailored to your specific business needs and objectives.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About KINETO</title>
-      <link>http://localhost:49992/about/</link>
+      <link>http://localhost:60206/about/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@kineto.ai (Antonio Rueda-Toicen)</author>
-      <guid>http://localhost:49992/about/</guid>
+      <guid>http://localhost:60206/about/</guid>
       <description>&lt;h2 id=&#34;about-kinetoai&#34;&gt;About Kineto.ai&lt;/h2&gt;&#xA;&lt;p&gt;Kineto.ai is a leading artificial intelligence consultancy based in Berlin, Germany, dedicated to helping organizations harness the transformative power of AI technologies.&lt;/p&gt;&#xA;&lt;p&gt;We bridge the gap between cutting-edge AI research and practical business applications.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;why-kinetoai&#34;&gt;Why Kineto.ai?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;business-first-approach&#34;&gt;&lt;strong&gt;Business-First Approach&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;We start with your business challenges, not the technology. We work closely with your team to understand your specific needs and develop AI solutions that create real business value.&lt;/p&gt;&#xA;&lt;h3 id=&#34;proven-track-record&#34;&gt;&lt;strong&gt;Proven Track Record&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Our team has successfully implemented AI solutions across various industries, from startups to scale-ups to academia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Datenschutzerklärung</title>
-      <link>http://localhost:49992/privacy/</link>
+      <link>http://localhost:60206/privacy/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@kineto.ai (Antonio Rueda-Toicen)</author>
-      <guid>http://localhost:49992/privacy/</guid>
+      <guid>http://localhost:60206/privacy/</guid>
       <description>&lt;h2 id=&#34;datenschutzerklärung--privacy-policy&#34;&gt;Datenschutzerklärung / Privacy Policy&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Letzte Aktualisierung: 15. Januar 2024&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-datenschutz-auf-einen-blick&#34;&gt;1. Datenschutz auf einen Blick&lt;/h2&gt;&#xA;&lt;h3 id=&#34;allgemeine-hinweise&#34;&gt;Allgemeine Hinweise&lt;/h3&gt;&#xA;&lt;p&gt;Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.&lt;/p&gt;&#xA;&lt;h3 id=&#34;datenerfassung-auf-dieser-website&#34;&gt;Datenerfassung auf dieser Website&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wer ist verantwortlich für die Datenerfassung auf dieser Website?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Abschnitt &amp;ldquo;Hinweis zur verantwortlichen Stelle&amp;rdquo; in dieser Datenschutzerklärung entnehmen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:49992/privacy-policy/</link>
+      <link>http://localhost:60206/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@kineto.ai (Antonio Rueda-Toicen)</author>
-      <guid>http://localhost:49992/privacy-policy/</guid>
+      <guid>http://localhost:60206/privacy-policy/</guid>
       <description>&lt;h2 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Last updated: August 19th, 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;data-protection-at-a-glance&#34;&gt;Data Protection at a Glance&lt;/h2&gt;&#xA;&lt;h3 id=&#34;general-information&#34;&gt;General Information&lt;/h3&gt;&#xA;&lt;p&gt;The following information provides a simple overview of what happens to your personal data when you visit this website. Personal data is any data that can be used to personally identify you.&lt;/p&gt;&#xA;&lt;h3 id=&#34;data-collection-on-this-website&#34;&gt;Data Collection on this Website&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Who is responsible for data collection on this website?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Data processing on this website is carried out by the website operator. You can find their contact details in the &amp;ldquo;Information about the responsible party&amp;rdquo; section of this privacy policy.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>KINETO</title>
-      <link>http://localhost:49992/home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@kineto.ai (Antonio Rueda-Toicen)</author>
-      <guid>http://localhost:49992/home/</guid>
-      <description>&lt;h2 id=&#34;corporate-ai-training-solutions&#34;&gt;Corporate AI Training Solutions&lt;/h2&gt;&#xA;&lt;p&gt;Kineto.ai delivers hands-on training in computer vision, modern AI, and machine learning for enterprise teams. We help organizations build internal AI capabilities through practical, results-focused education.&lt;/p&gt;&#xA;&lt;h2 id=&#34;training-focus-areas&#34;&gt;Training Focus Areas&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Computer vision applications and implementation&lt;/li&gt;&#xA;&lt;li&gt;Modern AI frameworks and tools&lt;/li&gt;&#xA;&lt;li&gt;Machine learning model development and deployment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;our-approach&#34;&gt;Our Approach&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Assessment&lt;/strong&gt; Evaluate current team skills and business AI needs&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Custom Curriculum&lt;/strong&gt; Design training programs for your specific use cases&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hands-on Learning&lt;/strong&gt; Practical workshops with real data and business problems&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Implementation Support&lt;/strong&gt; Guidance on applying new skills to production systems&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why-kineto&#34;&gt;Why KINETO&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Industry-proven AI expertise across sectors&lt;/li&gt;&#xA;&lt;li&gt;Germany-based with GDPR compliance focus&lt;/li&gt;&#xA;&lt;li&gt;Training programs that connect technical concepts to business value&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;Contact us to discuss your team&amp;rsquo;s AI training needs.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

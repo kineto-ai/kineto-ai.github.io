@@ -1,4 +1,4 @@
-baseURL = "https://kineto.ai"
+baseURL = "https://www.kineto.ai"
 languageCode = "en-us"
 title = "Kineto.ai"
 theme = "beautifulhugo"
@@ -38,7 +38,7 @@ theme = "beautifulhugo"
 
 [[menu.main]]
   name = "Home"
-  url = "/home/"
+  url = "/"
   weight = 1
 
 
@@ -72,7 +72,7 @@ theme = "beautifulhugo"
 # German Menu
 [[languages.de.menu.main]]
   name = "Home"
-  url = "/home/"
+  url = "/"
   weight = 1
 
 [[languages.de.menu.main]]
