@@ -1,10 +1,9 @@
 ---
-title: "KINETO.AI"
-subtitle: ""
-bigimg: [{src: "/img/triangle.jpg", desc: "Triangle"}, 
-         {src: "/img/sphere.jpg", desc: "Sphere"}, 
-         {src: "/img/hexagon.jpg", desc: "Hexagon"}]
-
+title: "KINETO"
+subtitle: "Upskilling Professionals in Artificial Intelligence"
+bigimg: [{src: "/img/triangle.jpg"}, 
+         {src: "/img/sphere.jpg"}, 
+         {src: "/img/hexagon.jpg"}]
 ---
 
 ## Corporate AI Training Solutions
@@ -22,7 +21,7 @@ Kineto.ai delivers hands-on training in computer vision, modern AI, and machine 
 * **Hands-on Learning** Practical workshops with real data and business problems
 * **Implementation Support** Guidance on applying new skills to production systems
 
-**Why Kineto.ai**
+## Why KINETO
 - Industry-proven AI expertise across sectors
 - Germany-based with GDPR compliance focus
 - Training programs that connect technical concepts to business value

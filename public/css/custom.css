@@ -150,3 +150,48 @@ h1 {
 .header-section * {
   color: #ffffff !important;
 }
+
+/* Increase line spacing by 10% throughout the site */
+body, p, div, li, td, th {
+  line-height: 1.65 !important; /* Assuming default was ~1.5, this is 10% increase */
+}
+
+.main-content, .post-content, .page-content {
+  line-height: 1.65 !important;
+}
+
+/* Specific content areas */
+.post-preview .post-entry {
+  line-height: 1.65 !important;
+}
+
+/* Ensure consistent spacing in blog posts and pages */
+.blog-post, .content-wrapper {
+  line-height: 1.65 !important;
+}
+
+/* Justify text alignment in main content areas */
+.main-content p, 
+.post-content p, 
+.page-content p,
+.blog-post p,
+.content-wrapper p {
+  text-align: justify !important;
+}
+
+/* Justify text in main content containers */
+.main-content, 
+.post-content, 
+.page-content {
+  text-align: justify !important;
+}
+
+/* Justify specific content sections */
+.post-preview .post-entry {
+  text-align: justify !important;
+}
+
+/* Keep headings left-aligned for better readability */
+h1, h2, h3, h4, h5, h6 {
+  text-align: left !important;
+}

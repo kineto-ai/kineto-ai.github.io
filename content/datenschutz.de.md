@@ -1,13 +1,10 @@
 ---
 title: "Datenschutzerklärung"
-subtitle: "Privacy Policy"
 date: 2024-01-01
-bigimg: [{src: "/img/triangle.jpg"}, 
-         {src: "/img/sphere.jpg"}, 
-         {src: "/img/hexagon.jpg"}]
+layout: "page"
 ---
 
-## Datenschutzerklärung / Privacy Policy
+# Datenschutzerklärung
 
 *Letzte Aktualisierung: 15. Januar 2024*
 
@@ -95,33 +92,6 @@ Sie haben jederzeit das Recht:
 - Datenübertragbarkeit zu verlangen
 
 Bei Fragen zum Datenschutz wenden Sie sich bitte an: **contact@kineto.ai**
-
----
-
-## English Version
-
-### Data Protection at a Glance
-
-This privacy policy informs you about how we handle your personal data when you visit our website. Personal data is any data that can be used to personally identify you.
-
-### Responsible Party
-Kineto UG  
-Antonio Rueda-Toicen  
-Leibnizstrasse 85  
-10625 Berlin, Germany  
-Email: contact@kineto.ai
-
-### Hosting
-This website is hosted on GitHub Pages, a service provided by GitHub, Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA. For more information about GitHub Pages' privacy practices, please see GitHub's Privacy Statement: https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement
-
-### Data Collection
-We collect data when you voluntarily provide it (e.g., contact forms) and automatically through technical means (server logs, cookies).
-
-### Your Rights
-You have the right to access, rectify, delete, restrict processing, object to processing, and data portability regarding your personal data.
-
-### Contact
-For privacy-related questions, please contact us at contact@kineto.ai
 
 ---
 

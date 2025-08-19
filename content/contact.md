@@ -1,6 +1,6 @@
 ---
 title: "Contact Us"
-subtitle: "Let's discuss your journey"
+subtitle: "Let's Discuss your Journey"
 date: 2025-01-01
 bigimg: [{src: "/img/triangle.jpg", desc: ""}, {src: "/img/sphere.jpg", desc: ""}, {src: "/img/hexagon.jpg", desc: ""}]
 ---
@@ -16,7 +16,7 @@ Ready to upskill in artificial intelligence?
 **Email:** contact@kineto.ai  
 
 **Office Address:**  
-Kineto.ai UG  
+Kineto UG  
 Leibnizstrasse 85
 10625 Berlin  
 Germany
@@ -73,16 +73,6 @@ You'll receive a detailed proposal with timeline, budget, and implementation pla
 Managing Director & Lead AI Consultant
 
 Brings over 12 years of experience in artificial intelligence development, research, training, and business transformation.
-
-
----
-
-## Legal Information
-
-**Company Registration:**  
-Handelsregister: HRB 123456 B  
-Amtsgericht Berlin-Charlottenburg  
-USt-IdNr.: DE123456789
 
 
 ---

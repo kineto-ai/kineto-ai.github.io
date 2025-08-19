@@ -1,11 +1,11 @@
 ---
-title: "About Kineto.ai"
-subtitle: "A trusted corporate training partner"
+title: "About KINETO"
+subtitle: "A Trusted Corporate Training Partner"
 date: 2024-01-01
 bigimg: [{src: "/img/triangle.jpg", desc: ""}, {src: "/img/sphere.jpg", desc: ""}, {src: "/img/hexagon.jpg", desc: ""}]
 ---
 
-# About Kineto.ai
+## About Kineto.ai
 
 Kineto.ai is a leading artificial intelligence consultancy based in Berlin, Germany, dedicated to helping organizations harness the transformative power of AI technologies.
 
@@ -17,10 +17,10 @@ We bridge the gap between cutting-edge AI research and practical business applic
 ## Why Kineto.ai?
 
 ### **Business-First Approach**
-We start with your business challenges, not the technology. Our consultants work closely with your team to understand your specific needs and develop AI solutions that create real business value.
+We start with your business challenges, not the technology. We work closely with your team to understand your specific needs and develop AI solutions that create real business value.
 
 ### **Proven Track Record**
-Our team has successfully implemented AI solutions across various industries, from startups to scale-ups. 
+Our team has successfully implemented AI solutions across various industries, from startups to scale-ups to academia. 
 
 ### **Long-term Partnership**
 We don't just implement solutions and leave. We build long-term partnerships with our clients, providing ongoing support, optimization, and strategic guidance as their AI initiatives evolve.
@@ -29,43 +29,21 @@ We don't just implement solutions and leave. We build long-term partnerships wit
 
 ## Our Expertise
 
-- **Machine Learning & Deep Learning**
-- **Computer Vision**
-- **Natural Language Processing**
-- **Predictive Analytics**
-- **Process Automation**
-- **Data Engineering**
-- **AI Strategy & Governance**
-- **Ethical AI & Compliance**
-
+- Machine Learning 
+- Computer Vision
+- Deep Learning
+- Natural Language Processing
+- Predictive Analytics
+- MLOps
+- Data Engineering
+- AI Strategy & Governance
 ---
 
-## Company Information
 
-**Kineto.ai UG**
-
-**Managing Director:** Antonio Rueda-Toicen
-
-**Address:**  
-Kineto.ai UG 
-Leibnizstrasse 85, 10625
-Berlin, Germany
-
-**Contact:**  
-Email: contact@kineto.ai  
-Phone: +49 30 12345678  
-Web: https://kineto.ai
-
-**Business Registration:**  
-Handelsregister: HRB 123456 B  
-Amtsgericht Berlin-Charlottenburg  
-USt-IdNr.: DE123456789
-
----
 
 ## Our Values
 
-###  **Continuous Learning**
+###  **Continuous Evolution**
 The AI field evolves rapidly, and so do we. Our team continuously updates their knowledge and skills to bring you the latest AI innovations and best practices.
 
 ###  **Sustainable Innovation**
@@ -88,4 +66,3 @@ Ready to start your AI journey? We'd love to hear about your challenges and expl
 
 ---
 
-*Kineto.ai - Where artificial intelligence meets business intelligence.*

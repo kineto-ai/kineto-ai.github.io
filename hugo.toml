@@ -8,7 +8,6 @@ theme = "beautifulhugo"
   logo = "/img/logo_white_bg.png"
   favicon = "/img/favicon.ico"
   dateFormat = "January 2, 2006"
-  since = 2025
   commit = false
   rss = true
   comments = false
@@ -26,8 +25,6 @@ theme = "beautifulhugo"
   cookieConsentText = "This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies."
   cookieConsentButton = "Accept"
 
-  # Homepage carousel images
- bigimg = [{src = "/img/triangle.jpg"}, {src = "/img/sphere.jpg"}, {src = "/img/hexagon.jpg"}]
 
 [params.author]
   name = "Antonio Rueda-Toicen"
@@ -41,7 +38,7 @@ theme = "beautifulhugo"
 
 [[menu.main]]
   name = "Home"
-  url = "/"
+  url = "/home/"
   weight = 1
 
 
@@ -60,6 +57,7 @@ theme = "beautifulhugo"
   url = "/contact/"
   weight = 5
 
+
 [languages]
   [languages.en]
     languageName = "English"
@@ -70,3 +68,24 @@ theme = "beautifulhugo"
     title = "Kineto.ai - KI-Beratung"
     [languages.de.params]
       subtitle = "Unternehmen mit Künstlicher Intelligenz transformieren"
+
+# German Menu
+[[languages.de.menu.main]]
+  name = "Home"
+  url = "/home/"
+  weight = 1
+
+[[languages.de.menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 3
+
+[[languages.de.menu.main]]
+  name = "Über uns"
+  url = "/about/"
+  weight = 4
+
+[[languages.de.menu.main]]
+  name = "Kontakt"
+  url = "/contact/"
+  weight = 5
