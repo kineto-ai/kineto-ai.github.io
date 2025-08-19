@@ -44,36 +44,36 @@ body {
   background-color: rgba(255, 255, 255, 0.1) !important;
 }
 
-/* Make all text inside .well class white and background dark navbar gray */
+/* Make all text inside .well class black with white background */
 .well {
-  background-color: #505050 !important;
-  color: #ffffff !important;
-  border: 1px solid #AAA !important;
+  background-color: #ffffff !important;
+  color: #404040 !important;
+  border: 1px solid #ddd !important;
 }
 
 .well h1, .well h2, .well h3, .well h4, .well h5, .well h6 {
-  color: #ffffff !important;
+  color: #404040 !important;
 }
 
 .well p {
-  color: #ffffff !important;
+  color: #404040 !important;
 }
 
 .well a {
-  color: #cccccc !important;
+  color: #337ab7 !important;
 }
 
 .well a:hover,
 .well a:focus {
-  color: #ffffff !important;
+  color: #23527c !important;
 }
 
 .well .text-muted {
-  color: #cccccc !important;
+  color: #777 !important;
 }
 
 .well * {
-  color: #ffffff !important;
+  color: #404040 !important;
 }
 
 /* Ensure dark mode doesn't override our white background */

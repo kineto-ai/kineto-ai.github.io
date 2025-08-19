@@ -1,6 +1,6 @@
 ---
 title: "KINETO"
-subtitle: "Upskilling Professionals in Artificial Intelligence"
+subtitle: ""
 ---
 
 ## Corporate AI Training Solutions

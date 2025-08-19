@@ -6,7 +6,7 @@ bigimg: [{src: "/img/triangle.jpg"}, {src: "/img/sphere.jpg"}, {src: "/img/hexag
 
 ---
 
-# AI Insights & Expertise
+## AI Insights & Expertise
 
 Welcome to the Kineto.ai blog, where we share our knowledge and perspectives on the latest developments in artificial intelligence and business transformation.
 
