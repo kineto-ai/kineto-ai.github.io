@@ -217,3 +217,28 @@ h1, h2, h3, h4, h5, h6 {
 .intro-header .home-subheading {
   text-align: center !important;
 }
+
+/* Remove gray background from homepage content */
+.main-content .well,
+.post-content .well,
+.page-content .well {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
+/* Ensure homepage main content has white background */
+.main-content,
+.post-content,
+.page-content {
+  background-color: #ffffff !important;
+}
+
+/* Override any container backgrounds on homepage */
+.container .well,
+.container-fluid .well,
+.row .well {
+  background-color: transparent !important;
+  border: none !important;
+}
