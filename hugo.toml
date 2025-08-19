@@ -1,6 +1,6 @@
 baseURL = "https://www.kineto.ai"
 languageCode = "en-us"
-title = "Kineto.ai"
+title = "KINETO"
 theme = "beautifulhugo"
 
 [params]
