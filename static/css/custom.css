@@ -195,3 +195,25 @@ body, p, div, li, td, th {
 h1, h2, h3, h4, h5, h6 {
   text-align: left !important;
 }
+
+/* Center titles on carousel images */
+.intro-header .page-heading,
+.intro-header .post-heading,
+.intro-header .home-heading {
+  text-align: center !important;
+}
+
+.intro-header .page-heading h1,
+.intro-header .post-heading h1,
+.intro-header .home-heading h1,
+.intro-header h1 {
+  text-align: center !important;
+}
+
+.intro-header .page-heading .page-subheading,
+.intro-header .post-heading .post-subheading,
+.intro-header .home-heading .home-subheading,
+.intro-header .page-subheading,
+.intro-header .home-subheading {
+  text-align: center !important;
+}
