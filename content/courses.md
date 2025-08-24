@@ -43,19 +43,55 @@ A comprehensive 8-hour instructor-led training that introduces participants to d
 ---
 
 ## NVIDIA DLI Generative AI with Diffusion Models
-Explore the cutting-edge world of generative AI through advanced diffusion model techniques. This course provides comprehensive training in creating, implementing, and deploying state-of-the-art generative models for high-quality content creation.
 
-**Key Learning Areas:**
-- Advanced diffusion model architectures
-- Generative AI implementation techniques
-- Model training and optimization
-- Real-world deployment strategies
+### About this Course
 
-**Learning Outcomes:**
-- Master diffusion model fundamentals and applications
-- Implement generative AI solutions for various domains
-- Apply cutting-edge techniques for high-quality content generation
-- Deploy and optimize diffusion models in production environments
+Thanks to improvements in computing power and scientific theory, generative AI is more accessible than ever before. Generative AI plays a significant role across industries due to its numerous applications, such as creative content generation, data augmentation, simulation and planning, anomaly detection, drug discovery, personalized recommendations, and more. In this course, learners will take a deeper dive into denoising diffusion models, which are a popular choice for text-to-image pipelines.
+
+***
+
+### Learning Objectives
+
+- Build a U-Net to generate images from pure noise
+- Improve the quality of generated images with the denoising diffusion process
+- Control the image output with context embeddings
+- Generate images from English text prompts using the Contrastive Language—Image Pretraining (CLIP) neural network
+
+***
+
+### Topics Covered
+
+- U-Nets
+- Diffusion
+- CLIP
+- Text-to-image Models
+
+***
+
+### Course Outline
+
+#### From U-Net to Diffusion
+- Build a U-Net architecture.
+- Train a model to remove noise from an image.
+
+#### Diffusion Models
+- Define the forward diffusion function.
+- Update the U-Net architecture to accommodate a timestep.
+- Define a reverse diffusion function.
+
+#### Optimizations
+- Implement Group Normalization.
+- Implement GELU.
+- Implement Rearrange Pooling.
+- Implement Sinusoidal Position Embeddings.
+
+#### Classifier-Free Diffusion Guidance
+- Add categorical embeddings to a U-Net.
+- Train a model with a Bernoulli mask.
+
+#### CLIP
+- Learn how to use CLIP Encodings.
+- Use CLIP to create a text-to-image neural network.
 
 ---
 
@@ -114,14 +150,15 @@ In this course, you will learn about:
 
 ---
 
+## All courses include
+- Hands-on lab exercises
+- Industry-relevant projects
+- Certificate of competence (upon passing the graded assessments)
+- Access to NVIDIA DLI pre-configured computing environments with GPUs 
+
 ---
 
 ## Get Started
 
-Ready to advance your AI skills? [Contact us](/contact/) to learn more about course availability, scheduling, and enrollment options.
+Ready to advance your AI skills? Contact us via info@kineto.ai to learn more about course availability, scheduling, and enrollment options.
 
-All courses include:
-- Hands-on lab exercises
-- Industry-relevant projects
-- Certificate of completion
-- Access to NVIDIA DLI pre-configured computing environments with GPUs 
