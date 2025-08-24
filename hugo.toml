@@ -44,6 +44,10 @@ theme = "beautifulhugo"
   url = "/"
   weight = 1
 
+[[menu.main]]
+  name = "Courses"
+  url = "/courses/"
+  weight = 2
 
 [[menu.main]]
   name = "Blog"
@@ -77,6 +81,11 @@ theme = "beautifulhugo"
   name = "Home"
   url = "/"
   weight = 1
+
+[[languages.de.menu.main]]
+  name = "Kurse"
+  url = "/courses/"
+  weight = 2
 
 [[languages.de.menu.main]]
   name = "Blog"
