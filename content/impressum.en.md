@@ -1,5 +1,5 @@
 ---
-title: "Legal Notice"
+title: "Impressum"
 date: 2025-01-20
 layout: "page"
 bigimg: [{src: "/img/triangle.jpg"}, 
@@ -7,7 +7,7 @@ bigimg: [{src: "/img/triangle.jpg"},
          {src: "/img/hexagon.jpg"}]
 ---
 
-## Legal Notice
+## Impressum
 
 **Information according to § 5 TMG:**
 
