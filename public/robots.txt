@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://kineto.ai/sitemap.xml
