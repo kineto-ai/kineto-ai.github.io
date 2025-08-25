@@ -19,6 +19,7 @@ theme = "beautifulhugo"
   showRelatedPosts = false
   hideAuthor = false
   gcse = ""
+  mainSections = ["blog"]
   
   # Cookie consent
   cookieConsent = true

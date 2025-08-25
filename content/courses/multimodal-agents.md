@@ -1,6 +1,5 @@
 ---
 title: "Multimodal Agents"
-date: 2025-01-20
 layout: "page"
 bigimg: [{src: "/img/triangle.jpg"}, 
          {src: "/img/sphere.jpg"}, 
