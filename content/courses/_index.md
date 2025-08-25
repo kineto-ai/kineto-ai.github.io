@@ -22,6 +22,9 @@ NVIDIA DLI Generative AI with Diffusion Models - Learn to build generative AI sy
 ### [Multimodal Agents](/courses/multimodal-agents/)
 NVIDIA DLI Building AI Agents with Multimodal Models - Build neural network agents that reason across multiple data types using advanced fusion techniques and NVIDIA AI Blueprints.
 
+### [Practical Computer Vision Bootcamp](/courses/practical-computer-vision-bootcamp/)
+A comprehensive, **free and open-source** computer vision learning path from foundational concepts to advanced applications. Related to workshops from the Berlin Computer Vision Group.
+
 ---
 
 ## All courses include
@@ -35,4 +38,3 @@ NVIDIA DLI Building AI Agents with Multimodal Models - Build neural network agen
 ## Get Started
 
 Ready to advance your AI skills? Contact us via info@kineto.ai to learn more about course availability, scheduling, and enrollment options.
-

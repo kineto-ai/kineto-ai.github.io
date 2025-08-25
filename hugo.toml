@@ -5,7 +5,7 @@ theme = "beautifulhugo"
 
 [params]
   subtitle = "Upskilling Professionals in Artificial Intelligence"
-  logo = "/img/logo_white_bg.png"
+  logo = "/img/KI_avatar_white.png"
   favicon = "/img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -49,6 +49,30 @@ theme = "beautifulhugo"
   url = "/courses/"
   weight = 2
 
+  [[menu.main]]
+    name = "Deep Learning"
+    url = "/courses/deep-learning/"
+    weight = 21
+    parent = "Courses"
+
+  [[menu.main]]
+    name = "Diffusion Models"
+    url = "/courses/diffusion-models/"
+    weight = 22
+    parent = "Courses"
+
+  [[menu.main]]
+    name = "Multimodal Agents"
+    url = "/courses/multimodal-agents/"
+    weight = 23
+    parent = "Courses"
+
+  [[menu.main]]
+    name = "Practical Computer Vision Bootcamp"
+    url = "/courses/practical-computer-vision-bootcamp/"
+    weight = 24
+    parent = "Courses"
+
 [[menu.main]]
   name = "Blog"
   url = "/blog/"
@@ -86,6 +110,30 @@ theme = "beautifulhugo"
   name = "Kurse"
   url = "/courses/"
   weight = 2
+
+  [[languages.de.menu.main]]
+    name = "Deep Learning"
+    url = "/courses/deep-learning/"
+    weight = 21
+    parent = "Kurse"
+
+  [[languages.de.menu.main]]
+    name = "Diffusion Models"
+    url = "/courses/diffusion-models/"
+    weight = 22
+    parent = "Kurse"
+
+  [[languages.de.menu.main]]
+    name = "Multimodal Agents"
+    url = "/courses/multimodal-agents/"
+    weight = 23
+    parent = "Kurse"
+
+  [[languages.de.menu.main]]
+    name = "Practical Computer Vision Bootcamp"
+    url = "/courses/practical-computer-vision-bootcamp/"
+    weight = 24
+    parent = "Kurse"
 
 [[languages.de.menu.main]]
   name = "Blog"
