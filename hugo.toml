@@ -5,7 +5,6 @@ theme = "beautifulhugo"
 
 [params]
   subtitle = "Upskilling Professionals in Artificial Intelligence"
-  logo = "/img/KI_avatar_white.png"
   favicon = "/img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
