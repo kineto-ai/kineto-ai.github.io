@@ -79,68 +79,21 @@ Brings over 12 years of experience in artificial intelligence development, resea
 
 ## Contact Form
 
-<form id="contact-form" action="https://formspree.io/f/contact@kineto.ai" method="POST" class="contact-form">
-  <div class="form-group">
-    <label for="name">Name *</label>
-    <input type="text" id="name" name="name" required>
+<div class="typeform-widget-container">
+  <div data-tf-widget="YOUR_TYPEFORM_ID" 
+       data-tf-opacity="0" 
+       data-tf-hide-headers 
+       data-tf-hide-footer 
+       data-tf-auto-focus 
+       style="width:100%;height:500px;">
   </div>
-  
-  <div class="form-group">
-    <label for="email">Email *</label>
-    <input type="email" id="email" name="email" required>
-  </div>
-  
-  <div class="form-group">
-    <label for="company">Company</label>
-    <input type="text" id="company" name="company">
-  </div>
-  
-  <div class="form-group">
-    <label for="interest">AI Interest/Challenge *</label>
-    <select id="interest" name="interest" required>
-      <option value="">Select your primary interest</option>
-      <option value="training">AI Training & Workshops</option>
-      <option value="consulting">AI Consulting Services</option>
-      <option value="implementation">AI Implementation</option>
-      <option value="strategy">AI Strategy Development</option>
-      <option value="other">Other</option>
-    </select>
-  </div>
-  
-  <div class="form-group">
-    <label for="message">Message *</label>
-    <textarea id="message" name="message" rows="5" placeholder="Please describe your AI interests, challenges, or any specific questions you have..." required></textarea>
-  </div>
-  
-  <div class="form-group">
-    <label for="contact-method">Preferred Contact Method</label>
-    <select id="contact-method" name="contact-method">
-      <option value="email">Email</option>
-      <option value="phone">Phone</option>
-      <option value="video-call">Video Call</option>
-    </select>
-  </div>
-  
-  <div class="form-group">
-    <label for="timeline">Project Timeline</label>
-    <select id="timeline" name="timeline">
-      <option value="">Select timeline</option>
-      <option value="immediate">Immediate (within 1 month)</option>
-      <option value="short-term">Short-term (1-3 months)</option>
-      <option value="medium-term">Medium-term (3-6 months)</option>
-      <option value="long-term">Long-term (6+ months)</option>
-      <option value="exploring">Just exploring options</option>
-    </select>
-  </div>
-  
-  <button type="submit" class="btn-submit">Send Message</button>
-  
-  <div id="form-status" style="display: none;"></div>
-</form>
+  <script src="//embed.typeform.com/next/embed.js"></script>
+</div>
 
 <div class="form-footer">
   <p><strong>Alternative Contact:</strong> You can also email us directly at <a href="mailto:contact@kineto.ai">contact@kineto.ai</a></p>
   <p>We typically respond within 24 hours during business days.</p>
+  <p><em>Note: To activate this contact form, you'll need to create a Typeform and replace "YOUR_TYPEFORM_ID" with your actual form ID.</em></p>
 </div>
 
 ---
