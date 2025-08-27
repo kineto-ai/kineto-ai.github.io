@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "KINETO"
 theme = "beautifulhugo"
 
+DefaultContentLanguage = "en"
+
 [params]
   subtitle = "Upskilling Professionals in Artificial Intelligence"
   favicon = "/img/favicon.ico"
@@ -99,6 +101,9 @@ theme = "beautifulhugo"
     title = "Kineto.ai - KI-Beratung"
     [languages.de.params]
       subtitle = "Unternehmen mit Künstlicher Intelligenz transformieren"
+      cookieConsent = true
+      cookieConsentText = "Diese Website verwendet Cookies, um Ihnen die bestmögliche Benutzererfahrung zu bieten. Durch die weitere Nutzung dieser Website stimmen Sie der Verwendung von Cookies zu."
+      cookieConsentButton = "Akzeptieren"
 
 # German Menu
 [[languages.de.menu.main]]
