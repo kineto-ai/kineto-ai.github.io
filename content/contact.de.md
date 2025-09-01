@@ -85,7 +85,7 @@ Bringt über 12 Jahre Erfahrung in der Entwicklung, Forschung, Schulung und Gesc
 
 ### Kontaktformular
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScGNg9_example_form_id_here_de/viewform?embedded=true" 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScdZga7cngIi1j-TaKUE-mcQIO8jjmHP2N8Y-UIIBTmkghn_Q/viewform?embedded=true" 
         width="100%" 
         height="800" 
         frameborder="0" 
@@ -104,14 +104,7 @@ Kontaktformular wird geladen...
 
 ### Datenschutz & Datensicherheit
 
-🔒 **Ihr Datenschutz ist uns wichtig.** Alle über dieses Formular übermittelten Informationen werden in Übereinstimmung mit der Datenschutz-Grundverordnung (DSGVO) und unserer umfassenden [Datenschutzerklärung](/datenschutz/) verarbeitet.
-
-**Wichtige Datenschutz-Highlights:**
-- ✅ Sichere Datenspeicherung in der EU über Google Workspace
-- ✅ Ausschließliche Verwendung zur Beantwortung Ihrer Anfrage
-- ✅ Keine Weitergabe an Dritte ohne Ihre Einwilligung
-- ✅ Sie können jederzeit eine Löschung beantragen
+**Ihr Datenschutz ist uns wichtig.** Alle über dieses Formular übermittelten Informationen werden in Übereinstimmung mit der Datenschutz-Grundverordnung (DSGVO) und unserer umfassenden [Datenschutzerklärung](/datenschutz/) verarbeitet.
 
 Detaillierte Informationen über den Umgang mit Ihren Daten bei der Verwendung von Google Forms finden Sie in unserer [Datenschutzerklärung](/datenschutz/) und unserem [Impressum](/impressum.de/).
 
----
