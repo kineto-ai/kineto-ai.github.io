@@ -79,22 +79,34 @@ Brings over 12 years of experience in artificial intelligence development, resea
 
 ## Contact Form
 
-<div class="typeform-widget-container">
-  <div data-tf-widget="YOUR_TYPEFORM_ID" 
-       data-tf-opacity="0" 
-       data-tf-hide-headers 
-       data-tf-hide-footer 
-       data-tf-auto-focus 
-       style="width:100%;height:500px;">
-  </div>
-  <script src="//embed.typeform.com/next/embed.js"></script>
+**Get started with your AI journey today!** Complete our secure contact form below, and we'll respond within 24 hours during business days.
+
+<div class="contact-form-container" style="background: #f8f9fa; padding: 30px; border-radius: 8px; border-left: 4px solid #007bff; margin: 20px 0;">
+
+### Contact Form
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfs6-59Pson5OK_vshTM2cgcqxzov9bMetep-DwIHdNPLPIAg/viewform?embedded=true" 
+        width="100%" 
+        height="800" 
+        frameborder="0" 
+        marginheight="0" 
+        marginwidth="0"
+        style="border-radius: 4px;">
+Loading contact form...
+</iframe>
+
 </div>
 
-<div class="form-footer">
-  <p><strong>Alternative Contact:</strong> You can also email us directly at <a href="mailto:contact@kineto.ai">contact@kineto.ai</a></p>
-  <p>We typically respond within 24 hours during business days.</p>
-  <p><em>Note: To activate this contact form, you'll need to create a Typeform and replace "YOUR_TYPEFORM_ID" with your actual form ID.</em></p>
-</div>
+### Alternative Contact Methods
+
+**Email:** contact@kineto.ai  
+**Phone:** +49(0)179 571 78 63
+
+### Privacy & Data Protection
+
+**Your privacy is important to us.** All information submitted through this form is processed in accordance with the General Data Protection Regulation (GDPR) and our comprehensive [Privacy Policy](/privacy-policy.en/). 
+
+For detailed information about how we handle your data when using Google Forms, please see our [Privacy Policy](/privacy-policy.en/) and [Legal Notice](/impressum.en/).
 
 ---
 
