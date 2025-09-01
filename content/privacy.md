@@ -9,7 +9,7 @@ bigimg: [{src: "/img/triangle.jpg"},
 
 ## Datenschutzerklärung / Privacy Policy
 
-*Letzte Aktualisierung: 15. Januar 2024*
+*Letzte Aktualisierung: 1. September 2025*
 
 ## 1. Datenschutz auf einen Blick
 
@@ -84,7 +84,15 @@ Die Erfassung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
 
 Wenn Sie uns per E-Mail oder über ein Kontaktformular kontaktieren, werden die von Ihnen mitgeteilten Daten (Ihre E-Mail-Adresse, ggf. Ihr Name und Ihre Telefonnummer) von uns gespeichert, um Ihre Fragen zu beantworten. Die in diesem Zusammenhang anfallenden Daten löschen wir, nachdem die Speicherung nicht mehr erforderlich ist, oder schränken die Verarbeitung ein, falls gesetzliche Aufbewahrungspflichten bestehen.
 
-## 6. Ihre Rechte
+## 6. Geschäftskommunikation mit Slack
+
+Wir verwenden Slack (Slack Technologies, LLC, 500 Howard Street, San Francisco, CA 94105, USA) für unsere Geschäftskommunikation. Bei der Kommunikation über Slack werden Nachrichten, Dateien, Benutzerdaten und technische Informationen verarbeitet. Die Rechtsgrundlage ist Art. 6 Abs. 1 lit. b und f DSGVO. Slack fungiert als Auftragsverarbeiter mit entsprechendem Vertrag und Standardvertragsklauseln. Weitere Informationen: https://slack.com/trust/privacy/privacy-policy
+
+## 7. LinkedIn Integration
+
+Diese Website verlinkt zu unserem LinkedIn-Profil (https://www.linkedin.com/company/kineto-ai). LinkedIn Corporation fungiert als eigenständiger Verantwortlicher und verarbeitet IP-Adressen, Referrer-Informationen und Nutzungsdaten. Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse). Weitere Informationen: https://de.linkedin.com/legal/privacy-policy
+
+## 8. Ihre Rechte
 
 Sie haben jederzeit das Recht:
 - Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten und deren Verarbeitung zu verlangen
@@ -116,6 +124,12 @@ This website is hosted on GitHub Pages, a service provided by GitHub, Inc., 88 C
 
 ### Data Collection
 We collect data when you voluntarily provide it (e.g., contact forms) and automatically through technical means (server logs, cookies).
+
+### Business Communication with Slack
+We use Slack (Slack Technologies, LLC, San Francisco, CA, USA) for business communication. When communicating via Slack, messages, files, user data, and technical information are processed. Legal basis: Art. 6 para. 1 lit. b and f GDPR. Slack acts as data processor with appropriate agreement and standard contractual clauses. More information: https://slack.com/trust/privacy/privacy-policy
+
+### LinkedIn Integration
+This website links to our LinkedIn profile (https://www.linkedin.com/company/kineto-ai). LinkedIn Corporation operates as independent data controller processing IP addresses, referrer information, and usage data. Legal basis: Art. 6 para. 1 lit. f GDPR (legitimate interest). More information: https://www.linkedin.com/legal/privacy-policy
 
 ### Your Rights
 You have the right to access, rectify, delete, restrict processing, object to processing, and data portability regarding your personal data.

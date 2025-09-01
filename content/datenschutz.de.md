@@ -6,7 +6,7 @@ layout: "page"
 
 # Datenschutzerklärung
 
-*Letzte Aktualisierung: 15. Januar 2024*
+*Letzte Aktualisierung: 1. September 2025*
 
 ## 1. Datenschutz auf einen Blick
 
@@ -81,7 +81,56 @@ Die Erfassung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
 
 Wenn Sie uns per E-Mail oder über ein Kontaktformular kontaktieren, werden die von Ihnen mitgeteilten Daten (Ihre E-Mail-Adresse, ggf. Ihr Name und Ihre Telefonnummer) von uns gespeichert, um Ihre Fragen zu beantworten. Die in diesem Zusammenhang anfallenden Daten löschen wir, nachdem die Speicherung nicht mehr erforderlich ist, oder schränken die Verarbeitung ein, falls gesetzliche Aufbewahrungspflichten bestehen.
 
-## 6. Ihre Rechte
+## 6. Geschäftskommunikation mit Slack
+
+Wir verwenden Slack (bereitgestellt von Slack Technologies, LLC, 500 Howard Street, San Francisco, CA 94105, USA) für unsere interne Geschäftskommunikation und zur Kommunikation mit Kunden und Geschäftspartnern.
+
+### Datenverarbeitung durch Slack
+
+Wenn Sie mit uns über Slack kommunizieren, werden folgende Daten verarbeitet:
+- Nachrichten und Dateien, die Sie senden
+- Benutzerprofil-Informationen (Name, E-Mail-Adresse)
+- Nutzungs- und Aktivitätsdaten
+- Technische Daten (IP-Adresse, Geräteinformationen)
+
+### Rechtsgrundlage
+
+Die Verarbeitung erfolgt zur Erfüllung von Verträgen bzw. zur Durchführung vorvertraglicher Maßnahmen (Art. 6 Abs. 1 lit. b DSGVO) und aufgrund unseres berechtigten Interesses an einer effizienten Geschäftskommunikation (Art. 6 Abs. 1 lit. f DSGVO).
+
+### Auftragsverarbeitung
+
+Slack fungiert als Auftragsverarbeiter nach Art. 28 DSGVO. Wir haben mit Slack einen Auftragsverarbeitungsvertrag abgeschlossen, der Standardvertragsklauseln für internationale Datenübertragungen enthält.
+
+### Speicherdauer
+
+Nachrichten und Dateien werden entsprechend unseren Geschäftsanforderungen und gesetzlichen Aufbewahrungspflichten gespeichert. Sie können jederzeit die Löschung Ihrer Daten beantragen.
+
+### Weitere Informationen
+
+Weitere Informationen zum Datenschutz bei Slack finden Sie in der Datenschutzerklärung von Slack: https://slack.com/trust/privacy/privacy-policy
+
+## 7. LinkedIn Integration
+
+Diese Website enthält eine Verlinkung zu unserem LinkedIn-Unternehmensprofil (https://www.linkedin.com/company/kineto-ai).
+
+### Datenverarbeitung durch LinkedIn
+
+LinkedIn Corporation (1000 W Maude Ave, Sunnyvale, CA 94085, USA) fungiert als eigenständiger Verantwortlicher. Beim Besuch unserer LinkedIn-Seite oder bei Interaktionen mit LinkedIn-Inhalten können folgende Daten verarbeitet werden:
+
+- IP-Adresse und technische Informationen
+- Referrer-Informationen (von welcher Website Sie gekommen sind)
+- Nutzungsmuster und Interaktionsdaten
+- Cookie- und Tracking-Daten
+
+### Rechtsgrundlage
+
+Die LinkedIn-Integration basiert auf unserem berechtigten Interesse an einer professionellen Social-Media-Präsenz (Art. 6 Abs. 1 lit. f DSGVO).
+
+### Ihre Rechte bezüglich LinkedIn
+
+Sie haben das Recht, der Datenverarbeitung durch LinkedIn zu widersprechen. Informationen über LinkedIns Datenverarbeitungspraktiken finden Sie in der LinkedIn-Datenschutzrichtlinie: https://de.linkedin.com/legal/privacy-policy
+
+## 8. Ihre Rechte
 
 Sie haben jederzeit das Recht:
 - Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten und deren Verarbeitung zu verlangen

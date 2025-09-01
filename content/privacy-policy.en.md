@@ -9,7 +9,7 @@ bigimg: [{src: "/img/triangle.jpg"},
 
 ## Privacy Policy
 
-*Last updated: August 19th, 2025*
+*Last updated: September 1st, 2025*
 
 ## Data Protection at a Glance
 
@@ -83,6 +83,55 @@ The collection of this data is based on Art. 6 para. 1 lit. f GDPR. The website 
 ## Contact and Inquiries
 
 When you contact us by email or via a contact form, the data you provide (your email address, possibly your name and telephone number) will be stored by us to answer your questions. We delete the data arising in this context after storage is no longer necessary, or restrict processing if there are legal retention obligations.
+
+## Business Communication with Slack
+
+We use Slack (provided by Slack Technologies, LLC, 500 Howard Street, San Francisco, CA 94105, USA) for our internal business communication and communication with customers and business partners.
+
+### Data Processing by Slack
+
+When you communicate with us via Slack, the following data is processed:
+- Messages and files you send
+- User profile information (name, email address)
+- Usage and activity data
+- Technical data (IP address, device information)
+
+### Legal Basis
+
+Processing is carried out for the performance of contracts or pre-contractual measures (Art. 6 para. 1 lit. b GDPR) and based on our legitimate interest in efficient business communication (Art. 6 para. 1 lit. f GDPR).
+
+### Data Processing Agreement
+
+Slack acts as a data processor pursuant to Art. 28 GDPR. We have concluded a data processing agreement with Slack that includes standard contractual clauses for international data transfers.
+
+### Storage Duration
+
+Messages and files are stored according to our business requirements and legal retention obligations. You may request deletion of your data at any time.
+
+### Further Information
+
+For more information about data protection at Slack, please see Slack's Privacy Policy: https://slack.com/trust/privacy/privacy-policy
+
+## LinkedIn Integration
+
+This website includes a link to our LinkedIn company profile (https://www.linkedin.com/company/kineto-ai).
+
+### Data Processing by LinkedIn
+
+LinkedIn Corporation (1000 W Maude Ave, Sunnyvale, CA 94085, USA) operates as an independent data controller. When you visit our LinkedIn page or interact with LinkedIn content, the following data may be processed:
+
+- IP address and technical information
+- Referrer information (which website you came from)
+- Usage patterns and interaction data
+- Cookie and tracking data
+
+### Legal Basis
+
+The LinkedIn integration is based on our legitimate interest in maintaining a professional social media presence (Art. 6 para. 1 lit. f GDPR).
+
+### Your Rights Regarding LinkedIn
+
+You have the right to object to data processing by LinkedIn. Information about LinkedIn's data processing practices can be found in LinkedIn's Privacy Policy: https://www.linkedin.com/legal/privacy-policy
 
 ## Your Rights
 

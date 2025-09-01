@@ -59,6 +59,14 @@ For questions regarding data protection in connection with our LinkedIn integrat
 
 ______
 
+**Business Communication via Slack**
+
+We use Slack (Slack Technologies, LLC, 500 Howard Street, San Francisco, CA 94105, USA) for our business communication with clients and partners. When you communicate with us via Slack, your messages, files, and associated data are processed according to our Data Processing Agreement with Slack, which includes standard contractual clauses for international data transfers under GDPR Article 28.
+
+Your communication via Slack is processed on the legal basis of contract performance (Art. 6 para. 1 lit. b GDPR) and our legitimate business interests (Art. 6 para. 1 lit. f GDPR). For questions regarding data protection in connection with Slack communication, please contact: contact@kineto.ai
+
+______
+
 ## Exclusion of Liability
 
 **Liability for Content**

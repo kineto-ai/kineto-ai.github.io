@@ -56,6 +56,14 @@ Bei Fragen zum Datenschutz in Verbindung mit unserer LinkedIn-Integration wenden
 
 ______
 
+**Geschäftskommunikation über Slack**
+
+Wir verwenden Slack (Slack Technologies, LLC, 500 Howard Street, San Francisco, CA 94105, USA) für unsere Geschäftskommunikation mit Kunden und Partnern. Wenn Sie mit uns über Slack kommunizieren, werden Ihre Nachrichten, Dateien und zugehörige Daten gemäß unserem Auftragsverarbeitungsvertrag mit Slack verarbeitet, der Standardvertragsklauseln für internationale Datenübertragungen nach DSGVO Art. 28 enthält.
+
+Ihre Kommunikation über Slack wird auf der Rechtsgrundlage der Vertragserfüllung (Art. 6 Abs. 1 lit. b DSGVO) und unserer berechtigten Geschäftsinteressen (Art. 6 Abs. 1 lit. f DSGVO) verarbeitet. Bei Fragen zum Datenschutz in Verbindung mit der Slack-Kommunikation wenden Sie sich bitte an: contact@kineto.ai
+
+______
+
 ## Haftungsausschluss
 
 **Haftung für Inhalte**
