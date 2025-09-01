@@ -35,6 +35,7 @@ DefaultContentLanguage = "en"
   name = "Antonio Rueda-Toicen"
   website = "https://kineto.ai"
   email = "contact@kineto.ai"
+  linkedin = "https://www.linkedin.com/company/kineto-ai"
   
 [markup]
   [markup.goldmark]
