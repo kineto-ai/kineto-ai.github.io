@@ -77,9 +77,6 @@ Brings over 12 years of experience in artificial intelligence development, resea
 
 ---
 
-## Contact Form
-
-**Get started with your AI journey today!** Complete our secure contact form below, and we'll respond within 24 hours during business days.
 
 <div class="contact-form-container" style="background: #f8f9fa; padding: 30px; border-radius: 8px; border-left: 4px solid #007bff; margin: 20px 0;">
 
@@ -105,8 +102,6 @@ Loading contact form...
 ### Privacy & Data Protection
 
 **Your privacy is important to us.** All information submitted through this form is processed in accordance with the General Data Protection Regulation (GDPR) and our comprehensive [Privacy Policy](/privacy-policy.en/). 
-
-For detailed information about how we handle your data when using Google Forms, please see our [Privacy Policy](/privacy-policy.en/) and [Legal Notice](/impressum.en/).
 
 ---
 

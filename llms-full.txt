@@ -1,0 +1,3096 @@
+# http://kineto.ai llms-full.txt
+
+## Corporate AI Training Solutions
+## Corporate AI Training Solutions
+
+Kineto.ai delivers hands-on training in computer vision, modern AI, and machine learning for enterprise teams. We help organizations build internal AI capabilities through practical, results-focused education.
+
+## Training Focus Areas
+
+- Computer vision applications and implementation
+- Modern AI frameworks and tools
+- Machine learning model development and deployment
+
+## Our Approach
+
+- **Assessment** Evaluate current team skills and business AI needs
+- **Custom Curriculum** Design training programs for your specific use cases
+- **Hands-on Learning** Practical workshops with real data and business problems
+- **Implementation Support** Guidance on applying new skills to production systems
+
+## Why KINETO
+
+- Industry-proven AI expertise across sectors
+- Germany-based with GDPR compliance focus
+- Training programs that connect technical concepts to business value
+
+_Contact us to discuss your team’s AI training needs._
+
+[**NVIDIA DLI Workshop: Building AI Agents with Multimodal Models - September 27, 2025**  **Join our 8-hour certification workshop for academic staff and students**](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Posted on August 26, 2025
+\|  Antonio Rueda-Toicen
+• Other languages: [Deutsch](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+We’re excited to announce a **NVIDIA Deep Learning Institute (DLI) certification workshop** specifically designed for academic staff, researchers, and students. This comprehensive 8-hour workshop will dive deep into building neural network agents that can understand and process multiple data types.
+
+## Workshop Details
+
+**Date:** Saturday, September 27, 2025
+
+**Time:** 10:30 AM - 6:30 PM (8 hours)
+
+**Format:** Online Event
+
+**Cost:** Completely Free (for academic participants)
+
+**Eligibility:** Academic staff and students with valid institutional email address
+
+[\[Read More\]](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/tags/workshop/) [NVIDIA](https://www.kineto.ai/tags/nvidia/) [Multimodal AI](https://www.kineto.ai/tags/multimodal-ai/) [Deep Learning](https://www.kineto.ai/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/tags/berlin-computer-vision-group/) [Academia](https://www.kineto.ai/tags/academia/) [Free Training](https://www.kineto.ai/tags/free-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Page Not Found
+# (='X'=)
+
+Whoops, this page doesn't exist. Move along. (404 error)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## NVIDIA AI Workshop
+[**NVIDIA DLI Workshop: Building AI Agents with Multimodal Models - September 27, 2025**  **Join our 8-hour certification workshop for academic staff and students**](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Posted on August 26, 2025
+\|  Antonio Rueda-Toicen
+• Other languages: [Deutsch](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+We’re excited to announce a **NVIDIA Deep Learning Institute (DLI) certification workshop** specifically designed for academic staff, researchers, and students. This comprehensive 8-hour workshop will dive deep into building neural network agents that can understand and process multiple data types.
+
+## Workshop Details
+
+**Date:** Saturday, September 27, 2025
+
+**Time:** 10:30 AM - 6:30 PM (8 hours)
+
+**Format:** Online Event
+
+**Cost:** Completely Free (for academic participants)
+
+**Eligibility:** Academic staff and students with valid institutional email address
+
+[\[Read More\]](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/tags/workshop/) [NVIDIA](https://www.kineto.ai/tags/nvidia/) [Multimodal AI](https://www.kineto.ai/tags/multimodal-ai/) [Deep Learning](https://www.kineto.ai/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/tags/berlin-computer-vision-group/) [Academia](https://www.kineto.ai/tags/academia/) [Free Training](https://www.kineto.ai/tags/free-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## AI Agents Workshop
+[**NVIDIA DLI Workshop: Building AI Agents with Multimodal Models - September 27, 2025**  **Join our 8-hour certification workshop for academic staff and students**](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Posted on August 26, 2025
+\|  Antonio Rueda-Toicen
+• Other languages: [Deutsch](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+We’re excited to announce a **NVIDIA Deep Learning Institute (DLI) certification workshop** specifically designed for academic staff, researchers, and students. This comprehensive 8-hour workshop will dive deep into building neural network agents that can understand and process multiple data types.
+
+## Workshop Details
+
+**Date:** Saturday, September 27, 2025
+
+**Time:** 10:30 AM - 6:30 PM (8 hours)
+
+**Format:** Online Event
+
+**Cost:** Completely Free (for academic participants)
+
+**Eligibility:** Academic staff and students with valid institutional email address
+
+[\[Read More\]](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/tags/workshop/) [NVIDIA](https://www.kineto.ai/tags/nvidia/) [Multimodal AI](https://www.kineto.ai/tags/multimodal-ai/) [Deep Learning](https://www.kineto.ai/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/tags/berlin-computer-vision-group/) [Academia](https://www.kineto.ai/tags/academia/) [Free Training](https://www.kineto.ai/tags/free-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## NVIDIA DLI Workshop
+[**NVIDIA DLI Workshop: Building AI Agents with Multimodal Models - September 27, 2025**  **Join our 8-hour certification workshop for academic staff and students**](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Posted on August 26, 2025
+\|  Antonio Rueda-Toicen
+• Other languages: [Deutsch](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+We’re excited to announce a **NVIDIA Deep Learning Institute (DLI) certification workshop** specifically designed for academic staff, researchers, and students. This comprehensive 8-hour workshop will dive deep into building neural network agents that can understand and process multiple data types.
+
+## Workshop Details
+
+**Date:** Saturday, September 27, 2025
+
+**Time:** 10:30 AM - 6:30 PM (8 hours)
+
+**Format:** Online Event
+
+**Cost:** Completely Free (for academic participants)
+
+**Eligibility:** Academic staff and students with valid institutional email address
+
+[\[Read More\]](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/tags/workshop/) [NVIDIA](https://www.kineto.ai/tags/nvidia/) [Multimodal AI](https://www.kineto.ai/tags/multimodal-ai/) [Deep Learning](https://www.kineto.ai/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/tags/berlin-computer-vision-group/) [Academia](https://www.kineto.ai/tags/academia/) [Free Training](https://www.kineto.ai/tags/free-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Free AI Training Workshop
+[**NVIDIA DLI Workshop: Building AI Agents with Multimodal Models - September 27, 2025**  **Join our 8-hour certification workshop for academic staff and students**](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Posted on August 26, 2025
+\|  Antonio Rueda-Toicen
+• Other languages: [Deutsch](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+We’re excited to announce a **NVIDIA Deep Learning Institute (DLI) certification workshop** specifically designed for academic staff, researchers, and students. This comprehensive 8-hour workshop will dive deep into building neural network agents that can understand and process multiple data types.
+
+## Workshop Details
+
+**Date:** Saturday, September 27, 2025
+
+**Time:** 10:30 AM - 6:30 PM (8 hours)
+
+**Format:** Online Event
+
+**Cost:** Completely Free (for academic participants)
+
+**Eligibility:** Academic staff and students with valid institutional email address
+
+[\[Read More\]](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/tags/workshop/) [NVIDIA](https://www.kineto.ai/tags/nvidia/) [Multimodal AI](https://www.kineto.ai/tags/multimodal-ai/) [Deep Learning](https://www.kineto.ai/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/tags/berlin-computer-vision-group/) [Academia](https://www.kineto.ai/tags/academia/) [Free Training](https://www.kineto.ai/tags/free-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Multimodal AI Workshop
+[**NVIDIA DLI Workshop: Building AI Agents with Multimodal Models - September 27, 2025**  **Join our 8-hour certification workshop for academic staff and students**](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Posted on August 26, 2025
+\|  Antonio Rueda-Toicen
+• Other languages: [Deutsch](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+We’re excited to announce a **NVIDIA Deep Learning Institute (DLI) certification workshop** specifically designed for academic staff, researchers, and students. This comprehensive 8-hour workshop will dive deep into building neural network agents that can understand and process multiple data types.
+
+## Workshop Details
+
+**Date:** Saturday, September 27, 2025
+
+**Time:** 10:30 AM - 6:30 PM (8 hours)
+
+**Format:** Online Event
+
+**Cost:** Completely Free (for academic participants)
+
+**Eligibility:** Academic staff and students with valid institutional email address
+
+[\[Read More\]](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/tags/workshop/) [NVIDIA](https://www.kineto.ai/tags/nvidia/) [Multimodal AI](https://www.kineto.ai/tags/multimodal-ai/) [Deep Learning](https://www.kineto.ai/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/tags/berlin-computer-vision-group/) [Academia](https://www.kineto.ai/tags/academia/) [Free Training](https://www.kineto.ai/tags/free-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## NVIDIA AI Workshop
+[**NVIDIA DLI Workshop: Building AI Agents with Multimodal Models - September 27, 2025**  **Join our 8-hour certification workshop for academic staff and students**](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Posted on August 26, 2025
+\|  Antonio Rueda-Toicen
+• Other languages: [Deutsch](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+We’re excited to announce a **NVIDIA Deep Learning Institute (DLI) certification workshop** specifically designed for academic staff, researchers, and students. This comprehensive 8-hour workshop will dive deep into building neural network agents that can understand and process multiple data types.
+
+## Workshop Details
+
+**Date:** Saturday, September 27, 2025
+
+**Time:** 10:30 AM - 6:30 PM (8 hours)
+
+**Format:** Online Event
+
+**Cost:** Completely Free (for academic participants)
+
+**Eligibility:** Academic staff and students with valid institutional email address
+
+[\[Read More\]](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/tags/workshop/) [NVIDIA](https://www.kineto.ai/tags/nvidia/) [Multimodal AI](https://www.kineto.ai/tags/multimodal-ai/) [Deep Learning](https://www.kineto.ai/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/tags/berlin-computer-vision-group/) [Academia](https://www.kineto.ai/tags/academia/) [Free Training](https://www.kineto.ai/tags/free-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## NVIDIA Multimodal AI Workshop
+We’re excited to announce a **NVIDIA Deep Learning Institute (DLI) certification workshop** specifically designed for academic staff, researchers, and students. This comprehensive 8-hour workshop will dive deep into building neural network agents that can understand and process multiple data types.
+
+## Workshop Details
+
+**Date:** Saturday, September 27, 2025
+
+**Time:** 10:30 AM - 6:30 PM (8 hours)
+
+**Format:** Online Event
+
+**Cost:** Completely Free (for academic participants)
+
+**Eligibility:** Academic staff and students with valid institutional email address
+
+## What You’ll Learn
+
+This hands-on workshop focuses on building neural network agents that reason across multiple data types using advanced fusion techniques, OCR, and NVIDIA AI Blueprints. Perfect for researchers working in robotics, healthcare, and collaborative AI systems.
+
+### Key Learning Objectives
+
+- **Data Fusion Mastery:** Learn to combine camera, LiDAR, and other sensor data effectively
+- **Document AI Processing:** Master PDF extraction and processing using OCR techniques
+- **Agent Orchestration:** Understand how to coordinate multiple AI models for complex tasks
+- **NVIDIA AI Blueprints:** Leverage pre-built solutions for real-world applications
+- **Model Transformation:** Convert language models into powerful vision-language models
+
+## Workshop Agenda
+
+### **Session 1: Early & Late Fusion** _(1 hour)_
+
+Learn the fundamentals of combining different data types and understand when to use early versus late fusion techniques.
+
+### **Session 2: Intermediate Fusion** _(1 hour)_
+
+Explore advanced fusion architectures and their applications in multimodal AI systems.
+
+### **Session 3: Cross-modal Projection** _(2 hours)_
+
+Deep dive into transforming models to handle multiple data modalities, including practical PDF processing with OCR.
+
+### **Session 4: Model Orchestration** _(2 hours)_
+
+Master the art of coordinating multiple AI models to work together seamlessly using NVIDIA AI Blueprints.
+
+### **Session 5: Final Assessment** _(1 hour)_
+
+Demonstrate your new skills and earn your NVIDIA DLI certification.
+
+## Why Attend This Workshop?
+
+### **Free Certification**
+
+Earn a valuable NVIDIA Deep Learning Institute certificate at no cost - normally these workshops have significant fees.
+
+### **Academic Focus**
+
+Specifically tailored for researchers and students, with examples relevant to academic work and research applications.
+
+### **Cutting-Edge Content**
+
+Learn the latest techniques in multimodal AI that are shaping the future of artificial intelligence research.
+
+### **Community Connection**
+
+Connect with other academic researchers in the Berlin Computer Vision Group community.
+
+## About the Berlin Computer Vision Group
+
+This workshop is hosted in collaboration with the [Berlin Computer Vision Group](https://www.meetup.com/berlin-computer-vision-group/), Berlin’s premier community for computer vision practitioners, researchers, and enthusiasts. The group regularly hosts workshops, networking events, and technical presentations focused on the latest developments in computer vision and machine learning.
+
+## Registration Requirements
+
+- **Academic Email Required:** You must register with a valid academic institution email address
+- **Registration:** Complete the registration form linked below
+- **Prerequisites:** Basic understanding of machine learning concepts recommended
+
+## About the Instructor
+
+The workshop will be led by **Antonio Rueda-Toicen**, Managing Director of Kineto.ai and active member of the Berlin Computer Vision Group. With over 12 years of experience in AI development and training, Antonio brings deep expertise in practical AI implementation for academic and industry applications.
+
+## Registration
+
+This is a unique opportunity to gain hands-on experience with cutting-edge multimodal AI techniques while earning a valuable certification - completely free for academic participants.
+
+**[Register for the workshop here](https://www.meetup.com/berlin-computer-vision-group/events/310676936/)**
+
+Have questions about the workshop or want to learn more about our other training offerings? [Contact us](https://www.kineto.ai/contact/) \- we’d love to hear from you!
+
+* * *
+
+_This workshop is part of Kineto.ai’s commitment to advancing AI education in the academic community. We regularly offer specialized training programs for researchers, students, and industry professionals._
+
+[Workshop](https://www.kineto.ai/tags/workshop/) [NVIDIA](https://www.kineto.ai/tags/nvidia/) [Multimodal AI](https://www.kineto.ai/tags/multimodal-ai/) [Deep Learning](https://www.kineto.ai/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/tags/berlin-computer-vision-group/) [Academia](https://www.kineto.ai/tags/academia/) [Free Training](https://www.kineto.ai/tags/free-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## AI Workshops and Training
+**academia 1**
+
+[View all](https://www.kineto.ai/tags/academia/)
+
+[NVIDIA DLI Workshop: Building AI Agents with Multimodal Models - September 27, 2025](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+**berlin computer vision group 1**
+
+[View all](https://www.kineto.ai/tags/berlin-computer-vision-group/)
+
+[NVIDIA DLI Workshop: Building AI Agents with Multimodal Models - September 27, 2025](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+**deep learning 1**
+
+[View all](https://www.kineto.ai/tags/deep-learning/)
+
+[NVIDIA DLI Workshop: Building AI Agents with Multimodal Models - September 27, 2025](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+**free training 1**
+
+[View all](https://www.kineto.ai/tags/free-training/)
+
+[NVIDIA DLI Workshop: Building AI Agents with Multimodal Models - September 27, 2025](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+**multimodal ai 1**
+
+[View all](https://www.kineto.ai/tags/multimodal-ai/)
+
+[NVIDIA DLI Workshop: Building AI Agents with Multimodal Models - September 27, 2025](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+**nvidia 1**
+
+[View all](https://www.kineto.ai/tags/nvidia/)
+
+[NVIDIA DLI Workshop: Building AI Agents with Multimodal Models - September 27, 2025](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+**workshop 1**
+
+[View all](https://www.kineto.ai/tags/workshop/)
+
+[NVIDIA DLI Workshop: Building AI Agents with Multimodal Models - September 27, 2025](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## NVIDIA DLI Workshop
+[**NVIDIA DLI Workshop: Building AI Agents with Multimodal Models - September 27, 2025**  **Join our 8-hour certification workshop for academic staff and students**](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Posted on August 26, 2025
+\|  Antonio Rueda-Toicen
+• Other languages: [Deutsch](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+We’re excited to announce a **NVIDIA Deep Learning Institute (DLI) certification workshop** specifically designed for academic staff, researchers, and students. This comprehensive 8-hour workshop will dive deep into building neural network agents that can understand and process multiple data types.
+
+## Workshop Details
+
+**Date:** Saturday, September 27, 2025
+
+**Time:** 10:30 AM - 6:30 PM (8 hours)
+
+**Format:** Online Event
+
+**Cost:** Completely Free (for academic participants)
+
+**Eligibility:** Academic staff and students with valid institutional email address
+
+[\[Read More\]](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/tags/workshop/) [NVIDIA](https://www.kineto.ai/tags/nvidia/) [Multimodal AI](https://www.kineto.ai/tags/multimodal-ai/) [Deep Learning](https://www.kineto.ai/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/tags/berlin-computer-vision-group/) [Academia](https://www.kineto.ai/tags/academia/) [Free Training](https://www.kineto.ai/tags/free-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Terms of Service
+## Terms of Service
+
+_Last updated: August 19, 2025_
+
+## 1\. Scope of Application
+
+1.1 These Terms of Service (hereinafter “Terms”) apply to all business relationships between Kineto UG, Leibnizstrasse 85, 10625 Berlin, Germany (hereinafter “Service Provider” or “we”) and its clients (hereinafter “Client” or “you”).
+
+1.2 These Terms apply exclusively. Deviating, conflicting or supplementary general terms and conditions of the Client shall not become part of the contract unless their validity is expressly agreed to in writing.
+
+1.3 These Terms also apply to all future business with the Client.
+
+## 2\. Contract Formation
+
+2.1 Our offers are subject to change and non-binding unless expressly designated as binding.
+
+2.2 The contract is concluded through written order confirmation or by commencement of service provision.
+
+2.3 Changes to the contract require written form.
+
+## 3\. Services
+
+3.1 The subject of our activity is consulting services, training and courses in the field of Artificial Intelligence, Computer Vision and Machine Learning.
+
+3.2 The scope of services to be provided is specified in the respective order confirmation and the underlying offers.
+
+3.3 We are entitled to engage subcontractors to fulfill our service obligations.
+
+## 4\. Client’s Cooperation Obligations
+
+4.1 The Client shall provide all information, data and documents required for the execution of the order in a timely and complete manner.
+
+4.2 The Client shall designate a technically qualified contact person who is authorized to make decisions on all matters concerning the order.
+
+4.3 Delays and costs arising from insufficient cooperation by the Client shall be borne by the Client.
+
+## 5\. Dates and Deadlines
+
+5.1 Dates and deadlines are only binding if they have been expressly agreed in writing as binding.
+
+5.2 If the Client is in default of acceptance or violates other cooperation obligations, the performance deadlines shall be extended accordingly.
+
+## 6\. Compensation and Payment Terms
+
+6.1 The compensation is based on the agreement made. Unless otherwise agreed, our hourly rates current at the time of order placement apply.
+
+6.2 All prices are exclusive of statutory value added tax.
+
+6.3 Invoices are due for payment within 14 days of invoicing without deduction.
+
+6.4 In case of default in payment, we are entitled to charge default interest at a rate of 9 percentage points above the base rate.
+
+## 7\. Set-off and Right of Retention
+
+7.1 The Client may only set off against claims that have been legally established or are undisputed.
+
+7.2 The assertion of a right of retention is only permissible for counterclaims arising from the same contractual relationship.
+
+## 8\. Copyright and Usage Rights
+
+8.1 All copyrights to works created by us (concepts, analyses, training materials, etc.) remain with us.
+
+8.2 The Client receives the non-exclusive right to use the work results for their own business purposes.
+
+8.3 Transfer of work results to third parties requires our prior written consent.
+
+## 9\. Confidentiality
+
+9.1 Both parties undertake to treat all confidential information that becomes known to them in the course of the business relationship in strict confidence.
+
+9.2 The confidentiality obligation continues after termination of the contractual relationship.
+
+## 10\. Liability
+
+10.1 We are only liable in cases of intent and gross negligence as well as in the event of breach of essential contractual obligations (cardinal obligations).
+
+10.2 In case of breach of cardinal obligations, liability is limited to the contractually typical, foreseeable damage.
+
+10.3 Liability for indirect damages, consequential damages and lost profits is excluded.
+
+10.4 The above exclusions and limitations of liability do not apply to injury to life, limb or health.
+
+## 11\. Termination
+
+11.1 Both parties may terminate the contractual relationship with four weeks’ notice to the end of the month, unless otherwise agreed.
+
+11.2 The right to extraordinary termination for good cause remains unaffected.
+
+## 12\. Right of Withdrawal for Consumers
+
+12.1 If the Client is a consumer within the meaning of § 13 BGB (German Civil Code), they have a right of withdrawal:
+
+**Withdrawal Instructions**
+
+You have the right to withdraw from this contract within fourteen days without giving any reason. The withdrawal period is fourteen days from the day of conclusion of the contract.
+
+To exercise your right of withdrawal, you must inform us (Kineto UG, Leibnizstrasse 85, 10625 Berlin, Germany, Phone: +49(0)179 571 78 63, Email: [contact@kineto.ai](mailto:contact@kineto.ai)) by means of a clear statement (e.g., a letter sent by post or an email) of your decision to withdraw from this contract.
+
+To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
+
+**Effects of Withdrawal**
+
+If you withdraw from this contract, we shall reimburse to you all payments received from you, without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to withdraw from this contract.
+
+## 13\. Data Protection
+
+13.1 The processing of personal data is carried out in accordance with our privacy policy.
+
+13.2 Both parties undertake to comply with data protection regulations.
+
+## 14\. Final Provisions
+
+14.1 The law of the Federal Republic of Germany applies, excluding the UN Convention on Contracts for the International Sale of Goods.
+
+14.2 The place of performance and jurisdiction is Berlin, provided the Client is a merchant, a legal entity under public law or a special fund under public law.
+
+14.3 Should individual provisions of these Terms be or become invalid, this shall not affect the validity of the remaining provisions.
+
+* * *
+
+**Kineto UG**
+
+Leibnizstrasse 85
+
+10625 Berlin
+
+Germany
+
+Phone: +49(0)179 571 78 63
+
+Email: [contact@kineto.ai](mailto:contact@kineto.ai)
+
+Managing Director: Antonio Ernesto Rueda Toicen
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Kineto UG Impressum
+## Impressum
+
+**Information according to § 5 TMG:**
+
+Responsible for content according to § 55 Abs. 2 RStV:
+
+Kineto UG
+
+Leibnizstrasse 85
+
+10625 Berlin
+
+Germany
+
+**Contact:**
+
+Phone: +49(0)179 571 78 63
+
+E-Mail: [contact@kineto.ai](mailto:contact@kineto.ai)
+
+**Representative**
+
+Antonio Ernesto Rueda Toicen, Managing Director
+
+* * *
+
+**Commercial Register:**
+
+Registration in the Commercial Register.
+
+Register Court: Amtsgericht Charlottenburg
+
+Registration Number: HRB 271436 B
+
+## Exclusion of Liability
+
+**Liability for Content**
+
+The contents of our pages were created with great care. However, we cannot guarantee the correctness, completeness and accuracy of the contents. As a service provider, we are responsible for our own content on these pages according to Section 7 paragraph 1 of TMG. According to Sections 8 to 10 of TMG, as a service provider, we are not obligated to supervise transmitted or stored third-party information or to investigate circumstances which indicate an illegal activity.
+
+Obligations to remove or block the use of information according to general laws remain unaffected. Liability in this regard, however, is only possible from the time of knowledge of a concrete infringement. We will immediately remove these contents if we become aware of any such legal violations.
+
+* * *
+
+**Liability for Links**
+
+Our website contains links to external websites of third parties and on whose content we have no influence. Therefore, we cannot assume any liability for these third-party content. The respective provider or operator of the pages is always responsible for the contents of the linked pages. The linked pages were checked for possible legal violations at the time of linking. Illegal contents were not recognizable at the time of linking. However, a permanent control of the content of the linked pages is not reasonable without concrete indications of an infringement. If we become aware of any legal infringements, we will immediately remove such links.
+
+* * *
+
+**Copyright**
+
+The content and works created by the site operators on these pages are subject to German copyright law. The copying, processing, distribution and any kind of exploitation beyond the limits of copyright require the written consent of the respective author or creator. Downloads and copies of this page are only permitted for private, non-commercial use. Insofar as the contents on this site were not created by the operator, the copyrights of third parties are respected. In particular contents of third parties are marked as such. If you are nevertheless aware of a copyright infringement, we ask for a corresponding note. If we become aware of legal violations, we will immediately remove such content.
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Get in Touch
+## Get in Touch
+
+Ready to upskill in artificial intelligence?
+
+* * *
+
+## Contact Information
+
+**Email:** [contact@kineto.ai](mailto:contact@kineto.ai)
+
+**Office Address:**
+
+Kineto UG
+
+Leibnizstrasse 85
+10625 Berlin
+
+Germany
+
+* * *
+
+## How We Can Help
+
+### **Free Consultation**
+
+Schedule a complimentary 30-minute consultation to discuss your objectives and explore potential solutions.
+
+### **AI Readiness Assessment**
+
+Get a comprehensive evaluation of your organization’s readiness for AI training and implementation.
+
+### **Custom Proposal**
+
+Receive a detailed proposal tailored to your specific business needs and objectives.
+
+* * *
+
+## What to Expect
+
+**1\. Initial Discussion**
+
+We’ll start with a conversation about your business challenges, goals, and current technology landscape.
+
+**2\. Needs Assessment**
+
+We conduct a thorough analysis of your requirements and identify AI opportunities.
+
+**3\. Solution Design**
+
+We’ll develop a customized AI strategy and implementation roadmap for your organization.
+
+**4\. Proposal & Next Steps**
+
+You’ll receive a detailed proposal with timeline, budget, and implementation plan.
+
+* * *
+
+## Industries We Serve
+
+- Manufacturing & Industrial
+- Education
+- Healthcare & Life Sciences
+- Financial Services
+- Retail & E-commerce
+- Automotive
+- Technology & Software
+- Professional Services
+- Public Sector
+
+* * *
+
+## Managing Director
+
+**Antonio Rueda-Toicen**
+
+Managing Director & Lead AI Consultant
+
+Brings over 12 years of experience in artificial intelligence development, research, training, and business transformation.
+
+* * *
+
+## Quick Contact Form
+
+For immediate assistance, please email us at **[contact@kineto.ai](mailto:contact@kineto.ai)** with the following information:
+
+- Your name and company
+- Brief description of your AI interests or challenges
+- Preferred contact method and time
+- Any specific questions or requirements
+
+We typically respond within 24 hours during business days.
+
+* * *
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## About Kineto.ai
+## About Kineto.ai
+
+Kineto.ai is a leading artificial intelligence consultancy based in Berlin, Germany, dedicated to helping organizations harness the transformative power of AI technologies.
+
+We bridge the gap between cutting-edge AI research and practical business applications.
+
+* * *
+
+## Why Kineto.ai?
+
+### **Business-First Approach**
+
+We start with your business challenges, not the technology. We work closely with your team to understand your specific needs and develop AI solutions that create real business value.
+
+### **Proven Track Record**
+
+Our team has successfully implemented AI solutions across various industries, from startups to scale-ups to academia.
+
+### **Long-term Partnership**
+
+We don’t just implement solutions and leave. We build long-term partnerships with our clients, providing ongoing support, optimization, and strategic guidance as their AI initiatives evolve.
+
+* * *
+
+## Our Expertise
+
+- Machine Learning
+- Computer Vision
+- Deep Learning
+- Natural Language Processing
+- Predictive Analytics
+- MLOps
+- Data Engineering
+- AI Strategy & Governance
+
+* * *
+
+## Our Values
+
+### **Continuous Evolution**
+
+The AI field evolves rapidly, and so do we. Our team continuously updates their knowledge and skills to bring you the latest AI innovations and best practices.
+
+### **Sustainable Innovation**
+
+We focus on AI solutions that not only drive business value but also contribute to sustainable business practices and positive societal impact.
+
+### **Privacy & Security**
+
+Data protection is at the core of everything we do. We implement AI solutions with privacy-by-design principles and ensure full compliance with German and European data protection regulations.
+
+### **Ethical AI**
+
+We are committed to developing and deploying AI systems that are fair, transparent, and accountable. We help our clients navigate the ethical implications of AI and ensure responsible AI practices.
+
+* * *
+
+## Get in Touch
+
+Ready to start your AI journey? We’d love to hear about your challenges and explore how AI can help your business thrive.
+
+**[Contact us today](https://www.kineto.ai/contact/)** to schedule a consultation.
+
+* * *
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## AI Insights and Workshops
+## AI Insights & Expertise
+
+Welcome to the Kineto.ai blog, where we share our knowledge and perspectives on the latest developments in artificial intelligence and business transformation.
+
+## What You’ll Find Here
+
+- **AI Strategy & Implementation** \- Best practices for successful AI adoption
+- **Technology Deep Dives** \- Technical insights into AI and machine learning
+- **Industry Applications** \- Real-world AI use cases across different sectors
+- **Regulatory & Ethics** \- Navigating AI compliance and ethical considerations
+- **Future Trends** \- What’s next in the AI landscape
+
+Stay informed about the latest AI developments and learn how they can impact your business.
+
+* * *
+
+_Subscribe to our newsletter to receive the latest posts directly in your inbox._
+
+[**NVIDIA DLI Workshop: Building AI Agents with Multimodal Models - September 27, 2025**  **Join our 8-hour certification workshop for academic staff and students**](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Posted on August 26, 2025
+\|  Antonio Rueda-Toicen
+• Other languages: [Deutsch](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+We’re excited to announce a **NVIDIA Deep Learning Institute (DLI) certification workshop** specifically designed for academic staff, researchers, and students. This comprehensive 8-hour workshop will dive deep into building neural network agents that can understand and process multiple data types.
+
+## Workshop Details
+
+**Date:** Saturday, September 27, 2025
+
+**Time:** 10:30 AM - 6:30 PM (8 hours)
+
+**Format:** Online Event
+
+**Cost:** Completely Free (for academic participants)
+
+**Eligibility:** Academic staff and students with valid institutional email address
+
+[\[Read More\]](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/tags/workshop/) [NVIDIA](https://www.kineto.ai/tags/nvidia/) [Multimodal AI](https://www.kineto.ai/tags/multimodal-ai/) [Deep Learning](https://www.kineto.ai/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/tags/berlin-computer-vision-group/) [Academia](https://www.kineto.ai/tags/academia/) [Free Training](https://www.kineto.ai/tags/free-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Privacy Policy Overview
+## Datenschutzerklärung / Privacy Policy
+
+_Letzte Aktualisierung: 15. Januar 2024_
+
+## 1\. Datenschutz auf einen Blick
+
+### Allgemeine Hinweise
+
+Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.
+
+### Datenerfassung auf dieser Website
+
+**Wer ist verantwortlich für die Datenerfassung auf dieser Website?**
+
+Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Abschnitt “Hinweis zur verantwortlichen Stelle” in dieser Datenschutzerklärung entnehmen.
+
+**Wie erfassen wir Ihre Daten?**
+
+Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um Daten handeln, die Sie in ein Kontaktformular eingeben.
+
+Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs).
+
+## 2\. Hosting
+
+Diese Website wird über GitHub Pages gehostet, einem Dienst der GitHub, Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA. Die personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern von GitHub Pages gespeichert. Hierbei kann es sich v. a. um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe und sonstige Daten, die über eine Website generiert werden, handeln.
+
+Der Einsatz von GitHub Pages erfolgt zum Zwecke der Vertragserfüllung gegenüber unseren potenziellen und bestehenden Kunden (Art. 6 Abs. 1 lit. b DSGVO) und im Interesse einer sicheren, schnellen und effizienten Bereitstellung unseres Online-Angebots durch einen professionellen Anbieter (Art. 6 Abs. 1 lit. f DSGVO).
+
+Weitere Informationen zum Datenschutz bei GitHub Pages finden Sie in der Datenschutzerklärung von GitHub: [https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)
+
+## 3\. Allgemeine Hinweise und Pflichtinformationen
+
+### Datenschutz
+
+Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
+
+Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können.
+
+### Hinweis zur verantwortlichen Stelle
+
+Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
+
+**Kineto UG**
+
+Antonio Rueda-Toicen
+
+Leibnizstrasse 85
+
+10625 Berlin
+
+Deutschland
+
+Telefon: +49(0)179 571 78 63
+
+E-Mail: [contact@kineto.ai](mailto:contact@kineto.ai)
+
+Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
+
+### Speicherdauer
+
+Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre personenbezogenen Daten bei uns, bis der Zweck für die Datenverarbeitung entfällt. Wenn Sie ein berechtigtes Löschersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen, werden Ihre Daten gelöscht, sofern wir keine anderen rechtlich zulässigen Gründe für die Speicherung Ihrer personenbezogenen Daten haben.
+
+## 4\. Datenerfassung auf dieser Website
+
+### Cookies
+
+Unsere Internetseiten verwenden so genannte “Cookies”. Cookies sind kleine Textdateien und richten auf Ihrem Endgerät keinen Schaden an. Sie werden entweder vorübergehend für die Dauer einer Sitzung (Session-Cookies) oder dauerhaft (permanente Cookies) auf Ihrem Endgerät gespeichert.
+
+Session-Cookies werden nach Ende Ihres Besuchs automatisch gelöscht. Permanente Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese selbst löschen oder eine automatische Löschung durch Ihren Webbrowser erfolgt.
+
+### Server-Log-Dateien
+
+Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log-Dateien, die Ihr Browser automatisch an uns übermittelt. Dies sind:
+
+- Browsertyp und Browserversion
+- verwendetes Betriebssystem
+- Referrer URL
+- Hostname des zugreifenden Rechners
+- Uhrzeit der Serveranfrage
+- IP-Adresse
+
+Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.
+
+Die Erfassung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse an der technisch fehlerfreien Darstellung und der Optimierung seiner Website.
+
+## 5\. Kontakt und Anfragen
+
+Wenn Sie uns per E-Mail oder über ein Kontaktformular kontaktieren, werden die von Ihnen mitgeteilten Daten (Ihre E-Mail-Adresse, ggf. Ihr Name und Ihre Telefonnummer) von uns gespeichert, um Ihre Fragen zu beantworten. Die in diesem Zusammenhang anfallenden Daten löschen wir, nachdem die Speicherung nicht mehr erforderlich ist, oder schränken die Verarbeitung ein, falls gesetzliche Aufbewahrungspflichten bestehen.
+
+## 6\. Ihre Rechte
+
+Sie haben jederzeit das Recht:
+
+- Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten und deren Verarbeitung zu verlangen
+- Berichtigung unrichtiger personenbezogener Daten zu verlangen
+- Löschung Ihrer bei uns gespeicherten personenbezogenen Daten zu verlangen
+- Einschränkung der Datenverarbeitung zu verlangen
+- Widerspruch gegen die Verarbeitung Ihrer Daten zu erheben
+- Datenübertragbarkeit zu verlangen
+
+Bei Fragen zum Datenschutz wenden Sie sich bitte an: **[contact@kineto.ai](mailto:contact@kineto.ai)**
+
+* * *
+
+## English Version
+
+### Data Protection at a Glance
+
+This privacy policy informs you about how we handle your personal data when you visit our website. Personal data is any data that can be used to personally identify you.
+
+### Responsible Party
+
+Kineto UG
+
+Antonio Rueda-Toicen
+
+Leibnizstrasse 85
+
+10625 Berlin, Germany
+
+Email: [contact@kineto.ai](mailto:contact@kineto.ai)
+
+### Hosting
+
+This website is hosted on GitHub Pages, a service provided by GitHub, Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA. For more information about GitHub Pages’ privacy practices, please see GitHub’s Privacy Statement: [https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)
+
+### Data Collection
+
+We collect data when you voluntarily provide it (e.g., contact forms) and automatically through technical means (server logs, cookies).
+
+### Your Rights
+
+You have the right to access, rectify, delete, restrict processing, object to processing, and data portability regarding your personal data.
+
+### Contact
+
+For privacy-related questions, please contact us at [contact@kineto.ai](mailto:contact@kineto.ai)
+
+* * *
+
+_Diese Datenschutzerklärung wurde erstellt in Übereinstimmung mit der Datenschutz-Grundverordnung (DSGVO) und dem Bundesdatenschutzgesetz (BDSG)._
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Privacy Policy
+## Privacy Policy
+
+_Last updated: August 19th, 2025_
+
+## Data Protection at a Glance
+
+### General Information
+
+The following information provides a simple overview of what happens to your personal data when you visit this website. Personal data is any data that can be used to personally identify you.
+
+### Data Collection on this Website
+
+**Who is responsible for data collection on this website?**
+
+Data processing on this website is carried out by the website operator. You can find their contact details in the “Information about the responsible party” section of this privacy policy.
+
+**How do we collect your data?**
+
+Your data is collected when you provide it to us. This could be data that you enter in a contact form, for example.
+
+Other data is collected automatically or after your consent when you visit the website through our IT systems. This is mainly technical data (e.g. internet browser, operating system or time of page access).
+
+## Hosting
+
+This website is hosted on GitHub Pages, a service provided by GitHub, Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA. The personal data collected on this website is stored on GitHub Pages servers. This may include IP addresses, contact requests, meta and communication data, contract data, contact details, names, website accesses and other data generated via a website.
+
+GitHub Pages is used for the purpose of fulfilling contracts with our potential and existing customers (Art. 6 para. 1 lit. b GDPR) and in the interest of secure, fast and efficient provision of our online offer by a professional provider (Art. 6 para. 1 lit. f GDPR).
+
+For more information about GitHub Pages’ privacy practices, please see GitHub’s Privacy Statement: [https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)
+
+## General Information and Mandatory Information
+
+### Data Protection
+
+The operators of these pages take the protection of your personal data very seriously. We treat your personal data confidentially and in accordance with statutory data protection regulations and this privacy policy.
+
+When you use this website, various personal data is collected. Personal data is data that can be used to personally identify you.
+
+### Information about the Responsible Party
+
+The responsible party for data processing on this website is:
+
+**Kineto UG**
+
+Antonio Rueda-Toicen
+
+Leibnizstrasse 85
+
+10625 Berlin
+
+Germany
+
+Phone: +49(0)179 571 78 63
+
+Email: [contact@kineto.ai](mailto:contact@kineto.ai)
+
+The responsible party is the natural or legal person who, alone or jointly with others, determines the purposes and means of processing personal data (e.g. names, email addresses, etc.).
+
+### Storage Duration
+
+Unless a more specific storage period is mentioned within this privacy policy, your personal data will remain with us until the purpose for data processing no longer applies. If you make a legitimate request for deletion or revoke consent for data processing, your data will be deleted unless we have other legally permissible reasons for storing your personal data.
+
+## Data Collection on this Website
+
+### Cookies
+
+Our web pages use so-called “cookies”. Cookies are small text files and do not cause any damage to your device. They are stored either temporarily for the duration of a session (session cookies) or permanently (permanent cookies) on your device.
+
+Session cookies are automatically deleted after your visit ends. Permanent cookies remain stored on your device until you delete them yourself or automatic deletion by your web browser occurs.
+
+### Server Log Files
+
+The page provider automatically collects and stores information in so-called server log files, which your browser automatically transmits to us. These are:
+
+- Browser type and browser version
+- Operating system used
+- Referrer URL
+- Hostname of the accessing computer
+- Time of server request
+- IP address
+
+This data is not combined with other data sources.
+
+The collection of this data is based on Art. 6 para. 1 lit. f GDPR. The website operator has a legitimate interest in the technically error-free display and optimization of their website.
+
+## Contact and Inquiries
+
+When you contact us by email or via a contact form, the data you provide (your email address, possibly your name and telephone number) will be stored by us to answer your questions. We delete the data arising in this context after storage is no longer necessary, or restrict processing if there are legal retention obligations.
+
+## Your Rights
+
+You have the right at any time to:
+
+- Request information about your personal data stored by us and its processing
+- Request correction of incorrect personal data
+- Request deletion of your personal data stored by us
+- Request restriction of data processing
+- Object to the processing of your data
+- Request data portability
+
+For questions about data protection, please contact: **[contact@kineto.ai](mailto:contact@kineto.ai)**
+
+* * *
+
+_This privacy policy was created in accordance with the General Data Protection Regulation (GDPR) and the Federal Data Protection Act (BDSG)._
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## AI Solutions Categories
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## AI Training Courses
+## Professional AI Training Courses
+
+We offer industry-leading AI training courses powered by NVIDIA Deep Learning Institute (DLI). These hands-on courses provide practical experience with the latest AI technologies and frameworks.
+
+## Available Courses
+
+### [Deep Learning](https://www.kineto.ai/courses/deep-learning/)
+
+NVIDIA DLI Fundamentals of Deep Learning - A comprehensive 8-hour instructor-led training that introduces participants to deep learning techniques, focusing on computer vision and natural language processing.
+
+### [Diffusion Models](https://www.kineto.ai/courses/diffusion-models/)
+
+NVIDIA DLI Generative AI with Diffusion Models - Learn to build generative AI systems using denoising diffusion models for text-to-image pipelines.
+
+### [Multimodal Agents](https://www.kineto.ai/courses/multimodal-agents/)
+
+NVIDIA DLI Building AI Agents with Multimodal Models - Build neural network agents that reason across multiple data types using advanced fusion techniques and NVIDIA AI Blueprints.
+
+### [Practical Computer Vision Bootcamp](https://www.kineto.ai/courses/practical-computer-vision-bootcamp/)
+
+A comprehensive, **free and open-source** computer vision learning path from foundational concepts to advanced applications. Related to workshops from the Berlin Computer Vision Group.
+
+* * *
+
+## All courses include
+
+- Hands-on lab exercises
+- Industry-relevant projects
+- Certificate of competence (upon passing the graded assessments)
+- Access to NVIDIA DLI pre-configured computing environments with GPUs
+
+* * *
+
+## Get Started
+
+Ready to advance your AI skills? Contact us via [info@kineto.ai](mailto:info@kineto.ai) to learn more about course availability, scheduling, and enrollment options.
+
+[**Deep Learning**](https://www.kineto.ai/courses/deep-learning/)
+
+Posted on January 1, 0001
+\|  Antonio Rueda-Toicen
+• Other languages: [Deutsch](https://www.kineto.ai/de/courses/deep-learning/)
+
+## NVIDIA DLI Fundamentals of Deep Learning
+
+A comprehensive 8-hour instructor-led training that introduces participants to deep learning techniques, focusing on computer vision and natural language processing. Learn fundamental deep learning training techniques using PyTorch through hands-on exercises with dedicated GPU-accelerated cloud server access.
+
+**Key Topics Covered:**
+
+- Mechanics of deep learning
+- Convolutional neural networks
+- Data augmentation techniques
+- Pre-trained models and transfer learning
+- Image classification
+
+**Learning Objectives:**
+
+- Learn fundamental deep learning training techniques
+- Understand common data types and model architectures
+- Enhance datasets through data augmentation
+- Leverage transfer learning between models to achieve efficient results with less data and computation
+- Build confidence in deep learning frameworks
+
+**Prerequisites:**
+
+[\[Read More\]](https://www.kineto.ai/courses/deep-learning/)
+
+[**Diffusion Models**](https://www.kineto.ai/courses/diffusion-models/)
+
+Posted on January 1, 0001
+\|  Antonio Rueda-Toicen
+• Other languages: [Deutsch](https://www.kineto.ai/de/courses/diffusion-models/)
+
+## NVIDIA DLI Generative AI with Diffusion Models
+
+### About this Course
+
+Thanks to improvements in computing power and scientific theory, generative AI is more accessible than ever before. Generative AI plays a significant role across industries due to its numerous applications, such as creative content generation, data augmentation, simulation and planning, anomaly detection, drug discovery, personalized recommendations, and more. In this course, learners will take a deeper dive into denoising diffusion models, which are a popular choice for text-to-image pipelines.
+
+[\[Read More\]](https://www.kineto.ai/courses/diffusion-models/)
+
+[**Multimodal Agents**](https://www.kineto.ai/courses/multimodal-agents/)
+
+Posted on January 1, 0001
+\|  Antonio Rueda-Toicen
+• Other languages: [Deutsch](https://www.kineto.ai/de/courses/multimodal-agents/)
+
+## NVIDIA DLI Building AI Agents with Multimodal Models
+
+## About this Course
+
+Learn how to build neural network agents that reason across multiple data types using advanced fusion techniques, OCR, and NVIDIA AI Blueprints for real-world applications like robotics and video search and summarization.
+
+* * *
+
+## Learning Objectives
+
+In this course, you will learn about:
+
+- Different data types and how to make them neural network ready
+- Model fusion, and the differences between early, late, and intermediate fusion
+- PDF extraction using OCR
+- The difference between modality and agent orchestration
+- Customization of NVIDIA AI Blueprints with Video Search and Summarization (VSS)
+
+* * *
+
+## Topics Covered
+
+- Begin with a robotics use case to show how different datatypes impact an effective neural-networks architecture.
+- Apply mathematical concepts from robotics to Large Language Models (LLMs) to modify them for non-language data input.
+- End with orchestration of multiple models to answer user queries.
+
+* * *
+
+## Course Outline
+
+1. **Early and Late Fusion** (1 hr)
+    [\[Read More\]](https://www.kineto.ai/courses/multimodal-agents/)
+
+[**Practical Computer Vision Bootcamp**](https://www.kineto.ai/courses/practical-computer-vision-bootcamp/)
+
+Posted on January 1, 0001
+\|  Antonio Rueda-Toicen
+• Other languages: [Deutsch](https://www.kineto.ai/de/courses/practical-computer-vision-bootcamp/)
+
+## Practical Computer Vision Bootcamp
+
+A comprehensive, **free and open-source** computer vision learning path from foundational concepts to advanced applications. This hands-on bootcamp is designed for learners at various skill levels, from beginners to practitioners, focusing on practical implementation through Jupyter notebooks and real-world applications.
+
+### About this Course
+
+This bootcamp provides a structured learning experience in computer vision, combining theoretical understanding with practical implementation. All materials are freely available on [GitHub](https://github.com/andandandand/practical-computer-vision/tree/main), making cutting-edge computer vision education accessible to everyone.
+
+[\[Read More\]](https://www.kineto.ai/courses/practical-computer-vision-bootcamp/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Deep Learning Fundamentals
+## NVIDIA DLI Fundamentals of Deep Learning
+
+A comprehensive 8-hour instructor-led training that introduces participants to deep learning techniques, focusing on computer vision and natural language processing. Learn fundamental deep learning training techniques using PyTorch through hands-on exercises with dedicated GPU-accelerated cloud server access.
+
+**Key Topics Covered:**
+
+- Mechanics of deep learning
+- Convolutional neural networks
+- Data augmentation techniques
+- Pre-trained models and transfer learning
+- Image classification
+
+**Learning Objectives:**
+
+- Learn fundamental deep learning training techniques
+- Understand common data types and model architectures
+- Enhance datasets through data augmentation
+- Leverage transfer learning between models to achieve efficient results with less data and computation
+- Build confidence in deep learning frameworks
+
+**Prerequisites:**
+
+- Python 3 programming fundamentals
+- Understanding of functions, loops, dictionaries, arrays
+- Familiarity with Pandas data structures
+- Basic understanding of regression lines
+
+**Course Features:**
+
+- Hands-on exercises with real-world applications
+- Skills-based coding assessments
+- NVIDIA DLI certificate upon successful completion
+
+* * *
+
+## Course includes
+
+- Hands-on lab exercises
+- Industry-relevant projects
+- Certificate of competence (upon passing the graded assessments)
+- Access to NVIDIA DLI pre-configured computing environments with GPUs
+
+* * *
+
+## Get Started
+
+Ready to advance your AI skills? Contact us via [info@kineto.ai](mailto:info@kineto.ai) to learn more about course availability, scheduling, and enrollment options.
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Generative AI Course
+## NVIDIA DLI Generative AI with Diffusion Models
+
+### About this Course
+
+Thanks to improvements in computing power and scientific theory, generative AI is more accessible than ever before. Generative AI plays a significant role across industries due to its numerous applications, such as creative content generation, data augmentation, simulation and planning, anomaly detection, drug discovery, personalized recommendations, and more. In this course, learners will take a deeper dive into denoising diffusion models, which are a popular choice for text-to-image pipelines.
+
+* * *
+
+### Learning Objectives
+
+- Build a U-Net to generate images from pure noise
+- Improve the quality of generated images with the denoising diffusion process
+- Control the image output with context embeddings
+- Generate images from English text prompts using the Contrastive Language—Image Pretraining (CLIP) neural network
+
+* * *
+
+### Topics Covered
+
+- U-Nets
+- Diffusion
+- CLIP
+- Text-to-image Models
+
+* * *
+
+### Course Outline
+
+#### From U-Net to Diffusion
+
+- Build a U-Net architecture.
+- Train a model to remove noise from an image.
+
+#### Diffusion Models
+
+- Define the forward diffusion function.
+- Update the U-Net architecture to accommodate a timestep.
+- Define a reverse diffusion function.
+
+#### Optimizations
+
+- Implement Group Normalization.
+- Implement GELU.
+- Implement Rearrange Pooling.
+- Implement Sinusoidal Position Embeddings.
+
+#### Classifier-Free Diffusion Guidance
+
+- Add categorical embeddings to a U-Net.
+- Train a model with a Bernoulli mask.
+
+#### CLIP
+
+- Learn how to use CLIP Encodings.
+- Use CLIP to create a text-to-image neural network.
+
+* * *
+
+## Course includes
+
+- Hands-on lab exercises
+- Industry-relevant projects
+- Certificate of competence (upon passing the graded assessments)
+- Access to NVIDIA DLI pre-configured computing environments with GPUs
+
+* * *
+
+## Get Started
+
+Ready to advance your AI skills? Contact us via [info@kineto.ai](mailto:info@kineto.ai) to learn more about course availability, scheduling, and enrollment options.
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Multimodal AI Agents Course
+## NVIDIA DLI Building AI Agents with Multimodal Models
+
+## About this Course
+
+Learn how to build neural network agents that reason across multiple data types using advanced fusion techniques, OCR, and NVIDIA AI Blueprints for real-world applications like robotics and video search and summarization.
+
+* * *
+
+## Learning Objectives
+
+In this course, you will learn about:
+
+- Different data types and how to make them neural network ready
+- Model fusion, and the differences between early, late, and intermediate fusion
+- PDF extraction using OCR
+- The difference between modality and agent orchestration
+- Customization of NVIDIA AI Blueprints with Video Search and Summarization (VSS)
+
+* * *
+
+## Topics Covered
+
+- Begin with a robotics use case to show how different datatypes impact an effective neural-networks architecture.
+- Apply mathematical concepts from robotics to Large Language Models (LLMs) to modify them for non-language data input.
+- End with orchestration of multiple models to answer user queries.
+
+* * *
+
+## Course Outline
+
+1. **Early and Late Fusion** (1 hr)
+
+   - Use camera and LiDAR data to predict object positions.
+   - Convert various datatypes to make them neural network ready.
+2. **Intermediate Fusion** (1 hr)
+
+   - Explore the theory behind effective multimodal model architecture.
+   - Train a Contrastive Pretraining model.
+   - Create a vector database.
+3. **Cross-modal Projection** (2 hr)
+
+   - Convert a Language model into a Vision Language Model (VLM).
+   - Process PDFs with Optical Character Recognition (OCR) tools.
+4. **Model Orchestration** (2 hr)
+
+   - Analyze video using Cosmos Nemotron.
+   - Use VSS to answer user queries about video content.
+   - Orchestrate with NVIDIA AI Blueprints.
+5. **Assessment** (1 hr)
+
+   - Convert a pre-trained model to input a different datatype using projection.
+
+* * *
+
+## Course includes
+
+- Hands-on lab exercises
+- Industry-relevant projects
+- Certificate of competence (upon passing the graded assessments)
+- Access to NVIDIA DLI pre-configured computing environments with GPUs
+
+* * *
+
+## Get Started
+
+Ready to advance your AI skills? Contact us via [info@kineto.ai](mailto:info@kineto.ai) to learn more about course availability, scheduling, and enrollment options.
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Computer Vision Bootcamp
+## Practical Computer Vision Bootcamp
+
+A comprehensive, **free and open-source** computer vision learning path from foundational concepts to advanced applications. This hands-on bootcamp is designed for learners at various skill levels, from beginners to practitioners, focusing on practical implementation through Jupyter notebooks and real-world applications.
+
+### About this Course
+
+This bootcamp provides a structured learning experience in computer vision, combining theoretical understanding with practical implementation. All materials are freely available on [GitHub](https://github.com/andandandand/practical-computer-vision/tree/main), making cutting-edge computer vision education accessible to everyone.
+
+**Course Highlights:**
+
+- **100% Free and Open Source** \- All materials available on GitHub
+- Interactive Jupyter notebooks with hands-on exercises
+- Multiple platform support (Google Colab, Kaggle)
+- Accompanying YouTube video series
+- Community Discord channel for support
+- Related to workshops from the [Berlin Computer Vision Group](https://www.meetup.com/de-DE/berlin-computer-vision-group/)
+
+* * *
+
+### Learning Modules
+
+#### 1\. Foundations
+
+- Digital image representation and processing
+- Basic image manipulation techniques
+- Understanding pixel data and image formats
+
+#### 2\. Neural Network Fundamentals
+
+- Multilayer Perceptron (MLP) for image-based regression
+- Matrix multiplication and network architecture
+- Understanding neural network mechanics
+
+#### 3\. Convolutional Neural Networks (CNNs)
+
+- LeNet5 implementation from scratch
+- Digit recognition projects
+- Dropout visualization and regularization techniques
+
+#### 4\. Advanced Classification & Transfer Learning
+
+- Pet breed classification using real-world datasets
+- Pretrained ResNet models and fine-tuning
+- Multilabel classification techniques
+- Model interpretability and visualization methods
+
+#### 5\. Image Embeddings & Similarity
+
+- Understanding high-dimensional image representations
+- Visualization techniques for embeddings
+- Clustering and organizing image datasets
+
+#### 6\. Specialized Advanced Topics
+
+- **Image Segmentation** using U-Net architecture
+- **Zero-Shot Learning** with CLIP models
+- **Generative Models** including Diffusion and Stable Diffusion
+
+* * *
+
+### Technology Stack
+
+- **PyTorch** \- Primary deep learning framework
+- **FiftyOne** \- Dataset visualization and management
+- **TensorBoard** \- Training monitoring and visualization
+- **scikit-learn** \- Traditional machine learning tools
+- **Jupyter Notebooks** \- Interactive learning environment
+
+* * *
+
+### Learning Resources
+
+- **Interactive Notebooks** with complete implementations
+- **Video Tutorials** explaining key concepts
+- **Review Questions** to reinforce learning
+- **Community Support** through Discord channel
+- **Structured Course** available on openHPI platform
+
+* * *
+
+### Berlin Computer Vision Group Connection
+
+This bootcamp is closely related to workshops conducted by the [Berlin Computer Vision Group](https://www.meetup.com/de-DE/berlin-computer-vision-group/), a vibrant community of computer vision practitioners, researchers, and enthusiasts in Berlin. The group regularly hosts meetups, workshops, and networking events focused on the latest developments in computer vision and machine learning.
+
+* * *
+
+### Course Features
+
+- **Hands-on Learning** with real-world projects
+- **Progressive Difficulty** from basics to advanced topics
+- **Open Source Commitment** \- freely available to all
+- **Community Driven** with active support channels
+- **Industry Relevant** techniques and applications
+- **Multiple Learning Formats** \- notebooks, videos, and interactive sessions
+
+* * *
+
+## Get Started
+
+Ready to dive into practical computer vision? This course is completely **free and open source**.
+
+- **GitHub Repository:** [https://github.com/andandandand/practical-computer-vision](https://github.com/andandandand/practical-computer-vision/tree/main)
+- **Berlin Computer Vision Group:** [https://www.meetup.com/de-DE/berlin-computer-vision-group/](https://www.meetup.com/de-DE/berlin-computer-vision-group/)
+
+Contact us via [info@kineto.ai](mailto:info@kineto.ai) for more information about related workshops and training opportunities.
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## NVIDIA DLI Workshop
+[**NVIDIA DLI Workshop: KI-Agenten mit Multimodalen Modellen erstellen - 27. September 2025**  **Nehmen Sie an unserem 8-stündigen Zertifizierungs-Workshop für akademisches Personal und Studierende teil**](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Gepostet am August 26, 2025
+\|  Antonio Rueda-Toicen
+• Andere Sprachen: [English](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Wir freuen uns, einen **kostenlosen NVIDIA Deep Learning Institute (DLI) Zertifizierungs-Workshop** anzukündigen, der speziell für akademisches Personal und Studierende entwickelt wurde. Dieser umfassende 8-stündige Workshop taucht tief in den Aufbau neuronaler Netzwerk-Agenten ein, die mehrere Datentypen verstehen und verarbeiten können.
+
+## Workshop-Details
+
+**Datum:** Samstag, 27. September 2025
+
+**Zeit:** 10:30 - 18:30 Uhr (8 Stunden)
+
+**Format:** Online-Veranstaltung
+
+**Kosten:** Völlig kostenlos (für akademische Teilnehmer)
+
+**Berechtigung:** Akademisches Personal und Studierende mit gültiger institutioneller E-Mail-Adresse
+
+[\[Mehr\]](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/de/tags/workshop/) [NVIDIA](https://www.kineto.ai/de/tags/nvidia/) [Multimodale KI](https://www.kineto.ai/de/tags/multimodale-ki/) [Deep Learning](https://www.kineto.ai/de/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/de/tags/berlin-computer-vision-group/) [Akademie](https://www.kineto.ai/de/tags/akademie/) [Kostenloses Training](https://www.kineto.ai/de/tags/kostenloses-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## NVIDIA Multimodal AI Workshop
+[**NVIDIA DLI Workshop: KI-Agenten mit Multimodalen Modellen erstellen - 27. September 2025**  **Nehmen Sie an unserem 8-stündigen Zertifizierungs-Workshop für akademisches Personal und Studierende teil**](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Gepostet am August 26, 2025
+\|  Antonio Rueda-Toicen
+• Andere Sprachen: [English](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Wir freuen uns, einen **kostenlosen NVIDIA Deep Learning Institute (DLI) Zertifizierungs-Workshop** anzukündigen, der speziell für akademisches Personal und Studierende entwickelt wurde. Dieser umfassende 8-stündige Workshop taucht tief in den Aufbau neuronaler Netzwerk-Agenten ein, die mehrere Datentypen verstehen und verarbeiten können.
+
+## Workshop-Details
+
+**Datum:** Samstag, 27. September 2025
+
+**Zeit:** 10:30 - 18:30 Uhr (8 Stunden)
+
+**Format:** Online-Veranstaltung
+
+**Kosten:** Völlig kostenlos (für akademische Teilnehmer)
+
+**Berechtigung:** Akademisches Personal und Studierende mit gültiger institutioneller E-Mail-Adresse
+
+[\[Mehr\]](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/de/tags/workshop/) [NVIDIA](https://www.kineto.ai/de/tags/nvidia/) [Multimodale KI](https://www.kineto.ai/de/tags/multimodale-ki/) [Deep Learning](https://www.kineto.ai/de/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/de/tags/berlin-computer-vision-group/) [Akademie](https://www.kineto.ai/de/tags/akademie/) [Kostenloses Training](https://www.kineto.ai/de/tags/kostenloses-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## NVIDIA DLI Workshop
+[**NVIDIA DLI Workshop: KI-Agenten mit Multimodalen Modellen erstellen - 27. September 2025**  **Nehmen Sie an unserem 8-stündigen Zertifizierungs-Workshop für akademisches Personal und Studierende teil**](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Gepostet am August 26, 2025
+\|  Antonio Rueda-Toicen
+• Andere Sprachen: [English](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Wir freuen uns, einen **kostenlosen NVIDIA Deep Learning Institute (DLI) Zertifizierungs-Workshop** anzukündigen, der speziell für akademisches Personal und Studierende entwickelt wurde. Dieser umfassende 8-stündige Workshop taucht tief in den Aufbau neuronaler Netzwerk-Agenten ein, die mehrere Datentypen verstehen und verarbeiten können.
+
+## Workshop-Details
+
+**Datum:** Samstag, 27. September 2025
+
+**Zeit:** 10:30 - 18:30 Uhr (8 Stunden)
+
+**Format:** Online-Veranstaltung
+
+**Kosten:** Völlig kostenlos (für akademische Teilnehmer)
+
+**Berechtigung:** Akademisches Personal und Studierende mit gültiger institutioneller E-Mail-Adresse
+
+[\[Mehr\]](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/de/tags/workshop/) [NVIDIA](https://www.kineto.ai/de/tags/nvidia/) [Multimodale KI](https://www.kineto.ai/de/tags/multimodale-ki/) [Deep Learning](https://www.kineto.ai/de/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/de/tags/berlin-computer-vision-group/) [Akademie](https://www.kineto.ai/de/tags/akademie/) [Kostenloses Training](https://www.kineto.ai/de/tags/kostenloses-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Corporate AI Training Solutions
+## Unternehmensspezifische KI-Schulungslösungen
+
+Kineto.ai bietet praxisnahe Schulungen in Computer Vision, moderner KI und maschinellem Lernen für Unternehmens-Teams. Wir helfen Organisationen dabei, interne KI-Fähigkeiten durch praktische, ergebnisorientierte Bildung aufzubauen.
+
+## Schulungsschwerpunkte
+
+- Computer Vision-Anwendungen und -Implementierung
+- Moderne KI-Frameworks und Tools
+- Entwicklung und Bereitstellung von Machine Learning-Modellen
+
+## Unser Ansatz
+
+- **Bewertung** Evaluierung der aktuellen Team-Fähigkeiten und geschäftlichen KI-Bedürfnisse
+- **Individueller Lehrplan** Gestaltung von Schulungsprogrammen für Ihre spezifischen Anwendungsfälle
+- **Praktisches Lernen** Praxisworkshops mit echten Daten und Geschäftsproblemen
+- **Implementierungsunterstützung** Anleitung zur Anwendung neuer Fähigkeiten in Produktionssystemen
+
+## Warum KINETO
+
+- Branchenerprobte KI-Expertise in verschiedenen Sektoren
+- Deutschland-basiert mit DSGVO-Compliance-Fokus
+- Schulungsprogramme, die technische Konzepte mit Geschäftswert verknüpfen
+
+_Kontaktieren Sie uns, um die KI-Schulungsbedarfe Ihres Teams zu besprechen._
+
+[**NVIDIA DLI Workshop: KI-Agenten mit Multimodalen Modellen erstellen - 27. September 2025**  **Nehmen Sie an unserem 8-stündigen Zertifizierungs-Workshop für akademisches Personal und Studierende teil**](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Gepostet am August 26, 2025
+\|  Antonio Rueda-Toicen
+• Andere Sprachen: [English](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Wir freuen uns, einen **kostenlosen NVIDIA Deep Learning Institute (DLI) Zertifizierungs-Workshop** anzukündigen, der speziell für akademisches Personal und Studierende entwickelt wurde. Dieser umfassende 8-stündige Workshop taucht tief in den Aufbau neuronaler Netzwerk-Agenten ein, die mehrere Datentypen verstehen und verarbeiten können.
+
+## Workshop-Details
+
+**Datum:** Samstag, 27. September 2025
+
+**Zeit:** 10:30 - 18:30 Uhr (8 Stunden)
+
+**Format:** Online-Veranstaltung
+
+**Kosten:** Völlig kostenlos (für akademische Teilnehmer)
+
+**Berechtigung:** Akademisches Personal und Studierende mit gültiger institutioneller E-Mail-Adresse
+
+[\[Mehr\]](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/de/tags/workshop/) [NVIDIA](https://www.kineto.ai/de/tags/nvidia/) [Multimodale KI](https://www.kineto.ai/de/tags/multimodale-ki/) [Deep Learning](https://www.kineto.ai/de/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/de/tags/berlin-computer-vision-group/) [Akademie](https://www.kineto.ai/de/tags/akademie/) [Kostenloses Training](https://www.kineto.ai/de/tags/kostenloses-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Free AI Training Workshop
+[**NVIDIA DLI Workshop: KI-Agenten mit Multimodalen Modellen erstellen - 27. September 2025**  **Nehmen Sie an unserem 8-stündigen Zertifizierungs-Workshop für akademisches Personal und Studierende teil**](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Gepostet am August 26, 2025
+\|  Antonio Rueda-Toicen
+• Andere Sprachen: [English](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Wir freuen uns, einen **kostenlosen NVIDIA Deep Learning Institute (DLI) Zertifizierungs-Workshop** anzukündigen, der speziell für akademisches Personal und Studierende entwickelt wurde. Dieser umfassende 8-stündige Workshop taucht tief in den Aufbau neuronaler Netzwerk-Agenten ein, die mehrere Datentypen verstehen und verarbeiten können.
+
+## Workshop-Details
+
+**Datum:** Samstag, 27. September 2025
+
+**Zeit:** 10:30 - 18:30 Uhr (8 Stunden)
+
+**Format:** Online-Veranstaltung
+
+**Kosten:** Völlig kostenlos (für akademische Teilnehmer)
+
+**Berechtigung:** Akademisches Personal und Studierende mit gültiger institutioneller E-Mail-Adresse
+
+[\[Mehr\]](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/de/tags/workshop/) [NVIDIA](https://www.kineto.ai/de/tags/nvidia/) [Multimodale KI](https://www.kineto.ai/de/tags/multimodale-ki/) [Deep Learning](https://www.kineto.ai/de/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/de/tags/berlin-computer-vision-group/) [Akademie](https://www.kineto.ai/de/tags/akademie/) [Kostenloses Training](https://www.kineto.ai/de/tags/kostenloses-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Multimodal AI Workshop
+[**NVIDIA DLI Workshop: KI-Agenten mit Multimodalen Modellen erstellen - 27. September 2025**  **Nehmen Sie an unserem 8-stündigen Zertifizierungs-Workshop für akademisches Personal und Studierende teil**](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Gepostet am August 26, 2025
+\|  Antonio Rueda-Toicen
+• Andere Sprachen: [English](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Wir freuen uns, einen **kostenlosen NVIDIA Deep Learning Institute (DLI) Zertifizierungs-Workshop** anzukündigen, der speziell für akademisches Personal und Studierende entwickelt wurde. Dieser umfassende 8-stündige Workshop taucht tief in den Aufbau neuronaler Netzwerk-Agenten ein, die mehrere Datentypen verstehen und verarbeiten können.
+
+## Workshop-Details
+
+**Datum:** Samstag, 27. September 2025
+
+**Zeit:** 10:30 - 18:30 Uhr (8 Stunden)
+
+**Format:** Online-Veranstaltung
+
+**Kosten:** Völlig kostenlos (für akademische Teilnehmer)
+
+**Berechtigung:** Akademisches Personal und Studierende mit gültiger institutioneller E-Mail-Adresse
+
+[\[Mehr\]](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/de/tags/workshop/) [NVIDIA](https://www.kineto.ai/de/tags/nvidia/) [Multimodale KI](https://www.kineto.ai/de/tags/multimodale-ki/) [Deep Learning](https://www.kineto.ai/de/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/de/tags/berlin-computer-vision-group/) [Akademie](https://www.kineto.ai/de/tags/akademie/) [Kostenloses Training](https://www.kineto.ai/de/tags/kostenloses-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## NVIDIA Multimodal AI Workshop
+[**NVIDIA DLI Workshop: KI-Agenten mit Multimodalen Modellen erstellen - 27. September 2025**  **Nehmen Sie an unserem 8-stündigen Zertifizierungs-Workshop für akademisches Personal und Studierende teil**](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Gepostet am August 26, 2025
+\|  Antonio Rueda-Toicen
+• Andere Sprachen: [English](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Wir freuen uns, einen **kostenlosen NVIDIA Deep Learning Institute (DLI) Zertifizierungs-Workshop** anzukündigen, der speziell für akademisches Personal und Studierende entwickelt wurde. Dieser umfassende 8-stündige Workshop taucht tief in den Aufbau neuronaler Netzwerk-Agenten ein, die mehrere Datentypen verstehen und verarbeiten können.
+
+## Workshop-Details
+
+**Datum:** Samstag, 27. September 2025
+
+**Zeit:** 10:30 - 18:30 Uhr (8 Stunden)
+
+**Format:** Online-Veranstaltung
+
+**Kosten:** Völlig kostenlos (für akademische Teilnehmer)
+
+**Berechtigung:** Akademisches Personal und Studierende mit gültiger institutioneller E-Mail-Adresse
+
+[\[Mehr\]](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/de/tags/workshop/) [NVIDIA](https://www.kineto.ai/de/tags/nvidia/) [Multimodale KI](https://www.kineto.ai/de/tags/multimodale-ki/) [Deep Learning](https://www.kineto.ai/de/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/de/tags/berlin-computer-vision-group/) [Akademie](https://www.kineto.ai/de/tags/akademie/) [Kostenloses Training](https://www.kineto.ai/de/tags/kostenloses-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## NVIDIA DLI Workshop
+Wir freuen uns, einen **kostenlosen NVIDIA Deep Learning Institute (DLI) Zertifizierungs-Workshop** anzukündigen, der speziell für akademisches Personal und Studierende entwickelt wurde. Dieser umfassende 8-stündige Workshop taucht tief in den Aufbau neuronaler Netzwerk-Agenten ein, die mehrere Datentypen verstehen und verarbeiten können.
+
+## Workshop-Details
+
+**Datum:** Samstag, 27. September 2025
+
+**Zeit:** 10:30 - 18:30 Uhr (8 Stunden)
+
+**Format:** Online-Veranstaltung
+
+**Kosten:** Völlig kostenlos (für akademische Teilnehmer)
+
+**Berechtigung:** Akademisches Personal und Studierende mit gültiger institutioneller E-Mail-Adresse
+
+## Was Sie lernen werden
+
+Dieser praxisorientierte Workshop konzentriert sich auf den Aufbau neuronaler Netzwerk-Agenten, die über mehrere Datentypen hinweg mit erweiterten Fusionstechniken, OCR und NVIDIA AI Blueprints argumentieren. Perfekt für Forscher, die in den Bereichen Robotik, Gesundheitswesen und kollaborative KI-Systeme arbeiten.
+
+### Wichtige Lernziele
+
+- **Data Fusion Meisterschaft:** Lernen Sie, Kamera-, LiDAR- und andere Sensordaten effektiv zu kombinieren
+- **Dokument-KI-Verarbeitung:** Meistern Sie PDF-Extraktion und -Verarbeitung mit OCR-Techniken
+- **Agenten-Orchestrierung:** Verstehen Sie, wie Sie mehrere KI-Modelle für komplexe Aufgaben koordinieren
+- **NVIDIA AI Blueprints:** Nutzen Sie vorgefertigte Lösungen für reale Anwendungen
+- **Modell-Transformation:** Wandeln Sie Sprachmodelle in leistungsstarke Vision-Language-Modelle um
+
+## Workshop-Agenda
+
+### **Session 1: Frühe & Späte Fusion** _(1 Stunde)_
+
+Lernen Sie die Grundlagen der Kombination verschiedener Datentypen und verstehen Sie, wann frühe versus späte Fusionstechniken verwendet werden.
+
+### **Session 2: Zwischenzeitliche Fusion** _(1 Stunde)_
+
+Erkunden Sie erweiterte Fusionsarchitekturen und ihre Anwendungen in multimodalen KI-Systemen.
+
+### **Session 3: Cross-modale Projektion** _(2 Stunden)_
+
+Tiefer Einblick in die Transformation von Modellen zur Handhabung mehrerer Datenmodalitäten, einschließlich praktischer PDF-Verarbeitung mit OCR.
+
+### **Session 4: Modell-Orchestrierung** _(2 Stunden)_
+
+Meistern Sie die Kunst der Koordination mehrerer KI-Modelle zur nahtlosen Zusammenarbeit mit NVIDIA AI Blueprints.
+
+### **Session 5: Abschlussbewertung** _(1 Stunde)_
+
+Demonstrieren Sie Ihre neuen Fähigkeiten und verdienen Sie sich Ihre NVIDIA DLI-Zertifizierung.
+
+## Warum sollten Sie an diesem Workshop teilnehmen?
+
+### **Kostenlose Zertifizierung**
+
+Verdienen Sie sich ein wertvolles NVIDIA Deep Learning Institute-Zertifikat kostenlos - normalerweise haben diese Workshops erhebliche Gebühren.
+
+### **Akademischer Fokus**
+
+Speziell zugeschnitten für Forscher und Studierende, mit Beispielen, die für akademische Arbeit und Forschungsanwendungen relevant sind.
+
+### **Hochmoderne Inhalte**
+
+Lernen Sie die neuesten Techniken in multimodaler KI, die die Zukunft der KI-Forschung prägen.
+
+### **Community-Verbindung**
+
+Vernetzen Sie sich mit anderen akademischen Forschern in der Berlin Computer Vision Group Community.
+
+## Über die Berlin Computer Vision Group
+
+Dieser Workshop wird in Zusammenarbeit mit der [Berlin Computer Vision Group](https://www.meetup.com/berlin-computer-vision-group/) veranstaltet, Berlins führender Community für Computer Vision-Praktiker, Forscher und Enthusiasten. Die Gruppe veranstaltet regelmäßig Workshops, Networking-Events und technische Präsentationen zu den neuesten Entwicklungen in Computer Vision und maschinellem Lernen.
+
+## Anmeldungsvoraussetzungen
+
+- **Akademische E-Mail erforderlich:** Sie müssen sich mit einer gültigen E-Mail-Adresse einer akademischen Institution anmelden
+- **Anmeldung:** Füllen Sie das unten verlinkte Anmeldeformular aus
+- **Voraussetzungen:** Grundverständnis von Machine Learning-Konzepten empfohlen
+
+## Über den Dozenten
+
+Der Workshop wird von **Antonio Rueda-Toicen**, Geschäftsführer von Kineto.ai und aktivem Mitglied der Berlin Computer Vision Group, geleitet. Mit über 12 Jahren Erfahrung in KI-Entwicklung und -Schulung bringt Antonio tiefgreifende Expertise in praktischer KI-Implementierung für akademische und industrielle Anwendungen mit.
+
+## Anmeldung
+
+Dies ist eine einzigartige Gelegenheit, praktische Erfahrungen mit modernsten multimodalen KI-Techniken zu sammeln und gleichzeitig eine wertvolle Zertifizierung zu erhalten - völlig kostenlos für akademische Teilnehmer.
+
+**[Hier für den Workshop anmelden](https://www.meetup.com/berlin-computer-vision-group/events/310676936/)**
+
+Haben Sie Fragen zum Workshop oder möchten Sie mehr über unsere anderen Schulungsangebote erfahren? [Kontaktieren Sie uns](https://www.kineto.ai/de/contact/) \- wir würden gerne von Ihnen hören!
+
+* * *
+
+_Dieser Workshop ist Teil von Kineto.ais Engagement zur Förderung der KI-Bildung in der akademischen Gemeinschaft. Wir bieten regelmäßig spezialisierte Schulungsprogramme für Forscher, Studierende und Branchenprofis an._
+
+[Workshop](https://www.kineto.ai/de/tags/workshop/) [NVIDIA](https://www.kineto.ai/de/tags/nvidia/) [Multimodale KI](https://www.kineto.ai/de/tags/multimodale-ki/) [Deep Learning](https://www.kineto.ai/de/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/de/tags/berlin-computer-vision-group/) [Akademie](https://www.kineto.ai/de/tags/akademie/) [Kostenloses Training](https://www.kineto.ai/de/tags/kostenloses-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## AI Workshops and Resources
+**akademie 1**
+
+[View all](https://www.kineto.ai/de/tags/akademie/)
+
+[NVIDIA DLI Workshop: KI-Agenten mit Multimodalen Modellen erstellen - 27. September 2025](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+**berlin computer vision group 1**
+
+[View all](https://www.kineto.ai/de/tags/berlin-computer-vision-group/)
+
+[NVIDIA DLI Workshop: KI-Agenten mit Multimodalen Modellen erstellen - 27. September 2025](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+**deep learning 1**
+
+[View all](https://www.kineto.ai/de/tags/deep-learning/)
+
+[NVIDIA DLI Workshop: KI-Agenten mit Multimodalen Modellen erstellen - 27. September 2025](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+**kostenloses training 1**
+
+[View all](https://www.kineto.ai/de/tags/kostenloses-training/)
+
+[NVIDIA DLI Workshop: KI-Agenten mit Multimodalen Modellen erstellen - 27. September 2025](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+**multimodale ki 1**
+
+[View all](https://www.kineto.ai/de/tags/multimodale-ki/)
+
+[NVIDIA DLI Workshop: KI-Agenten mit Multimodalen Modellen erstellen - 27. September 2025](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+**nvidia 1**
+
+[View all](https://www.kineto.ai/de/tags/nvidia/)
+
+[NVIDIA DLI Workshop: KI-Agenten mit Multimodalen Modellen erstellen - 27. September 2025](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+**workshop 1**
+
+[View all](https://www.kineto.ai/de/tags/workshop/)
+
+[NVIDIA DLI Workshop: KI-Agenten mit Multimodalen Modellen erstellen - 27. September 2025](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## NVIDIA DLI Workshop
+[**NVIDIA DLI Workshop: KI-Agenten mit Multimodalen Modellen erstellen - 27. September 2025**  **Nehmen Sie an unserem 8-stündigen Zertifizierungs-Workshop für akademisches Personal und Studierende teil**](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Gepostet am August 26, 2025
+\|  Antonio Rueda-Toicen
+• Andere Sprachen: [English](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Wir freuen uns, einen **kostenlosen NVIDIA Deep Learning Institute (DLI) Zertifizierungs-Workshop** anzukündigen, der speziell für akademisches Personal und Studierende entwickelt wurde. Dieser umfassende 8-stündige Workshop taucht tief in den Aufbau neuronaler Netzwerk-Agenten ein, die mehrere Datentypen verstehen und verarbeiten können.
+
+## Workshop-Details
+
+**Datum:** Samstag, 27. September 2025
+
+**Zeit:** 10:30 - 18:30 Uhr (8 Stunden)
+
+**Format:** Online-Veranstaltung
+
+**Kosten:** Völlig kostenlos (für akademische Teilnehmer)
+
+**Berechtigung:** Akademisches Personal und Studierende mit gültiger institutioneller E-Mail-Adresse
+
+[\[Mehr\]](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/de/tags/workshop/) [NVIDIA](https://www.kineto.ai/de/tags/nvidia/) [Multimodale KI](https://www.kineto.ai/de/tags/multimodale-ki/) [Deep Learning](https://www.kineto.ai/de/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/de/tags/berlin-computer-vision-group/) [Akademie](https://www.kineto.ai/de/tags/akademie/) [Kostenloses Training](https://www.kineto.ai/de/tags/kostenloses-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Kineto Terms and Conditions
+# Allgemeine Geschäftsbedingungen (AGB)
+
+_Stand: 19. August 2025_
+
+## § 1 Geltungsbereich
+
+1.1 Diese Allgemeinen Geschäftsbedingungen (nachfolgend „AGB") gelten für alle Geschäftsbeziehungen zwischen der Kineto UG, Leibnizstrasse 85, 10625 Berlin, Deutschland (nachfolgend „Auftragnehmer" oder „wir") und ihren Auftraggebern (nachfolgend „Auftraggeber" oder „Sie").
+
+1.2 Diese AGB gelten ausschließlich. Abweichende, entgegenstehende oder ergänzende Allgemeine Geschäftsbedingungen des Auftraggebers werden nicht Vertragsbestandteil, es sei denn, ihrer Geltung wird ausdrücklich schriftlich zugestimmt.
+
+1.3 Diese AGB gelten auch für alle zukünftigen Geschäfte mit dem Auftraggeber.
+
+## § 2 Vertragsschluss
+
+2.1 Unsere Angebote sind freibleibend und unverbindlich, sofern sie nicht ausdrücklich als verbindlich bezeichnet sind.
+
+2.2 Der Vertrag kommt durch die schriftliche Auftragsbestätigung oder durch Beginn der Leistungserbringung zustande.
+
+2.3 Änderungen des Vertrages bedürfen der Schriftform.
+
+## § 3 Leistungen
+
+3.1 Gegenstand unserer Tätigkeit sind Beratungsdienstleistungen, Schulungen und Trainings im Bereich Künstliche Intelligenz, Computer Vision und Machine Learning.
+
+3.2 Der Umfang der zu erbringenden Leistungen ergibt sich aus der jeweiligen Auftragsbestätigung und den zugrunde liegenden Angeboten.
+
+3.3 Wir sind berechtigt, Unterauftragnehmer zur Erfüllung unserer Leistungsverpflichtungen einzusetzen.
+
+## § 4 Mitwirkungspflichten des Auftraggebers
+
+4.1 Der Auftraggeber stellt alle für die Durchführung des Auftrags erforderlichen Informationen, Daten und Unterlagen rechtzeitig und vollständig zur Verfügung.
+
+4.2 Der Auftraggeber benennt einen fachlich qualifizierten Ansprechpartner, der zur Entscheidung in allen den Auftrag betreffenden Fragen berechtigt ist.
+
+4.3 Verzögerungen und Kosten, die durch unzureichende Mitwirkung des Auftraggebers entstehen, gehen zu Lasten des Auftraggebers.
+
+## § 5 Termine und Fristen
+
+5.1 Termine und Fristen sind nur dann verbindlich, wenn sie ausdrücklich schriftlich als verbindlich vereinbart wurden.
+
+5.2 Kommt der Auftraggeber in Annahmeverzug oder verletzt er sonstige Mitwirkungspflichten, verlängern sich die Leistungsfristen entsprechend.
+
+## § 6 Vergütung und Zahlungsbedingungen
+
+6.1 Die Vergütung richtet sich nach der getroffenen Vereinbarung. Sofern nichts anderes vereinbart ist, gelten unsere zum Zeitpunkt der Auftragserteilung aktuellen Stundensätze.
+
+6.2 Alle Preise verstehen sich zuzüglich der gesetzlichen Umsatzsteuer.
+
+6.3 Rechnungen sind innerhalb von 14 Tagen nach Rechnungsstellung ohne Abzug zur Zahlung fällig.
+
+6.4 Bei Zahlungsverzug sind wir berechtigt, Verzugszinsen in Höhe von 9 Prozentpunkten über dem Basiszinssatz zu berechnen.
+
+## § 7 Aufrechnung und Zurückbehaltungsrecht
+
+7.1 Der Auftraggeber kann nur mit rechtskräftig festgestellten oder unbestrittenen Forderungen aufrechnen.
+
+7.2 Die Geltendmachung eines Zurückbehaltungsrechts ist nur wegen Gegenansprüchen aus demselben Vertragsverhältnis zulässig.
+
+## § 8 Urheberrecht und Nutzungsrechte
+
+8.1 Alle Urheberrechte an von uns erstellten Werken (Konzepte, Analysen, Schulungsunterlagen etc.) bleiben bei uns.
+
+8.2 Der Auftraggeber erhält das nicht ausschließliche Recht zur Nutzung der Arbeitsergebnisse für seine eigenen Geschäftszwecke.
+
+8.3 Eine Weitergabe der Arbeitsergebnisse an Dritte bedarf unserer vorherigen schriftlichen Zustimmung.
+
+## § 9 Vertraulichkeit
+
+9.1 Beide Parteien verpflichten sich, alle ihnen im Rahmen der Geschäftsbeziehung bekannt werdenden vertraulichen Informationen streng vertraulich zu behandeln.
+
+9.2 Die Vertraulichkeitsverpflichtung besteht auch nach Beendigung des Vertragsverhältnisses fort.
+
+## § 10 Haftung
+
+10.1 Wir haften nur bei Vorsatz und grober Fahrlässigkeit sowie bei der Verletzung wesentlicher Vertragspflichten (Kardinalpflichten).
+
+10.2 Bei der Verletzung von Kardinalpflichten ist die Haftung auf den vertragstypischen, vorhersehbaren Schaden begrenzt.
+
+10.3 Die Haftung für mittelbare Schäden, Folgeschäden und entgangenen Gewinn ist ausgeschlossen.
+
+10.4 Die vorstehenden Haftungsausschlüsse und -beschränkungen gelten nicht bei Verletzung von Leben, Körper oder Gesundheit.
+
+## § 11 Kündigung
+
+11.1 Beide Parteien können das Vertragsverhältnis mit einer Frist von vier Wochen zum Monatsende kündigen, sofern nichts anderes vereinbart ist.
+
+11.2 Das Recht zur außerordentlichen Kündigung aus wichtigem Grund bleibt unberührt.
+
+## § 12 Widerrufsrecht für Verbraucher
+
+12.1 Ist der Auftraggeber Verbraucher im Sinne des § 13 BGB, steht ihm ein Widerrufsrecht zu:
+
+**Widerrufsbelehrung**
+
+Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsabschlusses.
+
+Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (Kineto UG, Leibnizstrasse 85, 10625 Berlin, Deutschland, Telefon: +49(0)179 571 78 63, E-Mail: [contact@kineto.ai](mailto:contact@kineto.ai)) mittels einer eindeutigen Erklärung (z. B. ein mit der Post versandter Brief oder eine E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren.
+
+Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
+
+**Folgen des Widerrufs**
+
+Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist.
+
+## § 13 Datenschutz
+
+13.1 Die Verarbeitung personenbezogener Daten erfolgt entsprechend unserer Datenschutzerklärung.
+
+13.2 Beide Parteien verpflichten sich zur Einhaltung der datenschutzrechtlichen Bestimmungen.
+
+## § 14 Schlussbestimmungen
+
+14.1 Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.
+
+14.2 Erfüllungsort und Gerichtsstand ist Berlin, sofern der Auftraggeber Vollkaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist.
+
+14.3 Sollten einzelne Bestimmungen dieser AGB unwirksam sein oder werden, berührt dies die Wirksamkeit der übrigen Bestimmungen nicht.
+
+* * *
+
+**Kineto UG**
+
+Leibnizstrasse 85
+
+10625 Berlin
+
+Deutschland
+
+Telefon: +49(0)179 571 78 63
+
+E-Mail: [contact@kineto.ai](mailto:contact@kineto.ai)
+
+Geschäftsführer: Antonio Ernesto Rueda Toicen
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Kineto UG Impressum
+## Impressum
+
+**Angaben gemäß § 5 TMG:**
+
+Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+
+Kineto UG
+
+Leibnizstrasse 85
+
+10625 Berlin
+
+Deutschland
+
+**Kontakt:**
+
+Telefon: +49(0)179 571 78 63
+
+E-Mail: [contact@kineto.ai](mailto:contact@kineto.ai)
+
+**Vertreter**
+
+Antonio Ernesto Rueda Toicen, Geschäftsführer
+
+* * *
+
+**Registereintrag:**
+
+Eintragung im Handelsregister.
+
+Registergericht: Amtsgericht Charlottenburg
+
+Registernummer: HRB 271436 B
+
+## Haftungsausschluss
+
+**Haftung für Inhalte**
+
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.
+
+* * *
+
+**Haftung für Links**
+
+Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.
+
+* * *
+
+**Urheberrecht**
+
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## AI Training Contact
+## Kontaktaufnahme
+
+Bereit für eine Weiterbildung in künstlicher Intelligenz?
+
+* * *
+
+## Kontaktinformationen
+
+**E-Mail:** [contact@kineto.ai](mailto:contact@kineto.ai)
+
+**Büroadresse:**
+
+Kineto UG
+
+Leibnizstraße 85
+10625 Berlin
+
+Deutschland
+
+* * *
+
+## Wie wir helfen können
+
+### **Kostenlose Beratung**
+
+Vereinbaren Sie eine kostenlose 30-minütige Beratung, um Ihre Ziele zu besprechen und mögliche Lösungen zu erkunden.
+
+### **KI-Bereitschaftsbewertung**
+
+Erhalten Sie eine umfassende Bewertung der Bereitschaft Ihrer Organisation für KI-Schulungen und -Implementierung.
+
+### **Individuelles Angebot**
+
+Erhalten Sie ein detailliertes, auf Ihre spezifischen Geschäftsanforderungen und Ziele zugeschnittenes Angebot.
+
+* * *
+
+## Was Sie erwarten können
+
+**1\. Erstes Gespräch**
+
+Wir beginnen mit einem Gespräch über Ihre Geschäftsherausforderungen, Ziele und die aktuelle Technologielandschaft.
+
+**2\. Bedarfsanalyse**
+
+Wir führen eine gründliche Analyse Ihrer Anforderungen durch und identifizieren KI-Möglichkeiten.
+
+**3\. Lösungsdesign**
+
+Wir entwickeln eine maßgeschneiderte KI-Strategie und Implementierungs-Roadmap für Ihre Organisation.
+
+**4\. Angebot & nächste Schritte**
+
+Sie erhalten ein detailliertes Angebot mit Zeitplan, Budget und Implementierungsplan.
+
+* * *
+
+## Branchen, die wir bedienen
+
+- Fertigung & Industrie
+- Bildung
+- Gesundheitswesen & Life Sciences
+- Finanzdienstleistungen
+- Einzelhandel & E-Commerce
+- Automotive
+- Technologie & Software
+- Unternehmensberatung
+- Öffentlicher Sektor
+
+* * *
+
+## Geschäftsführer
+
+**Antonio Rueda-Toicen**
+
+Geschäftsführer & Lead KI-Berater
+
+Bringt über 12 Jahre Erfahrung in der Entwicklung, Forschung, Schulung und Geschäftstransformation im Bereich künstlicher Intelligenz mit.
+
+* * *
+
+## Schnelles Kontaktformular
+
+Für sofortige Hilfe senden Sie uns bitte eine E-Mail an **[contact@kineto.ai](mailto:contact@kineto.ai)** mit den folgenden Informationen:
+
+- Ihr Name und Unternehmen
+- Kurze Beschreibung Ihrer KI-Interessen oder Herausforderungen
+- Bevorzugte Kontaktmethode und -zeit
+- Eventuelle spezifische Fragen oder Anforderungen
+
+Wir antworten normalerweise innerhalb von 24 Stunden während der Geschäftstage.
+
+* * *
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## AI Insights and Workshops
+## KI-Einblicke & Expertise
+
+Willkommen im Kineto.ai Blog, wo wir unser Wissen und unsere Perspektiven zu den neuesten Entwicklungen in der künstlichen Intelligenz und Geschäftstransformation teilen.
+
+## Was Sie hier finden
+
+- **KI-Strategie & Implementierung** \- Best Practices für erfolgreiche KI-Adoption
+- **Technische Tiefenanalysen** \- Technische Einblicke in KI und maschinelles Lernen
+- **Branchenanwendungen** \- Reale KI-Anwendungsfälle in verschiedenen Sektoren
+- **Regulierung & Ethik** \- Navigation durch KI-Compliance und ethische Überlegungen
+- **Zukunftstrends** \- Was als nächstes in der KI-Landschaft kommt
+
+Bleiben Sie über die neuesten KI-Entwicklungen informiert und erfahren Sie, wie sie sich auf Ihr Unternehmen auswirken können.
+
+* * *
+
+_Abonnieren Sie unseren Newsletter, um die neuesten Beiträge direkt in Ihren Posteingang zu erhalten._
+
+[**NVIDIA DLI Workshop: KI-Agenten mit Multimodalen Modellen erstellen - 27. September 2025**  **Nehmen Sie an unserem 8-stündigen Zertifizierungs-Workshop für akademisches Personal und Studierende teil**](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Gepostet am August 26, 2025
+\|  Antonio Rueda-Toicen
+• Andere Sprachen: [English](https://www.kineto.ai/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+Wir freuen uns, einen **kostenlosen NVIDIA Deep Learning Institute (DLI) Zertifizierungs-Workshop** anzukündigen, der speziell für akademisches Personal und Studierende entwickelt wurde. Dieser umfassende 8-stündige Workshop taucht tief in den Aufbau neuronaler Netzwerk-Agenten ein, die mehrere Datentypen verstehen und verarbeiten können.
+
+## Workshop-Details
+
+**Datum:** Samstag, 27. September 2025
+
+**Zeit:** 10:30 - 18:30 Uhr (8 Stunden)
+
+**Format:** Online-Veranstaltung
+
+**Kosten:** Völlig kostenlos (für akademische Teilnehmer)
+
+**Berechtigung:** Akademisches Personal und Studierende mit gültiger institutioneller E-Mail-Adresse
+
+[\[Mehr\]](https://www.kineto.ai/de/blog/2025-08-26-nvidia-dli-multimodal-agents-workshop/)
+
+[Workshop](https://www.kineto.ai/de/tags/workshop/) [NVIDIA](https://www.kineto.ai/de/tags/nvidia/) [Multimodale KI](https://www.kineto.ai/de/tags/multimodale-ki/) [Deep Learning](https://www.kineto.ai/de/tags/deep-learning/) [Berlin Computer Vision Group](https://www.kineto.ai/de/tags/berlin-computer-vision-group/) [Akademie](https://www.kineto.ai/de/tags/akademie/) [Kostenloses Training](https://www.kineto.ai/de/tags/kostenloses-training/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Data Protection Overview
+# Datenschutzerklärung
+
+_Letzte Aktualisierung: 15. Januar 2024_
+
+## 1\. Datenschutz auf einen Blick
+
+### Allgemeine Hinweise
+
+Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.
+
+### Datenerfassung auf dieser Website
+
+**Wer ist verantwortlich für die Datenerfassung auf dieser Website?**
+
+Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Abschnitt “Hinweis zur verantwortlichen Stelle” in dieser Datenschutzerklärung entnehmen.
+
+**Wie erfassen wir Ihre Daten?**
+
+Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um Daten handeln, die Sie in ein Kontaktformular eingeben.
+
+Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs).
+
+## 2\. Hosting
+
+Diese Website wird über GitHub Pages gehostet, einem Dienst der GitHub, Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA. Die personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern von GitHub Pages gespeichert. Hierbei kann es sich v. a. um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe und sonstige Daten, die über eine Website generiert werden, handeln.
+
+Der Einsatz von GitHub Pages erfolgt zum Zwecke der Vertragserfüllung gegenüber unseren potenziellen und bestehenden Kunden (Art. 6 Abs. 1 lit. b DSGVO) und im Interesse einer sicheren, schnellen und effizienten Bereitstellung unseres Online-Angebots durch einen professionellen Anbieter (Art. 6 Abs. 1 lit. f DSGVO).
+
+Weitere Informationen zum Datenschutz bei GitHub Pages finden Sie in der Datenschutzerklärung von GitHub: [https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)
+
+## 3\. Allgemeine Hinweise und Pflichtinformationen
+
+### Datenschutz
+
+Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
+
+Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können.
+
+### Hinweis zur verantwortlichen Stelle
+
+Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
+
+**Kineto UG**
+
+Antonio Rueda-Toicen
+
+Leibnizstrasse 85
+
+10625 Berlin
+
+Deutschland
+
+Telefon: +49(0)179 571 78 63
+
+E-Mail: [contact@kineto.ai](mailto:contact@kineto.ai)
+
+Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
+
+### Speicherdauer
+
+Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre personenbezogenen Daten bei uns, bis der Zweck für die Datenverarbeitung entfällt. Wenn Sie ein berechtigtes Löschersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen, werden Ihre Daten gelöscht, sofern wir keine anderen rechtlich zulässigen Gründe für die Speicherung Ihrer personenbezogenen Daten haben.
+
+## 4\. Datenerfassung auf dieser Website
+
+### Cookies
+
+Unsere Internetseiten verwenden so genannte “Cookies”. Cookies sind kleine Textdateien und richten auf Ihrem Endgerät keinen Schaden an. Sie werden entweder vorübergehend für die Dauer einer Sitzung (Session-Cookies) oder dauerhaft (permanente Cookies) auf Ihrem Endgerät gespeichert.
+
+Session-Cookies werden nach Ende Ihres Besuchs automatisch gelöscht. Permanente Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese selbst löschen oder eine automatische Löschung durch Ihren Webbrowser erfolgt.
+
+### Server-Log-Dateien
+
+Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log-Dateien, die Ihr Browser automatisch an uns übermittelt. Dies sind:
+
+- Browsertyp und Browserversion
+- verwendetes Betriebssystem
+- Referrer URL
+- Hostname des zugreifenden Rechners
+- Uhrzeit der Serveranfrage
+- IP-Adresse
+
+Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.
+
+Die Erfassung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse an der technisch fehlerfreien Darstellung und der Optimierung seiner Website.
+
+## 5\. Kontakt und Anfragen
+
+Wenn Sie uns per E-Mail oder über ein Kontaktformular kontaktieren, werden die von Ihnen mitgeteilten Daten (Ihre E-Mail-Adresse, ggf. Ihr Name und Ihre Telefonnummer) von uns gespeichert, um Ihre Fragen zu beantworten. Die in diesem Zusammenhang anfallenden Daten löschen wir, nachdem die Speicherung nicht mehr erforderlich ist, oder schränken die Verarbeitung ein, falls gesetzliche Aufbewahrungspflichten bestehen.
+
+## 6\. Ihre Rechte
+
+Sie haben jederzeit das Recht:
+
+- Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten und deren Verarbeitung zu verlangen
+- Berichtigung unrichtiger personenbezogener Daten zu verlangen
+- Löschung Ihrer bei uns gespeicherten personenbezogenen Daten zu verlangen
+- Einschränkung der Datenverarbeitung zu verlangen
+- Widerspruch gegen die Verarbeitung Ihrer Daten zu erheben
+- Datenübertragbarkeit zu verlangen
+
+Bei Fragen zum Datenschutz wenden Sie sich bitte an: **[contact@kineto.ai](mailto:contact@kineto.ai)**
+
+* * *
+
+_Diese Datenschutzerklärung wurde erstellt in Übereinstimmung mit der Datenschutz-Grundverordnung (DSGVO) und dem Bundesdatenschutzgesetz (BDSG)._
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Kineto.ai - AI Consultancy
+## Über Kineto.ai
+
+Kineto.ai ist eine führende Beratung für künstliche Intelligenz mit Sitz in Berlin, Deutschland, die sich darauf spezialisiert hat, Organisationen dabei zu helfen, die transformative Kraft von KI-Technologien zu nutzen.
+
+Wir schlagen die Brücke zwischen modernster KI-Forschung und praktischen Geschäftsanwendungen.
+
+* * *
+
+## Warum Kineto.ai?
+
+### **Geschäftsorientierter Ansatz**
+
+Wir beginnen mit Ihren Geschäftsherausforderungen, nicht mit der Technologie. Wir arbeiten eng mit Ihrem Team zusammen, um Ihre spezifischen Bedürfnisse zu verstehen und KI-Lösungen zu entwickeln, die echten Geschäftswert schaffen.
+
+### **Bewährte Erfolgsbilanz**
+
+Unser Team hat erfolgreich KI-Lösungen in verschiedenen Branchen implementiert, von Start-ups bis hin zu Scale-ups und der Wissenschaft.
+
+### **Langfristige Partnerschaft**
+
+Wir implementieren nicht nur Lösungen und gehen. Wir bauen langfristige Partnerschaften mit unseren Kunden auf und bieten kontinuierliche Unterstützung, Optimierung und strategische Beratung, während sich ihre KI-Initiativen entwickeln.
+
+* * *
+
+## Unsere Expertise
+
+- Maschinelles Lernen
+- Computer Vision
+- Deep Learning
+- Natural Language Processing
+- Predictive Analytics
+- MLOps
+- Data Engineering
+- KI-Strategie & Governance
+
+* * *
+
+## Unsere Werte
+
+### **Kontinuierliche Weiterentwicklung**
+
+Das KI-Feld entwickelt sich schnell, und wir entwickeln uns mit. Unser Team aktualisiert kontinuierlich sein Wissen und seine Fähigkeiten, um Ihnen die neuesten KI-Innovationen und Best Practices zu bringen.
+
+### **Nachhaltige Innovation**
+
+Wir konzentrieren uns auf KI-Lösungen, die nicht nur Geschäftswert schaffen, sondern auch zu nachhaltigen Geschäftspraktiken und positiven gesellschaftlichen Auswirkungen beitragen.
+
+### **Datenschutz & Sicherheit**
+
+Datenschutz steht im Mittelpunkt von allem, was wir tun. Wir implementieren KI-Lösungen mit Privacy-by-Design-Prinzipien und gewährleisten vollständige Compliance mit deutschen und europäischen Datenschutzbestimmungen.
+
+### **Ethische KI**
+
+Wir verpflichten uns zur Entwicklung und Bereitstellung von KI-Systemen, die fair, transparent und verantwortlich sind. Wir helfen unseren Kunden bei der Navigation durch die ethischen Implikationen von KI und gewährleisten verantwortungsvolle KI-Praktiken.
+
+* * *
+
+## Kontaktaufnahme
+
+Bereit, Ihre KI-Reise zu beginnen? Wir würden gerne von Ihren Herausforderungen hören und erkunden, wie KI Ihrem Unternehmen zum Erfolg verhelfen kann.
+
+**[Kontaktieren Sie uns heute](https://www.kineto.ai/de/contact/)**, um eine Beratung zu vereinbaren.
+
+* * *
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## AI Solutions Categories
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Deep Learning Course Overview
+## NVIDIA DLI Grundlagen des Deep Learning
+
+Eine umfassende 8-stündige Schulung unter Anleitung eines Instruktors, die Teilnehmer in Deep Learning-Techniken einführt und sich auf Computer Vision und Natural Language Processing konzentriert. Lernen Sie grundlegende Deep Learning-Trainingstechniken mit PyTorch durch praktische Übungen mit dediziertem GPU-beschleunigtem Cloud-Server-Zugang.
+
+**Wichtige behandelte Themen:**
+
+- Mechanik des Deep Learning
+- Convolutional Neural Networks
+- Datenaugmentierungstechniken
+- Vortrainierte Modelle und Transfer Learning
+- Bildklassifikation
+
+**Lernziele:**
+
+- Grundlegende Deep Learning-Trainingstechniken lernen
+- Gängige Datentypen und Modellarchitekturen verstehen
+- Datensätze durch Datenaugmentierung verbessern
+- Transfer Learning zwischen Modellen nutzen, um effiziente Ergebnisse mit weniger Daten und Berechnung zu erzielen
+- Vertrauen in Deep Learning-Frameworks aufbauen
+
+**Voraussetzungen:**
+
+- Python 3 Programmiergrundlagen
+- Verständnis von Funktionen, Schleifen, Wörterbüchern, Arrays
+- Vertrautheit mit Pandas-Datenstrukturen
+- Grundlegendes Verständnis von Regressionslinien
+
+**Kurs-Features:**
+
+- Praktische Übungen mit realen Anwendungen
+- Fähigkeitsbasierte Coding-Bewertungen
+- NVIDIA DLI Zertifikat bei erfolgreichem Abschluss
+
+* * *
+
+## Kurs beinhaltet
+
+- Praktische Laborübungen
+- Branchenrelevante Projekte
+- Kompetenznachweis (nach Bestehen der bewerteten Prüfungen)
+- Zugang zu NVIDIA DLI vorkonfigurierten Computing-Umgebungen mit GPUs
+
+* * *
+
+## Erste Schritte
+
+Bereit, Ihre KI-Fähigkeiten zu erweitern? Kontaktieren Sie uns unter [info@kineto.ai](mailto:info@kineto.ai), um mehr über Kursverfügbarkeit, Terminplanung und Anmeldemöglichkeiten zu erfahren.
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Generative AI with Diffusion Models
+## NVIDIA DLI Generative KI mit Diffusion Models
+
+### Über diesen Kurs
+
+Dank Verbesserungen in der Rechenleistung und wissenschaftlichen Theorie ist generative KI zugänglicher als je zuvor. Generative KI spielt eine bedeutende Rolle in verschiedenen Branchen aufgrund ihrer zahlreichen Anwendungen, wie kreative Inhaltsgenerierung, Datenaugmentierung, Simulation und Planung, Anomalieerkennung, Medikamentenentdeckung, personalisierte Empfehlungen und mehr. In diesem Kurs tauchen die Lernenden tiefer in Denoising-Diffusion-Modelle ein, die eine beliebte Wahl für Text-zu-Bild-Pipelines sind.
+
+* * *
+
+### Lernziele
+
+- Ein U-Net erstellen, um Bilder aus reinem Rauschen zu generieren
+- Die Qualität generierter Bilder mit dem Denoising-Diffusion-Prozess verbessern
+- Die Bildausgabe mit Kontext-Embeddings kontrollieren
+- Bilder aus englischen Textprompts mit dem Contrastive Language—Image Pretraining (CLIP) neuronalen Netzwerk generieren
+
+* * *
+
+### Behandelte Themen
+
+- U-Nets
+- Diffusion
+- CLIP
+- Text-zu-Bild-Modelle
+
+* * *
+
+### Kursübersicht
+
+#### Von U-Net zu Diffusion
+
+- Eine U-Net-Architektur erstellen.
+- Ein Modell trainieren, um Rauschen aus einem Bild zu entfernen.
+
+#### Diffusion Models
+
+- Die Vorwärts-Diffusion-Funktion definieren.
+- Die U-Net-Architektur aktualisieren, um einen Zeitschritt zu berücksichtigen.
+- Eine Rückwärts-Diffusion-Funktion definieren.
+
+#### Optimierungen
+
+- Group Normalization implementieren.
+- GELU implementieren.
+- Rearrange Pooling implementieren.
+- Sinusoidale Position Embeddings implementieren.
+
+#### Classifier-Free Diffusion Guidance
+
+- Kategorische Embeddings zu einem U-Net hinzufügen.
+- Ein Modell mit einer Bernoulli-Maske trainieren.
+
+#### CLIP
+
+- Lernen, wie man CLIP-Encodings verwendet.
+- CLIP verwenden, um ein Text-zu-Bild neuronales Netzwerk zu erstellen.
+
+* * *
+
+## Kurs beinhaltet
+
+- Praktische Laborübungen
+- Branchenrelevante Projekte
+- Kompetenznachweis (nach Bestehen der bewerteten Prüfungen)
+- Zugang zu NVIDIA DLI vorkonfigurierten Computing-Umgebungen mit GPUs
+
+* * *
+
+## Erste Schritte
+
+Bereit, Ihre KI-Fähigkeiten zu erweitern? Kontaktieren Sie uns unter [info@kineto.ai](mailto:info@kineto.ai), um mehr über Kursverfügbarkeit, Terminplanung und Anmeldemöglichkeiten zu erfahren.
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## AI Training Courses
+## Professionelle KI-Schulungskurse
+
+Wir bieten branchenführende KI-Schulungskurse an, die vom NVIDIA Deep Learning Institute (DLI) unterstützt werden. Diese praktischen Kurse bieten praktische Erfahrungen mit den neuesten KI-Technologien und Frameworks.
+
+## Verfügbare Kurse
+
+### [Deep Learning](https://www.kineto.ai/de/courses/deep-learning/)
+
+NVIDIA DLI Grundlagen des Deep Learning - Eine umfassende 8-stündige Schulung unter Anleitung eines Instruktors, die Teilnehmer in Deep Learning-Techniken einführt und sich auf Computer Vision und Natural Language Processing konzentriert.
+
+### [Diffusion Models](https://www.kineto.ai/de/courses/diffusion-models/)
+
+NVIDIA DLI Generative KI mit Diffusion Models - Lernen Sie, generative KI-Systeme mit Denoising-Diffusion-Modellen für Text-zu-Bild-Pipelines zu erstellen.
+
+### [Multimodal Agents](https://www.kineto.ai/de/courses/multimodal-agents/)
+
+NVIDIA DLI KI-Agenten mit Multimodalen Modellen erstellen - Erstellen Sie neuronale Netzwerk-Agenten, die über mehrere Datentypen hinweg mit erweiterten Fusionstechniken und NVIDIA AI Blueprints argumentieren.
+
+### [Practical Computer Vision Bootcamp](https://www.kineto.ai/de/courses/practical-computer-vision-bootcamp/)
+
+Ein umfassendes, **kostenloses und Open-Source** Computer Vision Lernpfad von grundlegenden Konzepten bis zu fortgeschrittenen Anwendungen. Im Zusammenhang mit Workshops der Berlin Computer Vision Group.
+
+* * *
+
+## Alle Kurse beinhalten
+
+- Praktische Laborübungen
+- Branchenrelevante Projekte
+- Kompetenznachweis (nach Bestehen der bewerteten Prüfungen)
+- Zugang zu NVIDIA DLI vorkonfigurierten Computing-Umgebungen mit GPUs
+
+* * *
+
+## Erste Schritte
+
+Bereit, Ihre KI-Fähigkeiten zu erweitern? Kontaktieren Sie uns unter [info@kineto.ai](mailto:info@kineto.ai), um mehr über Kursverfügbarkeit, Terminplanung und Anmeldemöglichkeiten zu erfahren.
+
+[**Deep Learning**](https://www.kineto.ai/de/courses/deep-learning/)
+
+Gepostet am January 1, 0001
+\|  Antonio Rueda-Toicen
+• Andere Sprachen: [English](https://www.kineto.ai/courses/deep-learning/)
+
+## NVIDIA DLI Grundlagen des Deep Learning
+
+Eine umfassende 8-stündige Schulung unter Anleitung eines Instruktors, die Teilnehmer in Deep Learning-Techniken einführt und sich auf Computer Vision und Natural Language Processing konzentriert. Lernen Sie grundlegende Deep Learning-Trainingstechniken mit PyTorch durch praktische Übungen mit dediziertem GPU-beschleunigtem Cloud-Server-Zugang.
+
+**Wichtige behandelte Themen:**
+
+- Mechanik des Deep Learning
+- Convolutional Neural Networks
+- Datenaugmentierungstechniken
+- Vortrainierte Modelle und Transfer Learning
+- Bildklassifikation
+
+**Lernziele:**
+
+- Grundlegende Deep Learning-Trainingstechniken lernen
+- Gängige Datentypen und Modellarchitekturen verstehen
+- Datensätze durch Datenaugmentierung verbessern
+- Transfer Learning zwischen Modellen nutzen, um effiziente Ergebnisse mit weniger Daten und Berechnung zu erzielen
+- Vertrauen in Deep Learning-Frameworks aufbauen
+
+**Voraussetzungen:**
+
+[\[Mehr\]](https://www.kineto.ai/de/courses/deep-learning/)
+
+[**Diffusion Models**](https://www.kineto.ai/de/courses/diffusion-models/)
+
+Gepostet am January 1, 0001
+\|  Antonio Rueda-Toicen
+• Andere Sprachen: [English](https://www.kineto.ai/courses/diffusion-models/)
+
+## NVIDIA DLI Generative KI mit Diffusion Models
+
+### Über diesen Kurs
+
+Dank Verbesserungen in der Rechenleistung und wissenschaftlichen Theorie ist generative KI zugänglicher als je zuvor. Generative KI spielt eine bedeutende Rolle in verschiedenen Branchen aufgrund ihrer zahlreichen Anwendungen, wie kreative Inhaltsgenerierung, Datenaugmentierung, Simulation und Planung, Anomalieerkennung, Medikamentenentdeckung, personalisierte Empfehlungen und mehr. In diesem Kurs tauchen die Lernenden tiefer in Denoising-Diffusion-Modelle ein, die eine beliebte Wahl für Text-zu-Bild-Pipelines sind.
+
+* * *
+
+### Lernziele
+
+- Ein U-Net erstellen, um Bilder aus reinem Rauschen zu generieren
+- Die Qualität generierter Bilder mit dem Denoising-Diffusion-Prozess verbessern
+- Die Bildausgabe mit Kontext-Embeddings kontrollieren
+- Bilder aus englischen Textprompts mit dem Contrastive Language—Image Pretraining (CLIP) neuronalen Netzwerk generieren
+
+* * *
+
+### Behandelte Themen
+
+- U-Nets
+- Diffusion
+- CLIP
+- Text-zu-Bild-Modelle
+
+* * *
+
+### Kursübersicht
+
+#### Von U-Net zu Diffusion
+
+- Eine U-Net-Architektur erstellen.
+- Ein Modell trainieren, um Rauschen aus einem Bild zu entfernen.
+
+#### Diffusion Models
+
+- Die Vorwärts-Diffusion-Funktion definieren.
+- Die U-Net-Architektur aktualisieren, um einen Zeitschritt zu berücksichtigen.
+- Eine Rückwärts-Diffusion-Funktion definieren.
+
+#### Optimierungen
+
+- Group Normalization implementieren.
+- GELU implementieren.
+- Rearrange Pooling implementieren.
+- Sinusoidale Position Embeddings implementieren.
+
+#### Classifier-Free Diffusion Guidance
+
+- Kategorische Embeddings zu einem U-Net hinzufügen.
+- Ein Modell mit einer Bernoulli-Maske trainieren.
+
+#### CLIP
+
+- Lernen, wie man CLIP-Encodings verwendet.
+- CLIP verwenden, um ein Text-zu-Bild neuronales Netzwerk zu erstellen.
+
+* * *
+
+## Kurs beinhaltet
+
+- Praktische Laborübungen
+- Branchenrelevante Projekte
+- Kompetenznachweis (nach Bestehen der bewerteten Prüfungen)
+- Zugang zu NVIDIA DLI vorkonfigurierten Computing-Umgebungen mit GPUs
+
+* * *
+
+## Erste Schritte
+
+Bereit, Ihre KI-Fähigkeiten zu erweitern? Kontaktieren Sie uns unter [info@kineto.ai](mailto:info@kineto.ai), um mehr über Kursverfügbarkeit, Terminplanung und Anmeldemöglichkeiten zu erfahren.
+
+[\[Mehr\]](https://www.kineto.ai/de/courses/diffusion-models/)
+
+[**Multimodal Agents**](https://www.kineto.ai/de/courses/multimodal-agents/)
+
+Gepostet am January 1, 0001
+\|  Antonio Rueda-Toicen
+• Andere Sprachen: [English](https://www.kineto.ai/courses/multimodal-agents/)
+
+## NVIDIA DLI KI-Agenten mit Multimodalen Modellen erstellen
+
+## Über diesen Kurs
+
+Lernen Sie, wie man neuronale Netzwerk-Agenten erstellt, die über mehrere Datentypen hinweg mit erweiterten Fusionstechniken, OCR und NVIDIA AI Blueprints für reale Anwendungen wie Robotik und Videosuche und -zusammenfassung argumentieren.
+
+* * *
+
+## Lernziele
+
+In diesem Kurs lernen Sie über:
+
+- Verschiedene Datentypen und wie man sie neuronales-Netzwerk-bereit macht
+- Model Fusion und die Unterschiede zwischen früher, später und zwischenzeitlicher Fusion
+- PDF-Extraktion mit OCR
+- Den Unterschied zwischen Modalitäts- und Agenten-Orchestrierung
+- Anpassung von NVIDIA AI Blueprints mit Video Search and Summarization (VSS)
+
+* * *
+
+## Behandelte Themen
+
+- Beginn mit einem Robotik-Anwendungsfall, um zu zeigen, wie verschiedene Datentypen eine effektive neuronale-Netzwerk-Architektur beeinflussen.
+- Anwendung mathematischer Konzepte aus der Robotik auf Large Language Models (LLMs), um sie für nicht-sprachliche Dateneingabe zu modifizieren.
+- Ende mit Orchestrierung mehrerer Modelle, um Benutzeranfragen zu beantworten.
+
+* * *
+
+## Kursübersicht
+
+1. **Frühe und späte Fusion** (1 Std.)
+    [\[Mehr\]](https://www.kineto.ai/de/courses/multimodal-agents/)
+
+[**Practical Computer Vision Bootcamp**](https://www.kineto.ai/de/courses/practical-computer-vision-bootcamp/)
+
+Gepostet am January 1, 0001
+\|  Antonio Rueda-Toicen
+• Andere Sprachen: [English](https://www.kineto.ai/courses/practical-computer-vision-bootcamp/)
+
+## Practical Computer Vision Bootcamp
+
+Ein umfassender, **kostenloser und Open-Source** Computer Vision-Lernpfad von grundlegenden Konzepten bis zu fortgeschrittenen Anwendungen. Dieses praktische Bootcamp ist für Lernende verschiedener Fähigkeitsstufen konzipiert, von Anfängern bis zu Praktikern, mit Fokus auf praktische Implementierung durch Jupyter-Notebooks und reale Anwendungen.
+
+### Über diesen Kurs
+
+Dieses Bootcamp bietet eine strukturierte Lernerfahrung in Computer Vision und kombiniert theoretisches Verständnis mit praktischer Implementierung. Alle Materialien sind kostenlos auf [GitHub](https://github.com/andandandand/practical-computer-vision/tree/main) verfügbar und machen modernste Computer Vision-Bildung für alle zugänglich.
+
+[\[Mehr\]](https://www.kineto.ai/de/courses/practical-computer-vision-bootcamp/)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Multimodal Agents Course
+## NVIDIA DLI KI-Agenten mit Multimodalen Modellen erstellen
+
+## Über diesen Kurs
+
+Lernen Sie, wie man neuronale Netzwerk-Agenten erstellt, die über mehrere Datentypen hinweg mit erweiterten Fusionstechniken, OCR und NVIDIA AI Blueprints für reale Anwendungen wie Robotik und Videosuche und -zusammenfassung argumentieren.
+
+* * *
+
+## Lernziele
+
+In diesem Kurs lernen Sie über:
+
+- Verschiedene Datentypen und wie man sie neuronales-Netzwerk-bereit macht
+- Model Fusion und die Unterschiede zwischen früher, später und zwischenzeitlicher Fusion
+- PDF-Extraktion mit OCR
+- Den Unterschied zwischen Modalitäts- und Agenten-Orchestrierung
+- Anpassung von NVIDIA AI Blueprints mit Video Search and Summarization (VSS)
+
+* * *
+
+## Behandelte Themen
+
+- Beginn mit einem Robotik-Anwendungsfall, um zu zeigen, wie verschiedene Datentypen eine effektive neuronale-Netzwerk-Architektur beeinflussen.
+- Anwendung mathematischer Konzepte aus der Robotik auf Large Language Models (LLMs), um sie für nicht-sprachliche Dateneingabe zu modifizieren.
+- Ende mit Orchestrierung mehrerer Modelle, um Benutzeranfragen zu beantworten.
+
+* * *
+
+## Kursübersicht
+
+1. **Frühe und späte Fusion** (1 Std.)
+
+   - Verwenden Sie Kamera- und LiDAR-Daten, um Objektpositionen vorherzusagen.
+   - Verschiedene Datentypen konvertieren, um sie neuronales-Netzwerk-bereit zu machen.
+2. **Zwischenzeitliche Fusion** (1 Std.)
+
+   - Die Theorie hinter effektiver multimodaler Modellarchitektur erkunden.
+   - Ein Contrastive Pretraining-Modell trainieren.
+   - Eine Vektordatenbank erstellen.
+3. **Cross-modale Projektion** (2 Std.)
+
+   - Ein Sprachmodell in ein Vision Language Model (VLM) umwandeln.
+   - PDFs mit Optical Character Recognition (OCR) Tools verarbeiten.
+4. **Modell-Orchestrierung** (2 Std.)
+
+   - Video mit Cosmos Nemotron analysieren.
+   - VSS verwenden, um Benutzeranfragen über Videoinhalte zu beantworten.
+   - Mit NVIDIA AI Blueprints orchestrieren.
+5. **Bewertung** (1 Std.)
+
+   - Ein vortrainiertes Modell konvertieren, um einen anderen Datentyp mittels Projektion einzugeben.
+
+* * *
+
+## Kurs beinhaltet
+
+- Praktische Laborübungen
+- Branchenrelevante Projekte
+- Kompetenznachweis (nach Bestehen der bewerteten Prüfungen)
+- Zugang zu NVIDIA DLI vorkonfigurierten Computing-Umgebungen mit GPUs
+
+* * *
+
+## Erste Schritte
+
+Bereit, Ihre KI-Fähigkeiten zu erweitern? Kontaktieren Sie uns unter [info@kineto.ai](mailto:info@kineto.ai), um mehr über Kursverfügbarkeit, Terminplanung und Anmeldemöglichkeiten zu erfahren.
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Practical Computer Vision Bootcamp
+## Practical Computer Vision Bootcamp
+
+Ein umfassender, **kostenloser und Open-Source** Computer Vision-Lernpfad von grundlegenden Konzepten bis zu fortgeschrittenen Anwendungen. Dieses praktische Bootcamp ist für Lernende verschiedener Fähigkeitsstufen konzipiert, von Anfängern bis zu Praktikern, mit Fokus auf praktische Implementierung durch Jupyter-Notebooks und reale Anwendungen.
+
+### Über diesen Kurs
+
+Dieses Bootcamp bietet eine strukturierte Lernerfahrung in Computer Vision und kombiniert theoretisches Verständnis mit praktischer Implementierung. Alle Materialien sind kostenlos auf [GitHub](https://github.com/andandandand/practical-computer-vision/tree/main) verfügbar und machen modernste Computer Vision-Bildung für alle zugänglich.
+
+**Kurs-Highlights:**
+
+- **100% Kostenlos und Open Source** \- Alle Materialien auf GitHub verfügbar
+- Interaktive Jupyter-Notebooks mit praktischen Übungen
+- Mehrere Plattform-Unterstützung (Google Colab, Kaggle)
+- Begleitende YouTube-Video-Serie
+- Community-Discord-Kanal für Unterstützung
+- Im Zusammenhang mit Workshops der [Berlin Computer Vision Group](https://www.meetup.com/de-DE/berlin-computer-vision-group/)
+
+* * *
+
+### Lernmodule
+
+#### 1\. Grundlagen
+
+- Digitale Bilddarstellung und -verarbeitung
+- Grundlegende Bildmanipulationstechniken
+- Verständnis von Pixeldaten und Bildformaten
+
+#### 2\. Grundlagen neuronaler Netzwerke
+
+- Multilayer Perceptron (MLP) für bildbasierte Regression
+- Matrixmultiplikation und Netzwerkarchitektur
+- Verständnis der Mechanik neuronaler Netzwerke
+
+#### 3\. Convolutional Neural Networks (CNNs)
+
+- LeNet5-Implementierung von Grund auf
+- Ziffererkennungsprojekte
+- Dropout-Visualisierung und Regularisierungstechniken
+
+#### 4\. Erweiterte Klassifikation & Transfer Learning
+
+- Haustierbrasseklassifikation mit realen Datensätzen
+- Vortrainierte ResNet-Modelle und Feinabstimmung
+- Multilabel-Klassifikationstechniken
+- Modellinterpretierbarkeit und Visualisierungsmethoden
+
+#### 5\. Bild-Embeddings & Ähnlichkeit
+
+- Verständnis hochdimensionaler Bilddarstellungen
+- Visualisierungstechniken für Embeddings
+- Clustering und Organisation von Bilddatensätzen
+
+#### 6\. Spezialisierte fortgeschrittene Themen
+
+- **Bildsegmentierung** mit U-Net-Architektur
+- **Zero-Shot Learning** mit CLIP-Modellen
+- **Generative Modelle** einschließlich Diffusion und Stable Diffusion
+
+* * *
+
+### Technologie-Stack
+
+- **PyTorch** \- Primäres Deep Learning-Framework
+- **FiftyOne** \- Datensatz-Visualisierung und -Verwaltung
+- **TensorBoard** \- Trainingsüberwachung und -visualisierung
+- **scikit-learn** \- Traditionelle maschinelle Lernwerkzeuge
+- **Jupyter Notebooks** \- Interaktive Lernumgebung
+
+* * *
+
+### Lernressourcen
+
+- **Interaktive Notebooks** mit vollständigen Implementierungen
+- **Video-Tutorials** zur Erklärung wichtiger Konzepte
+- **Wiederholungsfragen** zur Lernverstärkung
+- **Community-Unterstützung** durch Discord-Kanal
+- **Strukturierter Kurs** auf der openHPI-Plattform verfügbar
+
+* * *
+
+### Verbindung zur Berlin Computer Vision Group
+
+Dieses Bootcamp steht in engem Zusammenhang mit Workshops der [Berlin Computer Vision Group](https://www.meetup.com/de-DE/berlin-computer-vision-group/), einer lebendigen Gemeinschaft von Computer Vision-Praktikern, Forschern und Enthusiasten in Berlin. Die Gruppe veranstaltet regelmäßig Meetups, Workshops und Networking-Events zu den neuesten Entwicklungen in Computer Vision und maschinellem Lernen.
+
+* * *
+
+### Kurs-Features
+
+- **Praktisches Lernen** mit realen Projekten
+- **Progressive Schwierigkeit** von Grundlagen zu fortgeschrittenen Themen
+- **Open Source-Verpflichtung** \- frei für alle verfügbar
+- **Community-getrieben** mit aktiven Support-Kanälen
+- **Branchenrelevante** Techniken und Anwendungen
+- **Mehrere Lernformate** \- Notebooks, Videos und interaktive Sessions
+
+* * *
+
+## Erste Schritte
+
+Bereit, in praktische Computer Vision einzutauchen? Dieser Kurs ist komplett **kostenlos und Open Source**.
+
+- **GitHub Repository:** [https://github.com/andandandand/practical-computer-vision](https://github.com/andandandand/practical-computer-vision/tree/main)
+- **Berlin Computer Vision Group:** [https://www.meetup.com/de-DE/berlin-computer-vision-group/](https://www.meetup.com/de-DE/berlin-computer-vision-group/)
+
+Kontaktieren Sie uns unter [info@kineto.ai](mailto:info@kineto.ai) für weitere Informationen über verwandte Workshops und Schulungsmöglichkeiten.
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
+## Page Not Found
+# \\(^Д^)/
+
+Whoops, this page doesn't exist. Move along. (404 error)
+
+This website uses cookies to provide you with the best possible user experience. By continuing to use this website, you consent to the use of cookies. [Privacy Policy](https://www.kineto.ai/privacy/)
+
+Deutsch
+
+Accept
+
