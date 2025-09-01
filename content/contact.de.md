@@ -79,13 +79,39 @@ Bringt über 12 Jahre Erfahrung in der Entwicklung, Forschung, Schulung und Gesc
 
 ## Schnelles Kontaktformular
 
-Für sofortige Hilfe senden Sie uns bitte eine E-Mail an **contact@kineto.ai** mit den folgenden Informationen:
+**Starten Sie noch heute Ihre KI-Reise!** Füllen Sie unser sicheres Kontaktformular aus, und wir antworten Ihnen innerhalb von 24 Stunden während der Geschäftstage.
 
-- Ihr Name und Unternehmen
-- Kurze Beschreibung Ihrer KI-Interessen oder Herausforderungen
-- Bevorzugte Kontaktmethode und -zeit
-- Eventuelle spezifische Fragen oder Anforderungen
+<div class="contact-form-container" style="background: #f8f9fa; padding: 30px; border-radius: 8px; border-left: 4px solid #007bff; margin: 20px 0;">
 
-Wir antworten normalerweise innerhalb von 24 Stunden während der Geschäftstage.
+### Kontaktformular
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScGNg9_example_form_id_here_de/viewform?embedded=true" 
+        width="100%" 
+        height="800" 
+        frameborder="0" 
+        marginheight="0" 
+        marginwidth="0"
+        style="border-radius: 4px;">
+Kontaktformular wird geladen...
+</iframe>
+
+</div>
+
+### Alternative Kontaktmöglichkeiten
+
+**E-Mail:** contact@kineto.ai  
+**Telefon:** +49(0)179 571 78 63
+
+### Datenschutz & Datensicherheit
+
+🔒 **Ihr Datenschutz ist uns wichtig.** Alle über dieses Formular übermittelten Informationen werden in Übereinstimmung mit der Datenschutz-Grundverordnung (DSGVO) und unserer umfassenden [Datenschutzerklärung](/datenschutz/) verarbeitet.
+
+**Wichtige Datenschutz-Highlights:**
+- ✅ Sichere Datenspeicherung in der EU über Google Workspace
+- ✅ Ausschließliche Verwendung zur Beantwortung Ihrer Anfrage
+- ✅ Keine Weitergabe an Dritte ohne Ihre Einwilligung
+- ✅ Sie können jederzeit eine Löschung beantragen
+
+Detaillierte Informationen über den Umgang mit Ihren Daten bei der Verwendung von Google Forms finden Sie in unserer [Datenschutzerklärung](/datenschutz/) und unserem [Impressum](/impressum.de/).
 
 ---

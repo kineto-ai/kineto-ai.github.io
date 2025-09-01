@@ -79,14 +79,40 @@ Brings over 12 years of experience in artificial intelligence development, resea
 
 ## Quick Contact Form
 
-For immediate assistance, please email us at **contact@kineto.ai** with the following information:
+**Get started with your AI journey today!** Complete our secure contact form below, and we'll respond within 24 hours during business days.
 
-- Your name and company
-- Brief description of your AI interests or challenges
-- Preferred contact method and time
-- Any specific questions or requirements
+<div class="contact-form-container" style="background: #f8f9fa; padding: 30px; border-radius: 8px; border-left: 4px solid #007bff; margin: 20px 0;">
 
-We typically respond within 24 hours during business days.
+### Contact Form
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScGNg9_example_form_id_here/viewform?embedded=true" 
+        width="100%" 
+        height="800" 
+        frameborder="0" 
+        marginheight="0" 
+        marginwidth="0"
+        style="border-radius: 4px;">
+Loading contact form...
+</iframe>
+
+</div>
+
+### Alternative Contact Methods
+
+**Email:** contact@kineto.ai  
+**Phone:** +49(0)179 571 78 63
+
+### Privacy & Data Protection
+
+🔒 **Your privacy is important to us.** All information submitted through this form is processed in accordance with the General Data Protection Regulation (GDPR) and our comprehensive [Privacy Policy](/privacy-policy.en/). 
+
+**Key privacy highlights:**
+- ✅ Data stored securely within the EU via Google Workspace
+- ✅ Used exclusively for responding to your inquiry  
+- ✅ No sharing with third parties without your consent
+- ✅ You can request deletion at any time
+
+For detailed information about how we handle your data when using Google Forms, please see our [Privacy Policy](/privacy-policy.en/) and [Legal Notice](/impressum.en/).
 
 ---
 
