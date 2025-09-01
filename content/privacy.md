@@ -92,7 +92,11 @@ Wir verwenden Slack (Slack Technologies, LLC, 500 Howard Street, San Francisco, 
 
 Diese Website verlinkt zu unserem LinkedIn-Profil (https://www.linkedin.com/company/kineto-ai). LinkedIn Corporation fungiert als eigenständiger Verantwortlicher und verarbeitet IP-Adressen, Referrer-Informationen und Nutzungsdaten. Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse). Weitere Informationen: https://de.linkedin.com/legal/privacy-policy
 
-## 8. Ihre Rechte
+## 8. Google Forms
+
+Wir verwenden Google Forms (Google LLC, USA) für Kontaktformulare und Umfragen. Google fungiert als Auftragsverarbeiter mit Google Workspace DPA und Standardvertragsklauseln. Verarbeitete Daten: Formularantworten, E-Mail-Adressen, technische Daten. Rechtsgrundlage: Art. 6 Abs. 1 lit. b und f DSGVO. EU-Datenresidenz konfiguriert. Weitere Informationen: https://policies.google.com/privacy
+
+## 9. Ihre Rechte
 
 Sie haben jederzeit das Recht:
 - Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten und deren Verarbeitung zu verlangen
@@ -130,6 +134,9 @@ We use Slack (Slack Technologies, LLC, San Francisco, CA, USA) for business comm
 
 ### LinkedIn Integration
 This website links to our LinkedIn profile (https://www.linkedin.com/company/kineto-ai). LinkedIn Corporation operates as independent data controller processing IP addresses, referrer information, and usage data. Legal basis: Art. 6 para. 1 lit. f GDPR (legitimate interest). More information: https://www.linkedin.com/legal/privacy-policy
+
+### Google Forms
+We use Google Forms (Google LLC, USA) for contact forms and surveys. Google acts as data processor with Google Workspace DPA and standard contractual clauses. Processed data: form responses, email addresses, technical data. Legal basis: Art. 6 para. 1 lit. b and f GDPR. EU data residency configured. More information: https://policies.google.com/privacy
 
 ### Your Rights
 You have the right to access, rectify, delete, restrict processing, object to processing, and data portability regarding your personal data.

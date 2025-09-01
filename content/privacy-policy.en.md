@@ -133,6 +133,46 @@ The LinkedIn integration is based on our legitimate interest in maintaining a pr
 
 You have the right to object to data processing by LinkedIn. Information about LinkedIn's data processing practices can be found in LinkedIn's Privacy Policy: https://www.linkedin.com/legal/privacy-policy
 
+## Google Forms for Surveys and Inquiries
+
+We use Google Forms (provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) for contact forms, surveys, course registrations, and customer inquiries.
+
+### Data Processing by Google Forms
+
+When you use our Google Forms, the following data is processed:
+- Form responses and submitted content
+- Email addresses and contact information
+- Names and personal information as provided in forms
+- Technical data (IP address, browser information, timestamps)
+
+### Legal Basis
+
+Processing is carried out for the performance of contracts or pre-contractual measures (Art. 6 para. 1 lit. b GDPR) and based on our legitimate interest in efficiently handling inquiries and providing our services (Art. 6 para. 1 lit. f GDPR).
+
+### Data Processing Agreement and International Transfers
+
+Google acts as a data processor pursuant to Art. 28 GDPR. We have concluded the Google Workspace Cloud Data Processing Addendum (DPA) with Google, which includes standard contractual clauses for international data transfers. Data is stored on Google servers within the EU where appropriate data residency settings are configured.
+
+### Data Security and Retention
+
+Google implements technical, organizational and physical measures to protect customer data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access.
+
+Form responses are stored according to our business requirements and legal retention obligations. You may request deletion of your data at any time.
+
+### Your Rights Regarding Google Forms
+
+You have the right to:
+- Request access to your data stored in Google Forms
+- Request correction of inaccurate data
+- Request deletion of your data
+- Request restriction of processing
+- Object to data processing
+- Request data portability
+
+### Further Information
+
+For more information about Google's data protection practices, please see Google's Privacy Policy: https://policies.google.com/privacy and the Google Workspace Privacy Notice: https://workspace.google.com/terms/2013_1/privacy_notice.html
+
 ## Your Rights
 
 You have the right at any time to:

@@ -64,6 +64,14 @@ Ihre Kommunikation über Slack wird auf der Rechtsgrundlage der Vertragserfüllu
 
 ______
 
+**Kontaktformulare über Google Forms**
+
+Wir verwenden Google Forms (Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) für Kontaktformulare, Umfragen und Kursanmeldungen. Wenn Sie unsere Google Forms verwenden, werden Ihre Eingaben, E-Mail-Adressen und technische Daten gemäß unserem Google Workspace Cloud Data Processing Addendum (DPA) verarbeitet, der Standardvertragsklauseln für internationale Datenübertragungen nach DSGVO Art. 28 enthält.
+
+Die Verarbeitung erfolgt auf der Rechtsgrundlage der Vertragserfüllung (Art. 6 Abs. 1 lit. b DSGVO) und unserer berechtigten Geschäftsinteressen (Art. 6 Abs. 1 lit. f DSGVO). Die Daten werden in der EU gespeichert, sofern entsprechende Datenresidenz-Einstellungen konfiguriert sind. Bei Fragen zum Datenschutz in Verbindung mit Google Forms wenden Sie sich bitte an: contact@kineto.ai
+
+______
+
 ## Haftungsausschluss
 
 **Haftung für Inhalte**

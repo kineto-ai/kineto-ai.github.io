@@ -130,7 +130,47 @@ Die LinkedIn-Integration basiert auf unserem berechtigten Interesse an einer pro
 
 Sie haben das Recht, der Datenverarbeitung durch LinkedIn zu widersprechen. Informationen über LinkedIns Datenverarbeitungspraktiken finden Sie in der LinkedIn-Datenschutzrichtlinie: https://de.linkedin.com/legal/privacy-policy
 
-## 8. Ihre Rechte
+## 8. Google Forms für Umfragen und Anfragen
+
+Wir verwenden Google Forms (bereitgestellt von Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) für Kontaktformulare, Umfragen, Kursanmeldungen und Kundenanfragen.
+
+### Datenverarbeitung durch Google Forms
+
+Wenn Sie unsere Google Forms verwenden, werden folgende Daten verarbeitet:
+- Formularantworten und eingegebene Inhalte
+- E-Mail-Adressen und Kontaktdaten
+- Namen und persönliche Informationen gemäß Formular
+- Technische Daten (IP-Adresse, Browser-Informationen, Zeitstempel)
+
+### Rechtsgrundlage
+
+Die Verarbeitung erfolgt zur Erfüllung von Verträgen bzw. zur Durchführung vorvertraglicher Maßnahmen (Art. 6 Abs. 1 lit. b DSGVO) und aufgrund unseres berechtigten Interesses an der effizienten Bearbeitung von Anfragen und der Bereitstellung unserer Dienstleistungen (Art. 6 Abs. 1 lit. f DSGVO).
+
+### Auftragsverarbeitung und internationale Datenübertragung
+
+Google fungiert als Auftragsverarbeiter nach Art. 28 DSGVO. Wir haben mit Google den Google Workspace Cloud Data Processing Addendum (DPA) abgeschlossen, der Standardvertragsklauseln für internationale Datenübertragungen enthält. Die Daten werden auf Google-Servern in der EU gespeichert, sofern entsprechende Datenresidenz-Einstellungen konfiguriert sind.
+
+### Datensicherheit und Speicherdauer
+
+Google implementiert technische, organisatorische und physische Maßnahmen zum Schutz der Kundendaten vor versehentlicher oder unrechtmäßiger Zerstörung, Verlust, Veränderung, unbefugter Offenlegung oder Zugriff.
+
+Formularantworten werden entsprechend unseren Geschäftsanforderungen und gesetzlichen Aufbewahrungspflichten gespeichert. Sie können jederzeit die Löschung Ihrer Daten beantragen.
+
+### Ihre Rechte bezüglich Google Forms
+
+Sie haben das Recht:
+- Auskunft über Ihre in Google Forms gespeicherten Daten zu verlangen
+- Berichtigung unrichtiger Daten zu verlangen
+- Löschung Ihrer Daten zu beantragen
+- Einschränkung der Verarbeitung zu verlangen
+- Widerspruch gegen die Verarbeitung zu erheben
+- Datenübertragbarkeit zu verlangen
+
+### Weitere Informationen
+
+Weitere Informationen zum Datenschutz bei Google finden Sie in der Google-Datenschutzerklärung: https://policies.google.com/privacy und in der Google Workspace-Datenschutzerklärung: https://workspace.google.com/terms/2013_1/privacy_notice.html
+
+## 9. Ihre Rechte
 
 Sie haben jederzeit das Recht:
 - Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten und deren Verarbeitung zu verlangen

@@ -67,6 +67,14 @@ Your communication via Slack is processed on the legal basis of contract perform
 
 ______
 
+**Contact Forms via Google Forms**
+
+We use Google Forms (Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) for contact forms, surveys, and course registrations. When you use our Google Forms, your submissions, email addresses, and technical data are processed according to our Google Workspace Cloud Data Processing Addendum (DPA), which includes standard contractual clauses for international data transfers under GDPR Article 28.
+
+Processing is carried out on the legal basis of contract performance (Art. 6 para. 1 lit. b GDPR) and our legitimate business interests (Art. 6 para. 1 lit. f GDPR). Data is stored within the EU where appropriate data residency settings are configured. For questions regarding data protection in connection with Google Forms, please contact: contact@kineto.ai
+
+______
+
 ## Exclusion of Liability
 
 **Liability for Content**
