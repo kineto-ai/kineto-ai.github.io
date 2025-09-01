@@ -85,7 +85,7 @@ Brings over 12 years of experience in artificial intelligence development, resea
 
 ### Contact Form
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScGNg9_example_form_id_here/viewform?embedded=true" 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfs6-59Pson5OK_vshTM2cgcqxzov9bMetep-DwIHdNPLPIAg/viewform?embedded=true" 
         width="100%" 
         height="800" 
         frameborder="0" 
@@ -104,13 +104,7 @@ Loading contact form...
 
 ### Privacy & Data Protection
 
-🔒 **Your privacy is important to us.** All information submitted through this form is processed in accordance with the General Data Protection Regulation (GDPR) and our comprehensive [Privacy Policy](/privacy-policy.en/). 
-
-**Key privacy highlights:**
-- ✅ Data stored securely within the EU via Google Workspace
-- ✅ Used exclusively for responding to your inquiry  
-- ✅ No sharing with third parties without your consent
-- ✅ You can request deletion at any time
+**Your privacy is important to us.** All information submitted through this form is processed in accordance with the General Data Protection Regulation (GDPR) and our comprehensive [Privacy Policy](/privacy-policy.en/). 
 
 For detailed information about how we handle your data when using Google Forms, please see our [Privacy Policy](/privacy-policy.en/) and [Legal Notice](/impressum.en/).
 
