@@ -29,6 +29,33 @@ Eintragung im Handelsregister.
 Registergericht: Amtsgericht Charlottenburg  
 Registernummer: HRB 271436 B
 
+## Soziale Medien / Social Media Integration
+
+**LinkedIn-Integration**
+
+Diese Website enthält eine Verlinkung zu unserem LinkedIn-Unternehmensprofil (https://www.linkedin.com/company/kineto-ai). Wenn Sie auf das LinkedIn-Icon klicken oder unser LinkedIn-Profil besuchen, werden Sie zu den Servern von LinkedIn weitergeleitet.
+
+**Datenverarbeitung durch LinkedIn**
+
+Die LinkedIn Corporation, 1000 W Maude Ave, Sunnyvale, CA 94085, USA, fungiert als eigenständiger Verantwortlicher für die Datenverarbeitung. Wenn Sie mit LinkedIn-Inhalten interagieren oder LinkedIn über unsere Website besuchen, kann LinkedIn folgende Daten erfassen und verarbeiten:
+
+- IP-Adresse und technische Informationen (Browser-Typ, Betriebssystem)
+- Referrer-Informationen (von welcher Website Sie gekommen sind)
+- Nutzungsmuster und Interaktionsdaten
+- Cookie- und Tracking-Daten gemäß LinkedIn-Datenschutzrichtlinie
+
+**Rechtsgrundlage**
+
+Die Einbindung von LinkedIn-Inhalten basiert auf unserem berechtigten Interesse an der Aufrechterhaltung einer professionellen Social-Media-Präsenz und der Ermöglichung für Nutzer, sich mit unserem Unternehmen zu vernetzen (Art. 6 Abs. 1 lit. f DSGVO).
+
+**Ihre Rechte**
+
+Sie haben das Recht, der Verarbeitung Ihrer Daten durch LinkedIn zu widersprechen. Informationen über LinkedIns Datenverarbeitungspraktiken und zur Ausübung Ihrer Rechte bezüglich Ihrer LinkedIn-Daten finden Sie in LinkedIns Datenschutzrichtlinie: https://de.linkedin.com/legal/privacy-policy
+
+Bei Fragen zum Datenschutz in Verbindung mit unserer LinkedIn-Integration wenden Sie sich bitte an: contact@kineto.ai
+
+______
+
 ## Haftungsausschluss
 
 **Haftung für Inhalte**

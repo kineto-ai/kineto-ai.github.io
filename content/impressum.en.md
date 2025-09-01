@@ -32,6 +32,33 @@ Registration in the Commercial Register.
 Register Court: Amtsgericht Charlottenburg  
 Registration Number: HRB 271436 B
 
+## Social Media Integration
+
+**LinkedIn Integration**
+
+This website includes a link to our LinkedIn company profile (https://www.linkedin.com/company/kineto-ai). When you click on the LinkedIn icon or visit our LinkedIn profile, you will be redirected to LinkedIn's servers.
+
+**Data Processing by LinkedIn**
+
+LinkedIn Corporation, 1000 W Maude Ave, Sunnyvale, CA 94085, USA, operates as an independent data controller. When you interact with LinkedIn content or visit LinkedIn through our website, LinkedIn may collect and process the following data:
+
+- IP address and technical information (browser type, operating system)
+- Referrer information (which website you came from)
+- Usage patterns and interaction data
+- Cookie and tracking data according to LinkedIn's privacy policy
+
+**Legal Basis**
+
+The integration of LinkedIn content is based on our legitimate interest in maintaining a professional social media presence and enabling users to connect with our company (Art. 6 para. 1 lit. f GDPR).
+
+**Your Rights**
+
+You have the right to object to the processing of your data by LinkedIn. For information about LinkedIn's data processing practices and to exercise your rights regarding your LinkedIn data, please refer to LinkedIn's Privacy Policy: https://www.linkedin.com/legal/privacy-policy
+
+For questions regarding data protection in connection with our LinkedIn integration, please contact: contact@kineto.ai
+
+______
+
 ## Exclusion of Liability
 
 **Liability for Content**
